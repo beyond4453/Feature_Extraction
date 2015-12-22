@@ -1,0 +1,10 @@
+
+INSTRUCTION :
+
+	1. run the load.py 
+
+	2. cd to the dir LDA, run contact.py , it will generate the LDA_SOURCE.txt
+
+	3. USE LDA package analysis LDA_SOURCE.txt to generate Topic Features.
+
+	
