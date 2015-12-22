@@ -1,6 +1,6 @@
 
-1. remove stop words
+1. run the process.py to remove stop words
 
 2. union the same words
 
-3.
+3. run the contact.py to contact files
