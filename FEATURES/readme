@@ -17,8 +17,9 @@
 # f12 : number of people helped
 # f13 : number of doctor recommend
 # f14 : total length of the recommends 
-# f15 : question-answer overlap
 
+# f15 : number of question_content answer_content overlap
+# f16 : number of user_interest question_content overlap
+# f17 : number of user_interest answer_content overlap
 
-
-
+# Topic features : 20 topics

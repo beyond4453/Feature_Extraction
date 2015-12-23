@@ -1,6 +1,6 @@
 
 	run the overlap.py to generate overlap files && features 
 
-	# f15 : number of answer_content overlap
-	# f16 : number of question_content overlap
-	# f17 : number of user_interest overlap
+	# f15 : number of answer_question overlap
+	# f16 : number of question_user_interest overlap
+	# f17 : number of user_interest_answer overlap
