@@ -1,0 +1,3340 @@
+0,ent and head and neck surgery
+1,fertility medicine
+2,ent and head and neck surgery
+3,pediatrics
+4,family medicine
+5,dentistry
+6,addiction medicine
+7,aesthetic medicine
+8,cardiology
+9,infectious disease
+10,psychiatry
+11,diagnostic radiology
+12,medical oncology
+13,dentistry
+14,geriatric psychiatry
+15,dentistry
+16,developmental and behavioral pediatrics
+17,rheumatology
+18,pain management
+19,dentistry
+20,nan
+21,family medicine
+22,radiology
+23,psychiatry
+24,dentistry
+25,family medicine
+26,pediatric urology
+27,dentistry
+28,psychiatry
+29,plastic surgery
+30,pain management
+31,gynecology
+32,addiction medicine
+33,podiatry
+34,pain management
+35,psychiatry
+36,general practice
+37,psychiatry
+38,family medicine
+39,allergy and immunology
+40,internal medicine
+41,geriatrics
+42,family medicine
+43,ophthalmology
+44,obstetrics and gynecology
+45,pediatrics
+46,dentistry
+47,medical oncology
+48,infectious disease
+49,ent and head and neck surgery
+50,dentistry
+51,obstetrics and gynecology
+52,medical oncology
+53,family medicine
+54,dentistry
+55,rheumatology
+56,family medicine
+57,internal medicine
+58,orthodontics
+59,pediatrics
+60,urogynecology
+61,facial plastic surgery
+62,family medicine
+63,rheumatology
+64,family medicine
+65,psychiatry
+66,pain management
+67,physical medicine and rehabilitation
+68,family medicine
+69,endodontics
+70,geriatrics
+71,family medicine
+72,allergy and immunology
+73,endodontics
+74,podiatry
+75,family medicine
+76,internal medicine
+77,emergency medicine
+78,orthodontics
+79,cardiology
+80,neurology
+81,family medicine
+82,family medicine
+83,neurology
+84,urology
+85,pain management
+86,family medicine
+87,general surgery
+88,general practice
+89,psychiatry
+90,pathology
+91,pathology
+92,family medicine
+93,cardiology
+94,obstetrics and gynecology
+95,pathology
+96,general surgery
+97,internal medicine
+98,oral and maxillofacial surgery
+99,family medicine
+100,diagnostic radiology
+101,allergy and immunology
+102,internal medicine
+103,infectious disease
+104,anesthesiology
+105,cardiology
+106,ent and head and neck surgery
+107,neurology
+108,dentistry
+109,general surgery
+110,internal medicine
+111,family medicine
+112,ent and head and neck surgery
+113,diagnostic radiology
+114,urology
+115,dentistry
+116,obstetrics and gynecology
+117,pediatrics
+118,internal medicine
+119,hospitalbased practice
+120,infectious disease
+121,family medicine
+122,pain management
+123,oral and maxillofacial surgery
+124,pathology
+125,medical oncology
+126,internal medicine
+127,pain management
+128,neurology
+129,cardiology
+130,family medicine
+131,nan
+132,pain management
+133,surgical oncology
+134,family medicine
+135,general surgery
+136,pediatrics
+137,orthodontics
+138,psychiatry
+139,pathology
+140,internal medicine
+141,family medicine
+142,family medicine
+143,internal medicine
+144,pain management
+145,internal medicine
+146,dentistry
+147,psychiatry
+148,psychiatry
+149,family medicine
+150,ophthalmology
+151,oral and maxillofacial surgery
+152,psychiatry
+153,gynecology
+154,pediatrics
+155,dentistry
+156,rheumatology
+157,family medicine
+158,general practice
+159,psychiatry
+160,dentistry
+161,dermatology
+162,internal medicine
+163,pathology
+164,neurology
+165,facial plastic surgery
+166,radiology
+167,medical oncology
+168,dentistry
+169,ent and head and neck surgery
+170,family medicine
+171,pediatrics
+172,gynecology
+173,orthodontics
+174,family medicine
+175,general practice
+176,family medicine
+177,internal medicine
+178,neurology
+179,pediatrics
+180,internal medicine
+181,nan
+182,internal medicine
+183,family medicine
+184,obstetrics and gynecology
+185,anesthesiology
+186,internal medicine
+187,internal medicine
+188,dentistry
+189,nan
+190,family medicine
+191,urgent care
+192,ent and head and neck surgery
+193,pediatrics
+194,urology
+195,allergy and immunology
+196,family medicine
+197,urgent care
+198,pediatrics
+199,pediatric emergency medicine
+200,internal medicine
+201,internal medicine
+202,anesthesiology
+203,family medicine
+204,family medicine
+205,psychiatry
+206,internal medicine
+207,internal medicine
+208,urgent care
+209,obstetrics and gynecology
+210,pediatrics
+211,pathology
+212,neurology
+213,internal medicine
+214,pediatrics
+215,family medicine
+216,rheumatology
+217,pediatric emergency medicine
+218,family medicine
+219,plastic surgery
+220,general surgery
+221,radiation oncology
+222,family medicine
+223,pain management
+224,obstetrics and gynecology
+225,breast surgery
+226,pain management
+227,internal medicine
+228,internal medicine
+229,urgent care
+230,internal medicine
+231,pediatrics
+232,pediatrics
+233,orthodontics
+234,family medicine
+235,maternalfetal medicine
+236,neurology
+237,family medicine
+238,allergy and immunology
+239,dermatology
+240,infectious disease
+241,pediatrics
+242,general practice
+243,internal medicine
+244,pain management
+245,pain management
+246,internal medicine
+247,internal medicine
+248,internal medicine
+249,internal medicine
+250,family medicine
+251,family medicine
+252,pediatrics
+253,family medicine
+254,psychiatry
+255,internal medicine
+256,internal medicine
+257,family medicine
+258,family medicine
+259,dentistry
+260,infectious disease
+261,general surgery
+262,oral and maxillofacial surgery
+263,clinical psychology
+264,endodontics
+265,pathology
+266,dermatology
+267,dentistry
+268,psychiatry
+269,internal medicine
+270,neurology
+271,medical oncology
+272,internal medicine
+273,diagnostic radiology
+274,internal medicine
+275,cardiology
+276,psychiatry
+277,general surgery
+278,surgical oncology
+279,breast surgery
+280,emergency medicine
+281,ent and head and neck surgery
+282,radiology
+283,facial plastic surgery
+284,pediatrics
+285,orthopedic surgery
+286,nephrology and dialysis
+287,internal medicine
+288,family medicine
+289,breast surgery
+290,nan
+291,psychiatry
+292,hand surgery
+293,family medicine
+294,sports medicine
+295,anesthesiology
+296,plastic surgery
+297,hand surgery
+298,obstetrics and gynecology
+299,radiation oncology
+300,pain management
+301,oral and maxillofacial surgery
+302,podiatry
+303,gynecology
+304,orthopedic reconstructive surgery
+305,thoracic surgery
+306,radiology
+307,obstetrics and gynecology
+308,gynecology
+309,endodontics
+310,family medicine
+311,family medicine
+312,surgical oncology
+313,family medicine
+314,obstetrics and gynecology
+315,dentistry
+316,orthopedic spine surgery
+317,psychiatry
+318,pulmonary critical care
+319,dermatology
+320,dentistry
+321,obstetrics and gynecology
+322,dentistry
+323,dentistry
+324,obstetrics and gynecology
+325,family medicine
+326,gynecology
+327,dentistry
+328,dentistry
+329,pediatric allergy and asthma
+330,hospitalbased practice
+331,dentistry
+332,sports medicine
+333,general surgery
+334,family medicine
+335,pulmonary critical care
+336,pathology
+337,psychiatry
+338,dentistry
+339,hematology and oncology
+340,family medicine
+341,obstetrics and gynecology
+342,wound care
+343,surgical oncology
+344,radiation oncology
+345,sports medicine
+346,pediatrics
+347,podiatry
+348,pain management
+349,pain management
+350,pulmonary critical care
+351,podiatry
+352,anesthesiology
+353,medical oncology
+354,dentistry
+355,nan
+356,neurosurgery
+357,podiatry
+358,diagnostic radiology
+359,podiatry
+360,neurology
+361,podiatry
+362,gastroenterology
+363,vascular surgery
+364,gastroenterology
+365,infectious disease
+366,plastic surgery
+367,sports medicine
+368,dentistry
+369,trauma surgery
+370,dentistry
+371,gastroenterology
+372,internal medicine
+373,family medicine
+374,neurosurgery
+375,obstetrics and gynecology
+376,radiology
+377,family medicine
+378,podiatry
+379,dentistry
+380,general practice
+381,dentistry
+382,family medicine
+383,family medicine
+384,radiology
+385,family medicine
+386,oral and maxillofacial surgery
+387,allergy and immunology
+388,family medicine
+389,physical medicine and rehabilitation
+390,breast surgery
+391,nan
+392,orthopedic surgery
+393,orthopedic surgery
+394,pathology
+395,obstetrics and gynecology
+396,internal medicine
+397,internal medicine
+398,internal medicine
+399,pulmonology
+400,ent and head and neck surgery
+401,podiatry
+402,breast surgery
+403,surgical oncology
+404,preventive medicine
+405,emergency medicine
+406,allergy and immunology
+407,orthodontics
+408,family medicine
+409,cosmetic surgery
+410,general surgery
+411,nephrology and dialysis
+412,facial plastic surgery
+413,aesthetic medicine
+414,podiatry
+415,radiology
+416,pediatric neurology
+417,ophthalmology
+418,nan
+419,allergy and immunology
+420,ophthalmology
+421,cardiology
+422,dermatology
+423,pediatrics
+424,orthodontics
+425,family medicine
+426,radiation oncology
+427,medical oncology
+428,radiology
+429,emergency medicine
+430,dentistry
+431,orthodontics
+432,radiation oncology
+433,pediatric pulmonology
+434,endodontics
+435,thoracic surgery
+436,plastic surgery
+437,dentistry
+438,psychiatry
+439,dentistry
+440,psychiatry
+441,general surgery
+442,dentistry
+443,general surgery
+444,medical oncology
+445,family medicine
+446,orthodontics
+447,psychiatry
+448,podiatry
+449,podiatry
+450,periodontics
+451,dentistry
+452,endodontics
+453,psychiatry
+454,psychiatry
+455,orthopedic surgery
+456,dentistry
+457,podiatry
+458,podiatry
+459,dentistry
+460,orthopedic surgery
+461,surgical oncology
+462,infectious disease
+463,internal medicine
+464,pathology
+465,psychiatry
+466,anesthesiology
+467,gynecology
+468,pediatrics
+469,surgical oncology
+470,pathology
+471,hematology
+472,thoracic surgery
+473,colon and rectal surgery
+474,dentistry
+475,dentistry
+476,family medicine
+477,orthopedic spine surgery
+478,rheumatology
+479,radiation oncology
+480,oral and maxillofacial surgery
+481,internal medicine
+482,fertility medicine
+483,obstetrics and gynecology
+484,dentistry
+485,general surgery
+486,general surgery
+487,obstetrics and gynecology
+488,dentistry
+489,hematology and oncology
+490,general surgery
+491,oral and maxillofacial surgery
+492,surgical oncology
+493,radiation oncology
+494,ent and head and neck surgery
+495,sports medicine
+496,dentistry
+497,internal medicine
+498,neurology
+499,internal medicine
+500,cosmetic dentistry
+501,surgical oncology
+502,dentistry
+503,plastic surgery
+504,pain management
+505,dentistry
+506,dentistry
+507,infectious disease
+508,fertility medicine
+509,sports medicine
+510,rheumatology
+511,allergy and immunology
+512,plastic surgery
+513,pediatrics
+514,pathology
+515,wound care
+516,bariatrics
+517,general surgery
+518,family medicine
+519,dentistry
+520,radiation oncology
+521,radiology
+522,family medicine
+523,internal medicine and pediatrics
+524,cosmetic surgery
+525,podiatry
+526,pathology
+527,family medicine
+528,breast surgery
+529,neurosurgery
+530,podiatry
+531,ophthalmology
+532,neurosurgery
+533,psychiatry
+534,general surgery
+535,diagnostic radiology
+536,urology
+537,nuclear medicine
+538,obstetrics and gynecology
+539,family medicine
+540,plastic surgery
+541,dentistry
+542,sports medicine
+543,pathology
+544,podiatry
+545,pain management
+546,orthopedic surgery
+547,pediatrics
+548,dermatology
+549,hematology and oncology
+550,dentistry
+551,prosthodontics
+552,internal medicine
+553,dentistry
+554,internal medicine
+555,neurosurgery
+556,podiatry
+557,podiatry
+558,general surgery
+559,cardiology
+560,allergy and immunology
+561,radiation oncology
+562,diagnostic radiology
+563,family medicine
+564,general surgery
+565,general surgery
+566,gastroenterology
+567,psychiatry
+568,podiatry
+569,developmental and behavioral pediatrics
+570,plastic surgery
+571,radiology
+572,nuclear medicine
+573,internal medicine
+574,internal medicine
+575,obstetrics and gynecology
+576,plastic surgery
+577,dermatology
+578,pediatrics
+579,cardiology
+580,rheumatology
+581,surgical oncology
+582,general surgery
+583,family medicine
+584,colon and rectal surgery
+585,family medicine
+586,dentistry
+587,pulmonary critical care
+588,radiology
+589,oral and maxillofacial surgery
+590,pediatric dentistry
+591,pediatrics
+592,allergy and immunology
+593,internal medicine
+594,family medicine
+595,dentistry
+596,internal medicine
+597,general practice
+598,pediatrics
+599,obstetrics and gynecology
+600,neurology
+601,dentistry
+602,pain management
+603,internal medicine
+604,allergy and immunology
+605,internal medicine
+606,general practice
+607,family medicine
+608,pain management
+609,internal medicine
+610,orthodontics
+611,internal medicine
+612,internal medicine
+613,dentistry
+614,family medicine
+615,cardiology
+616,family medicine
+617,internal medicine
+618,internal medicine
+619,family medicine
+620,internal medicine
+621,pediatric critical care
+622,obstetrics and gynecology
+623,neurosurgery
+624,dermatology
+625,allergy and immunology
+626,podiatry
+627,rheumatology
+628,orthopedic surgery
+629,internal medicine
+630,emergency medicine
+631,dentistry
+632,oral and maxillofacial surgery
+633,internal medicine
+634,family medicine
+635,family medicine
+636,clinical psychology
+637,psychiatry
+638,pathology
+639,prosthodontics
+640,pediatric pulmonology
+641,orthopedic surgery
+642,pediatrics
+643,pediatric pulmonology
+644,family medicine
+645,pain management
+646,dentistry
+647,pediatrics
+648,occupational medicine
+649,pediatrics
+650,orthodontics
+651,orthopedic surgery
+652,infectious disease
+653,pediatrics
+654,dentistry
+655,pathology
+656,dentistry
+657,neurology
+658,internal medicine
+659,dentistry
+660,pain management
+661,facial plastic surgery
+662,pain management
+663,sports medicine
+664,surgical oncology
+665,surgical oncology
+666,general surgery
+667,dentistry
+668,plastic surgery
+669,cardiology
+670,podiatry
+671,internal medicine
+672,internal medicine
+673,dermatology
+674,surgical oncology
+675,cardiology
+676,podiatry
+677,podiatry
+678,pain management
+679,sports medicine
+680,nan
+681,internal medicine
+682,breast surgery
+683,gynecology
+684,clinical lipidology
+685,plastic surgery
+686,anesthesiology
+687,pediatrics
+688,neurosurgery
+689,internal medicine
+690,obstetrics and gynecology
+691,podiatry
+692,interventional radiology
+693,hematology and oncology
+694,plastic surgery
+695,family medicine
+696,pediatrics
+697,dentistry
+698,gynecology
+699,pediatrics
+700,general surgery
+701,general surgery
+702,dentistry
+703,dentistry
+704,medical oncology
+705,endodontics
+706,plastic surgery
+707,family medicine
+708,obstetrics and gynecology
+709,family medicine
+710,pulmonary critical care
+711,dentistry
+712,obstetrics and gynecology
+713,family medicine
+714,pediatrics
+715,orthodontics
+716,podiatry
+717,orthopedic surgery
+718,dermatology
+719,clinical psychology
+720,general surgery
+721,neurosurgery
+722,psychiatry
+723,general surgery
+724,podiatry
+725,dentistry
+726,general practice
+727,neurology
+728,gastroenterology
+729,rheumatology
+730,podiatry
+731,obstetrics and gynecology
+732,pediatrics
+733,family medicine
+734,dentistry
+735,child psychiatry
+736,preventive medicine
+737,plastic surgery
+738,pain management
+739,cosmetic dentistry
+740,neurosurgery
+741,general surgery
+742,surgical oncology
+743,obstetrics and gynecology
+744,hand surgery
+745,oral and maxillofacial surgery
+746,interventional radiology
+747,orthopedic foot and ankle surgery
+748,hand surgery
+749,neurology
+750,cosmetic surgery
+751,general surgery
+752,radiology
+753,internal medicine and pediatrics
+754,clinical psychology
+755,general surgery
+756,dentistry
+757,infectious disease
+758,general surgery
+759,plastic surgery
+760,clinical genetics
+761,psychiatry
+762,family medicine
+763,family medicine
+764,family medicine
+765,emergency medicine
+766,oral and maxillofacial surgery
+767,neurosurgery
+768,cardiology
+769,pain management
+770,dentistry
+771,cardiology
+772,breast surgery
+773,cosmetic surgery
+774,dentistry
+775,family medicine
+776,pathology
+777,dermatology
+778,internal medicine
+779,geriatrics
+780,neurosurgery
+781,dermatology
+782,pediatric hematology and oncology
+783,general surgery
+784,internal medicine
+785,podiatry
+786,anesthesiology
+787,gastroenterology
+788,obstetrics and gynecology
+789,dermatology
+790,rheumatology
+791,podiatry
+792,sports medicine
+793,podiatry
+794,hematology and oncology
+795,ent and head and neck surgery
+796,internal medicine
+797,internal medicine
+798,family medicine
+799,psychiatry
+800,psychiatry
+801,pathology
+802,oral and maxillofacial surgery
+803,infectious disease
+804,hematology and oncology
+805,rheumatology
+806,family medicine
+807,ent and head and neck surgery
+808,internal medicine
+809,family medicine
+810,orthopedic surgery
+811,urgent care
+812,pain management
+813,ent and head and neck surgery
+814,obstetrics and gynecology
+815,podiatry
+816,cardiology
+817,dentistry
+818,hand surgery
+819,psychiatry
+820,anesthesiology
+821,podiatry
+822,internal medicine
+823,dentistry
+824,dentistry
+825,neurosurgery
+826,hematology and oncology
+827,radiation oncology
+828,dentistry
+829,dentistry
+830,nan
+831,nan
+832,prosthodontics
+833,cardiology
+834,medical oncology
+835,internal medicine
+836,endocrinology
+837,neurology
+838,general surgery
+839,dentistry
+840,medical oncology
+841,dentistry
+842,pain management
+843,interventional radiology
+844,hematology and oncology
+845,general surgery
+846,neurosurgery
+847,dentistry
+848,family medicine
+849,orthodontics
+850,dentistry
+851,internal medicine
+852,obstetrics and gynecology
+853,hematology and oncology
+854,orthopedic foot and ankle surgery
+855,infectious disease
+856,radiology
+857,pediatric endocrinology
+858,oral and maxillofacial surgery
+859,hematology and oncology
+860,radiology
+861,medical oncology
+862,hematology and oncology
+863,dentistry
+864,orthodontics
+865,oral and maxillofacial surgery
+866,radiology
+867,psychiatry
+868,rheumatology
+869,prosthodontics
+870,dentistry
+871,colon and rectal surgery
+872,pediatric pulmonology
+873,pediatric hematology and oncology
+874,nan
+875,podiatry
+876,internal medicine
+877,pain management
+878,dentistry
+879,podiatry
+880,dentistry
+881,clinical psychology
+882,internal medicine
+883,pediatrics
+884,infectious disease
+885,general surgery
+886,oral and maxillofacial surgery
+887,dentistry
+888,pathology
+889,orthopedic surgery
+890,cosmetic dentistry
+891,psychiatry
+892,dentistry
+893,orthodontics
+894,internal medicine
+895,orthodontics
+896,psychiatry
+897,emergency medicine
+898,general surgery
+899,orthopedic surgery
+900,dentistry
+901,neurology
+902,urology
+903,pain management
+904,general surgery
+905,dentistry
+906,obstetrics and gynecology
+907,psychiatry
+908,diagnostic radiology
+909,pain management
+910,pathology
+911,clinical psychology
+912,hematology and oncology
+913,psychiatry
+914,family medicine
+915,rheumatology
+916,pain management
+917,nan
+918,nan
+919,family medicine
+920,internal medicine
+921,psychiatry
+922,dentistry
+923,physical medicine and rehabilitation
+924,pathology
+925,pediatrics
+926,nan
+927,neurology
+928,general surgery
+929,family medicine
+930,ophthalmology
+931,general surgery
+932,dentistry
+933,clinical psychology
+934,orthopedic surgery
+935,neurology
+936,family medicine
+937,family medicine
+938,dentistry
+939,pain management
+940,ophthalmology
+941,dentistry
+942,pain management
+943,endodontics
+944,allergy and immunology
+945,general practice
+946,pain management
+947,family medicine
+948,psychiatry
+949,pain management
+950,pediatrics
+951,pulmonary critical care
+952,general practice
+953,neurology
+954,dentistry
+955,geriatrics
+956,urology
+957,breast surgery
+958,ophthalmology
+959,family medicine
+960,internal medicine
+961,internal medicine
+962,ent and head and neck surgery
+963,podiatry
+964,oral and maxillofacial surgery
+965,infectious disease
+966,general practice
+967,oral and maxillofacial surgery
+968,rheumatology
+969,internal medicine and pediatrics
+970,emergency medicine
+971,nuclear medicine
+972,pain management
+973,pain management
+974,neurology
+975,pain management
+976,pediatrics
+977,internal medicine
+978,pain management
+979,dentistry
+980,medical oncology
+981,family medicine
+982,rheumatology
+983,family medicine
+984,cosmetic dentistry
+985,podiatry
+986,neurology
+987,pathology
+988,neurology
+989,geriatrics
+990,pulmonary critical care
+991,pain management
+992,general practice
+993,dentistry
+994,addiction medicine
+995,general surgery
+996,diagnostic radiology
+997,pediatrics
+998,neurology
+999,pathology
+1000,rheumatology
+1001,family medicine
+1002,neurology
+1003,dentistry
+1004,family medicine
+1005,pain management
+1006,dentistry
+1007,internal medicine
+1008,family medicine
+1009,general practice
+1010,dentistry
+1011,internal medicine
+1012,pain management
+1013,pain management
+1014,family medicine
+1015,colon and rectal surgery
+1016,family medicine
+1017,family medicine
+1018,podiatry
+1019,pain management
+1020,psychiatry
+1021,psychiatry
+1022,general practice
+1023,internal medicine
+1024,radiation oncology
+1025,family medicine
+1026,orthodontics
+1027,general practice
+1028,pain management
+1029,neurosurgery
+1030,family medicine
+1031,obstetrics and gynecology
+1032,dentistry
+1033,facial plastic surgery
+1034,internal medicine
+1035,dentistry
+1036,pediatrics
+1037,internal medicine
+1038,rheumatology
+1039,obstetrics and gynecology
+1040,internal medicine
+1041,pediatrics
+1042,ent and head and neck surgery
+1043,pediatrics
+1044,family medicine
+1045,ent and head and neck surgery
+1046,dentistry
+1047,family medicine
+1048,ophthalmology
+1049,ophthalmology
+1050,internal medicine
+1051,obstetrics and gynecology
+1052,pediatrics
+1053,internal medicine
+1054,internal medicine
+1055,internal medicine
+1056,emergency medicine
+1057,neurosurgery
+1058,internal medicine
+1059,pediatrics
+1060,internal medicine
+1061,allergy and immunology
+1062,psychiatry
+1063,internal medicine
+1064,internal medicine
+1065,pediatrics
+1066,nan
+1067,pediatrics
+1068,adhd and autism
+1069,internal medicine
+1070,pediatric neurology
+1071,general surgery
+1072,emergency medicine
+1073,pediatrics
+1074,urgent care
+1075,pain management
+1076,allergy and immunology
+1077,breast surgery
+1078,family medicine
+1079,surgical oncology
+1080,urgent care
+1081,internal medicine
+1082,general surgery
+1083,internal medicine
+1084,family medicine
+1085,dentistry
+1086,pain management
+1087,internal medicine
+1088,ophthalmology
+1089,diagnostic radiology
+1090,family medicine
+1091,general practice
+1092,neurology
+1093,family medicine
+1094,internal medicine
+1095,internal medicine
+1096,rheumatology
+1097,emergency medicine
+1098,neurosurgery
+1099,emergency medicine
+1100,infectious disease
+1101,breast surgery
+1102,internal medicine
+1103,pediatrics
+1104,urology
+1105,psychiatry
+1106,internal medicine
+1107,internal medicine
+1108,pain management
+1109,internal medicine
+1110,family medicine
+1111,pain management
+1112,orthodontics
+1113,pediatrics
+1114,internal medicine
+1115,psychiatry
+1116,family medicine
+1117,general surgery
+1118,pediatrics
+1119,family medicine
+1120,family medicine
+1121,endocrinology
+1122,cardiology
+1123,pain management
+1124,dentistry
+1125,dentistry
+1126,family medicine
+1127,family medicine
+1128,pediatrics
+1129,pediatrics
+1130,periodontics
+1131,internal medicine
+1132,family medicine
+1133,integrative medicine
+1134,orthopedic spine surgery
+1135,internal medicine
+1136,obstetrics and gynecology
+1137,internal medicine
+1138,pediatrics
+1139,internal medicine
+1140,psychiatry
+1141,pain management
+1142,radiation oncology
+1143,internal medicine
+1144,psychiatry
+1145,internal medicine
+1146,dentistry
+1147,family medicine
+1148,diagnostic radiology
+1149,dentistry
+1150,family medicine
+1151,oral and maxillofacial surgery
+1152,obstetrics and gynecology
+1153,clinical psychology
+1154,podiatry
+1155,oral and maxillofacial surgery
+1156,pathology
+1157,dentistry
+1158,pediatrics
+1159,hematology and oncology
+1160,internal medicine
+1161,family medicine
+1162,pediatrics
+1163,orthodontics
+1164,family medicine
+1165,orthopedic spine surgery
+1166,dentistry
+1167,dentistry
+1168,dentistry
+1169,pediatrics
+1170,psychiatry
+1171,pediatrics
+1172,obstetrics and gynecology
+1173,dentistry
+1174,pain management
+1175,psychiatry
+1176,psychiatry
+1177,orthopedic surgery
+1178,orthopedic spine surgery
+1179,child psychiatry
+1180,neurology
+1181,ent and head and neck surgery
+1182,pediatrics
+1183,dentistry
+1184,psychiatry
+1185,pediatrics
+1186,podiatry
+1187,oral and maxillofacial surgery
+1188,family medicine
+1189,podiatry
+1190,general practice
+1191,dentistry
+1192,podiatry
+1193,general surgery
+1194,psychiatry
+1195,general surgery
+1196,diagnostic radiology
+1197,internal medicine
+1198,orthopedic spine surgery
+1199,pain management
+1200,family medicine
+1201,ent and head and neck surgery
+1202,oral and maxillofacial surgery
+1203,gastroenterology
+1204,dentistry
+1205,ophthalmology
+1206,podiatry
+1207,oral and maxillofacial surgery
+1208,oral and maxillofacial surgery
+1209,dentistry
+1210,podiatry
+1211,family medicine
+1212,orthopedic spine surgery
+1213,dentistry
+1214,dentistry
+1215,podiatry
+1216,physical medicine and rehabilitation
+1217,cardiology
+1218,podiatry
+1219,family medicine
+1220,pulmonary critical care
+1221,endodontics
+1222,podiatry
+1223,dermatology
+1224,obstetrics and gynecology
+1225,orthopedic spine surgery
+1226,oral and maxillofacial surgery
+1227,nuclear medicine
+1228,ophthalmology
+1229,psychiatry
+1230,psychiatry
+1231,psychiatry
+1232,anesthesiology
+1233,orthopedic spine surgery
+1234,infectious disease
+1235,dentistry
+1236,pediatric surgery
+1237,thoracic surgery
+1238,dentistry
+1239,general surgery
+1240,podiatry
+1241,podiatry
+1242,medical oncology
+1243,dentistry
+1244,nuclear medicine
+1245,orthopedic spine surgery
+1246,pathology
+1247,diagnostic radiology
+1248,family medicine
+1249,dentistry
+1250,radiology
+1251,dentistry
+1252,infectious disease
+1253,gastroenterology
+1254,interventional radiology
+1255,lasik surgery
+1256,pediatrics
+1257,podiatry
+1258,family medicine
+1259,pediatric dentistry
+1260,pediatrics
+1261,dentistry
+1262,family medicine
+1263,diagnostic radiology
+1264,dermatology
+1265,orthopedic foot and ankle surgery
+1266,oral and maxillofacial surgery
+1267,neurology
+1268,oral and maxillofacial surgery
+1269,lasik surgery
+1270,dentistry
+1271,orthopedic surgery
+1272,orthopedic surgery
+1273,dentistry
+1274,family medicine
+1275,podiatry
+1276,oral and maxillofacial surgery
+1277,pathology
+1278,obstetrics and gynecology
+1279,neurosurgery
+1280,plastic surgery
+1281,internal medicine
+1282,plastic surgery
+1283,obstetrics and gynecology
+1284,dermatology
+1285,prosthodontics
+1286,pediatrics
+1287,hand surgery
+1288,neurology
+1289,dentistry
+1290,geriatric psychiatry
+1291,radiation oncology
+1292,radiation oncology
+1293,dentistry
+1294,radiology
+1295,hematology and oncology
+1296,psychiatry
+1297,orthodontics
+1298,dentistry
+1299,radiation oncology
+1300,dentistry
+1301,pulmonary critical care
+1302,general surgery
+1303,endocrinology
+1304,prosthodontics
+1305,pediatrics
+1306,oral and maxillofacial surgery
+1307,dermatology
+1308,dentistry
+1309,dentistry
+1310,general surgery
+1311,orthodontics
+1312,cosmetic dentistry
+1313,prosthodontics
+1314,oral and maxillofacial surgery
+1315,dentistry
+1316,ent and head and neck surgery
+1317,podiatry
+1318,dentistry
+1319,cosmetic dentistry
+1320,addiction medicine
+1321,internal medicine
+1322,neurosurgery
+1323,oral and maxillofacial surgery
+1324,dentistry
+1325,cosmetic dentistry
+1326,diagnostic radiology
+1327,prosthodontics
+1328,psychiatry
+1329,clinical psychology
+1330,general surgery
+1331,ophthalmology
+1332,periodontics
+1333,dentistry
+1334,plastic surgery
+1335,obstetrics and gynecology
+1336,cosmetic dentistry
+1337,sports medicine
+1338,internal medicine
+1339,orthopedic spine surgery
+1340,pediatric neurology
+1341,dentistry
+1342,pathology
+1343,dentistry
+1344,surgical oncology
+1345,cardiology
+1346,dentistry
+1347,dentistry
+1348,internal medicine
+1349,psychiatry
+1350,dermatology
+1351,ophthalmology
+1352,orthodontics
+1353,dentistry
+1354,neurology
+1355,dentistry
+1356,dentistry
+1357,dentistry
+1358,dentistry
+1359,radiology
+1360,radiology
+1361,orthopedic spine surgery
+1362,phlebology
+1363,neurology
+1364,ophthalmology
+1365,pediatric dentistry
+1366,cosmetic dentistry
+1367,general surgery
+1368,prosthodontics
+1369,pediatric dentistry
+1370,pathology
+1371,pediatric neurology
+1372,breast surgery
+1373,dentistry
+1374,general surgery
+1375,oral and maxillofacial surgery
+1376,endodontics
+1377,psychiatry
+1378,dentistry
+1379,dermatology
+1380,ent and head and neck surgery
+1381,family medicine
+1382,dentistry
+1383,neurology
+1384,urgent care
+1385,radiology
+1386,vascular surgery
+1387,pain management
+1388,dentistry
+1389,dentistry
+1390,pain management
+1391,pain management
+1392,dentistry
+1393,cardiology
+1394,dentistry
+1395,pulmonary critical care
+1396,podiatry
+1397,allergy and immunology
+1398,neurology
+1399,phlebology
+1400,podiatry
+1401,dentistry
+1402,thoracic surgery
+1403,breast surgery
+1404,infectious disease
+1405,nan
+1406,obstetrics and gynecology
+1407,ent and head and neck surgery
+1408,rheumatology
+1409,dentistry
+1410,breast surgery
+1411,developmental and behavioral pediatrics
+1412,sports medicine
+1413,pathology
+1414,podiatry
+1415,child psychiatry
+1416,dentistry
+1417,dentistry
+1418,retinal surgery
+1419,internal medicine
+1420,dentistry
+1421,endodontics
+1422,endocrinology
+1423,child psychiatry
+1424,diagnostic radiology
+1425,general surgery
+1426,obstetrics and gynecology
+1427,endocrinology
+1428,periodontics
+1429,pathology
+1430,pediatrics
+1431,radiation oncology
+1432,dentistry
+1433,prosthodontics
+1434,ophthalmology
+1435,radiology
+1436,ent and head and neck surgery
+1437,surgical oncology
+1438,dentistry
+1439,wound care
+1440,general surgery
+1441,oral and maxillofacial surgery
+1442,dentistry
+1443,hematology and oncology
+1444,allergy and immunology
+1445,plastic surgery
+1446,obstetrics and gynecology
+1447,nan
+1448,plastic surgery
+1449,pathology
+1450,internal medicine
+1451,internal medicine
+1452,pathology
+1453,pediatric hematology and oncology
+1454,physical medicine and rehabilitation
+1455,geriatrics
+1456,infectious disease
+1457,pain management
+1458,pediatrics
+1459,podiatry
+1460,family medicine
+1461,internal medicine
+1462,pulmonary critical care
+1463,pediatrics
+1464,dentistry
+1465,dentistry
+1466,dentistry
+1467,dentistry
+1468,family medicine
+1469,general surgery
+1470,allergy and immunology
+1471,pain management
+1472,family medicine
+1473,pediatric pulmonology
+1474,prosthodontics
+1475,psychiatry
+1476,dentistry
+1477,family medicine
+1478,pain management
+1479,geriatrics
+1480,family medicine
+1481,psychiatry
+1482,internal medicine
+1483,facial plastic surgery
+1484,internal medicine
+1485,aesthetic medicine
+1486,psychiatry
+1487,neurology
+1488,pain management
+1489,geriatrics
+1490,pain management
+1491,pain management
+1492,dentistry
+1493,psychiatry
+1494,pediatric neurology
+1495,psychiatry
+1496,pain management
+1497,pain management
+1498,internal medicine
+1499,dentistry
+1500,emergency medicine
+1501,pain management
+1502,endocrinology
+1503,podiatry
+1504,internal medicine
+1505,podiatry
+1506,pediatrics
+1507,orthopedic surgery
+1508,dentistry
+1509,pain management
+1510,oral and maxillofacial surgery
+1511,pediatrics
+1512,internal medicine
+1513,allergy and immunology
+1514,pathology
+1515,general surgery
+1516,psychiatry
+1517,podiatry
+1518,family medicine
+1519,anesthesiology
+1520,pediatric pulmonology
+1521,orthodontics
+1522,family medicine
+1523,dentistry
+1524,dermatology
+1525,pain management
+1526,ophthalmology
+1527,dentistry
+1528,dentistry
+1529,physical medicine and rehabilitation
+1530,pediatrics
+1531,pain management
+1532,dentistry
+1533,periodontics
+1534,ophthalmology
+1535,radiology
+1536,orthodontics
+1537,pain management
+1538,pain management
+1539,hematology and oncology
+1540,dentistry
+1541,dentistry
+1542,general surgery
+1543,pain management
+1544,maternalfetal medicine
+1545,urology
+1546,hand surgery
+1547,cardiology
+1548,pediatrics
+1549,podiatry
+1550,neurology
+1551,neurology
+1552,neurology
+1553,podiatry
+1554,dentistry
+1555,orthopedic surgery
+1556,nan
+1557,holistic medicine
+1558,maternalfetal medicine
+1559,family medicine
+1560,general surgery
+1561,hematology and oncology
+1562,dentistry
+1563,anesthesiology
+1564,neurosurgery
+1565,internal medicine
+1566,orthopedic spine surgery
+1567,internal medicine
+1568,sleep medicine
+1569,pediatric allergy and asthma
+1570,psychiatry
+1571,pain management
+1572,dentistry
+1573,breast surgery
+1574,dentistry
+1575,pediatrics
+1576,neurosurgery
+1577,pathology
+1578,dentistry
+1579,family medicine
+1580,pediatrics
+1581,family medicine
+1582,pain management
+1583,infectious disease
+1584,dentistry
+1585,podiatry
+1586,obstetrics and gynecology
+1587,orthopedic surgery
+1588,family medicine
+1589,pain management
+1590,dentistry
+1591,dentistry
+1592,clinical psychology
+1593,pulmonary critical care
+1594,physical medicine and rehabilitation
+1595,family medicine
+1596,hospitalbased practice
+1597,radiology
+1598,general surgery
+1599,podiatry
+1600,dentistry
+1601,cosmetic dentistry
+1602,dentistry
+1603,pediatric dentistry
+1604,infectious disease
+1605,geriatrics
+1606,rheumatology
+1607,oral and maxillofacial surgery
+1608,anesthesiology
+1609,dentistry
+1610,family medicine
+1611,obstetrics and gynecology
+1612,pediatric pulmonology
+1613,family medicine
+1614,breast surgery
+1615,pediatrics
+1616,podiatry
+1617,dentistry
+1618,pain management
+1619,neurology
+1620,dentistry
+1621,pediatrics
+1622,integrative medicine
+1623,family medicine
+1624,neurology
+1625,psychiatry
+1626,adolescent medicine
+1627,internal medicine
+1628,radiology
+1629,pediatric neurology
+1630,internal medicine
+1631,dentistry
+1632,family medicine
+1633,internal medicine
+1634,pediatrics
+1635,rheumatology
+1636,internal medicine
+1637,family medicine
+1638,internal medicine
+1639,periodontics
+1640,geriatrics
+1641,plastic surgery
+1642,orthopedic surgery
+1643,family medicine
+1644,internal medicine
+1645,neurosurgery
+1646,dentistry
+1647,allergy and immunology
+1648,anesthesiology
+1649,pediatric neurology
+1650,neurosurgery
+1651,pain management
+1652,neurology
+1653,internal medicine
+1654,general surgery
+1655,ent and head and neck surgery
+1656,pain management
+1657,orthopedic surgery
+1658,family medicine
+1659,dentistry
+1660,gastroenterology
+1661,family medicine
+1662,family medicine
+1663,ophthalmology
+1664,ent and head and neck surgery
+1665,podiatry
+1666,ophthalmology
+1667,pediatrics
+1668,psychiatry
+1669,allergy and immunology
+1670,aesthetic medicine
+1671,psychiatry
+1672,pediatric cardiology
+1673,obstetrics and gynecology
+1674,pathology
+1675,endodontics
+1676,internal medicine
+1677,internal medicine
+1678,neurology
+1679,podiatry
+1680,neurology
+1681,ent and head and neck surgery
+1682,diagnostic radiology
+1683,fertility medicine
+1684,diagnostic radiology
+1685,geriatrics
+1686,addiction medicine
+1687,interventional radiology
+1688,family medicine
+1689,ophthalmology
+1690,gynecology
+1691,prosthodontics
+1692,orthopedic foot and ankle surgery
+1693,dentistry
+1694,radiation oncology
+1695,orthopedic foot and ankle surgery
+1696,hematology and oncology
+1697,infectious disease
+1698,nuclear medicine
+1699,general practice
+1700,psychiatry
+1701,internal medicine
+1702,internal medicine
+1703,family medicine
+1704,ophthalmology
+1705,family medicine
+1706,internal medicine
+1707,ophthalmology
+1708,hand surgery
+1709,ent and head and neck surgery
+1710,psychiatry
+1711,cardiology
+1712,pathology
+1713,general practice
+1714,hospitalbased practice
+1715,dentistry
+1716,pediatric dentistry
+1717,hematology and oncology
+1718,urology
+1719,pain management
+1720,gastroenterology
+1721,internal medicine
+1722,ophthalmology
+1723,orthodontics
+1724,pediatric neurology
+1725,allergy and immunology
+1726,internal medicine
+1727,nan
+1728,neurosurgery
+1729,emergency medicine
+1730,interventional radiology
+1731,pulmonary critical care
+1732,podiatry
+1733,obstetrics and gynecology
+1734,dentistry
+1735,dentistry
+1736,facial plastic surgery
+1737,internal medicine
+1738,plastic surgery
+1739,medical oncology
+1740,hand surgery
+1741,pain management
+1742,pain management
+1743,dentistry
+1744,geriatrics
+1745,neurosurgery
+1746,dentistry
+1747,obstetrics and gynecology
+1748,family medicine
+1749,pain management
+1750,psychiatry
+1751,pediatric urology
+1752,dentistry
+1753,pediatric dentistry
+1754,pain management
+1755,internal medicine
+1756,dentistry
+1757,internal medicine
+1758,rheumatology
+1759,allergy and immunology
+1760,internal medicine
+1761,general surgery
+1762,pulmonary critical care
+1763,orthodontics
+1764,dentistry
+1765,family medicine
+1766,ophthalmology
+1767,endodontics
+1768,internal medicine
+1769,internal medicine
+1770,neurosurgery
+1771,orthodontics
+1772,podiatry
+1773,rheumatology
+1774,dentistry
+1775,orthopedic surgery
+1776,geriatrics
+1777,oral and maxillofacial surgery
+1778,cardiology
+1779,pulmonary critical care
+1780,orthopedic surgery
+1781,pain management
+1782,internal medicine
+1783,clinical psychology
+1784,family medicine
+1785,neurology
+1786,fertility medicine
+1787,allergy and immunology
+1788,gynecology
+1789,pediatrics
+1790,neurology
+1791,rheumatology
+1792,obstetrics and gynecology
+1793,infectious disease
+1794,general practice
+1795,orthopedic foot and ankle surgery
+1796,family medicine
+1797,dentistry
+1798,pathology
+1799,dentistry
+1800,pediatric urology
+1801,pain management
+1802,endodontics
+1803,general surgery
+1804,family medicine
+1805,oral and maxillofacial surgery
+1806,family medicine
+1807,rheumatology
+1808,rheumatology
+1809,rheumatology
+1810,neurology
+1811,thoracic surgery
+1812,neurology
+1813,dentistry
+1814,dentistry
+1815,dentistry
+1816,internal medicine
+1817,neurology
+1818,internal medicine
+1819,psychiatry
+1820,internal medicine
+1821,neurology
+1822,pediatrics
+1823,general practice
+1824,pediatrics
+1825,breast surgery
+1826,cardiology
+1827,ent and head and neck surgery
+1828,family medicine
+1829,prosthodontics
+1830,pain management
+1831,oral and maxillofacial surgery
+1832,pulmonary critical care
+1833,nan
+1834,oral and maxillofacial surgery
+1835,dentistry
+1836,emergency medicine
+1837,pain management
+1838,emergency medicine
+1839,cardiology
+1840,pediatrics
+1841,orthopedic surgery
+1842,family medicine
+1843,pain management
+1844,diagnostic radiology
+1845,radiology
+1846,facial plastic surgery
+1847,pain management
+1848,family medicine
+1849,oral and maxillofacial surgery
+1850,urology
+1851,pain management
+1852,dermatology
+1853,family medicine
+1854,bariatrics
+1855,general practice
+1856,medical oncology
+1857,family medicine
+1858,pathology
+1859,pain management
+1860,pediatrics
+1861,urology
+1862,obstetrics and gynecology
+1863,family medicine
+1864,family medicine
+1865,pain management
+1866,family medicine
+1867,diagnostic radiology
+1868,family medicine
+1869,urology
+1870,orthopedic spine surgery
+1871,internal medicine
+1872,psychiatry
+1873,internal medicine
+1874,internal medicine
+1875,family medicine
+1876,pediatrics
+1877,general practice
+1878,family medicine
+1879,dentistry
+1880,internal medicine
+1881,diagnostic radiology
+1882,pain management
+1883,emergency medicine
+1884,family medicine
+1885,urology
+1886,internal medicine
+1887,pain management
+1888,hospitalbased practice
+1889,diagnostic radiology
+1890,pain management
+1891,infectious disease
+1892,hematology and oncology
+1893,family medicine
+1894,psychiatry
+1895,family medicine
+1896,dentistry
+1897,family medicine
+1898,pediatrics
+1899,rheumatology
+1900,pathology
+1901,pediatrics
+1902,infectious disease
+1903,obstetrics and gynecology
+1904,internal medicine
+1905,obstetrics and gynecology
+1906,obstetrics and gynecology
+1907,internal medicine
+1908,pediatrics
+1909,oral and maxillofacial surgery
+1910,orthopedic surgery
+1911,neurology
+1912,pediatrics
+1913,psychiatry
+1914,anesthesiology
+1915,family medicine
+1916,internal medicine
+1917,neurology
+1918,internal medicine
+1919,urology
+1920,dermatology
+1921,internal medicine
+1922,pediatrics
+1923,obstetrics and gynecology
+1924,internal medicine
+1925,pediatric neurology
+1926,pediatrics
+1927,pediatric emergency medicine
+1928,internal medicine
+1929,ent and head and neck surgery
+1930,addiction medicine
+1931,breast surgery
+1932,internal medicine
+1933,pathology
+1934,family medicine
+1935,internal medicine
+1936,neurology
+1937,diagnostic radiology
+1938,internal medicine
+1939,dentistry
+1940,internal medicine
+1941,general practice
+1942,family medicine
+1943,internal medicine
+1944,gynecology
+1945,family medicine
+1946,neurology
+1947,neurology
+1948,emergency medicine
+1949,general practice
+1950,pain management
+1951,infectious disease
+1952,neurology
+1953,dentistry
+1954,breast surgery
+1955,internal medicine
+1956,pediatrics
+1957,urgent care
+1958,internal medicine
+1959,pain management
+1960,obstetrics and gynecology
+1961,internal medicine
+1962,neurology
+1963,family medicine
+1964,obstetrics and gynecology
+1965,ent and head and neck surgery
+1966,family medicine
+1967,psychiatry
+1968,pain management
+1969,pediatrics
+1970,internal medicine
+1971,pediatrics
+1972,pain management
+1973,diagnostic radiology
+1974,family medicine
+1975,psychiatry
+1976,dentistry
+1977,family medicine
+1978,family medicine
+1979,cardiology
+1980,gastroenterology
+1981,family medicine
+1982,diagnostic radiology
+1983,family medicine
+1984,internal medicine
+1985,family medicine
+1986,general surgery
+1987,family medicine
+1988,pain management
+1989,internal medicine
+1990,family medicine
+1991,family medicine
+1992,preventive medicine
+1993,pediatrics
+1994,orthopedic spine surgery
+1995,pediatrics
+1996,family medicine
+1997,dentistry
+1998,orthopedic surgery
+1999,internal medicine
+2000,family medicine
+2001,cosmetic dentistry
+2002,internal medicine
+2003,internal medicine
+2004,medical oncology
+2005,neurology
+2006,podiatry
+2007,phlebology
+2008,hematology and oncology
+2009,emergency medicine
+2010,orthopedic foot and ankle surgery
+2011,allergy and immunology
+2012,wound care
+2013,surgical oncology
+2014,breast surgery
+2015,breast surgery
+2016,general surgery
+2017,hematology and oncology
+2018,internal medicine
+2019,nan
+2020,orthopedic surgery
+2021,radiology
+2022,allergy and immunology
+2023,pediatrics
+2024,ent and head and neck surgery
+2025,pathology
+2026,pediatrics
+2027,physical medicine and rehabilitation
+2028,dentistry
+2029,family medicine
+2030,dentistry
+2031,obstetrics and gynecology
+2032,family medicine
+2033,radiology
+2034,pediatrics
+2035,podiatry
+2036,podiatry
+2037,cardiology
+2038,podiatry
+2039,podiatry
+2040,diagnostic radiology
+2041,thoracic surgery
+2042,general surgery
+2043,surgical oncology
+2044,obstetrics and gynecology
+2045,family medicine
+2046,general surgery
+2047,oral and maxillofacial surgery
+2048,periodontics
+2049,general practice
+2050,plastic surgery
+2051,orthopedic spine surgery
+2052,orthopedic surgery
+2053,oral and maxillofacial surgery
+2054,podiatry
+2055,ent and head and neck surgery
+2056,podiatry
+2057,endodontics
+2058,orthopedic surgery
+2059,neurology
+2060,podiatry
+2061,oral and maxillofacial surgery
+2062,podiatry
+2063,rheumatology
+2064,dentistry
+2065,dentistry
+2066,orthopedic surgery
+2067,podiatry
+2068,breast surgery
+2069,dentistry
+2070,obstetrics and gynecology
+2071,general surgery
+2072,pediatric ent and head and neck surgery
+2073,pulmonary critical care
+2074,pediatrics
+2075,radiation oncology
+2076,hematology and oncology
+2077,pediatric urology
+2078,orthopedic reconstructive surgery
+2079,general surgery
+2080,obstetrics and gynecology
+2081,neurology
+2082,pulmonary critical care
+2083,podiatry
+2084,hand surgery
+2085,radiology
+2086,plastic surgery
+2087,dermatology
+2088,obstetrics and gynecology
+2089,orthopedic spine surgery
+2090,neurology
+2091,radiology
+2092,diagnostic radiology
+2093,podiatry
+2094,podiatry
+2095,oral and maxillofacial surgery
+2096,hand surgery
+2097,neurology
+2098,podiatry
+2099,cosmetic dentistry
+2100,sports medicine
+2101,wound care
+2102,orthopedic spine surgery
+2103,orthopedic surgery
+2104,pathology
+2105,plastic surgery
+2106,surgical oncology
+2107,dentistry
+2108,medical oncology
+2109,internal medicine
+2110,podiatry
+2111,pediatrics
+2112,family medicine
+2113,cardiology
+2114,dentistry
+2115,plastic surgery
+2116,podiatry
+2117,sports medicine
+2118,surgical oncology
+2119,orthopedic surgery
+2120,neurosurgery
+2121,neurosurgery
+2122,oral and maxillofacial surgery
+2123,oral and maxillofacial surgery
+2124,family medicine
+2125,family medicine
+2126,pain management
+2127,ent and head and neck surgery
+2128,family medicine
+2129,family medicine
+2130,orthopedic foot and ankle surgery
+2131,allergy and immunology
+2132,general surgery
+2133,podiatry
+2134,dentistry
+2135,oral and maxillofacial surgery
+2136,pathology
+2137,internal medicine
+2138,obstetrics and gynecology
+2139,radiation oncology
+2140,pediatrics
+2141,pediatrics
+2142,phlebology
+2143,vascular surgery
+2144,hand surgery
+2145,urology
+2146,ophthalmology
+2147,hand surgery
+2148,phlebology
+2149,pulmonary critical care
+2150,pediatrics
+2151,pediatrics
+2152,cardiology
+2153,radiology
+2154,wound care
+2155,pediatrics
+2156,radiation oncology
+2157,emergency medicine
+2158,endodontics
+2159,radiation oncology
+2160,family medicine
+2161,general surgery
+2162,ophthalmology
+2163,podiatry
+2164,hand surgery
+2165,dentistry
+2166,prosthodontics
+2167,general surgery
+2168,prosthodontics
+2169,prosthodontics
+2170,ent and head and neck surgery
+2171,pain management
+2172,plastic surgery
+2173,plastic surgery
+2174,podiatry
+2175,neurology
+2176,allergy and immunology
+2177,ent and head and neck surgery
+2178,psychiatry
+2179,family medicine
+2180,ent and head and neck surgery
+2181,anesthesiology
+2182,general practice
+2183,dentistry
+2184,breast surgery
+2185,dentistry
+2186,hematology
+2187,internal medicine
+2188,surgical oncology
+2189,family medicine
+2190,hematology and oncology
+2191,pathology
+2192,hematology and oncology
+2193,internal medicine
+2194,allergy and immunology
+2195,family medicine
+2196,cardiology
+2197,gynecologic oncology
+2198,nuclear medicine
+2199,pediatric pulmonology
+2200,prosthodontics
+2201,dentistry
+2202,dentistry
+2203,family medicine
+2204,rheumatology
+2205,thoracic surgery
+2206, select specialities 
+2207,breast surgery
+2208,pediatrics
+2209,dermatology
+2210,cosmetic dentistry
+2211,internal medicine
+2212,allergy and immunology
+2213,neurology
+2214,dentistry
+2215,cardiology
+2216,pediatrics
+2217,dentistry
+2218,ent and head and neck surgery
+2219,family medicine
+2220,obstetrics and gynecology
+2221,dentistry
+2222,dentistry
+2223,pediatrics
+2224,hospitalbased practice
+2225,obstetrics and gynecology
+2226,obstetrics and gynecology
+2227,anesthesiology
+2228,hand surgery
+2229,endocrinology
+2230,pediatrics
+2231,orthopedic surgery
+2232,family medicine
+2233,pediatric neurology
+2234,medical oncology
+2235,dentistry
+2236,family medicine
+2237,orthopedic surgery
+2238,plastic surgery
+2239,neurology
+2240,dermatology
+2241,phlebology
+2242,internal medicine
+2243,bariatrics
+2244,podiatry
+2245,plastic surgery
+2246,neurology
+2247,general practice
+2248,family medicine
+2249,hand surgery
+2250,neurosurgery
+2251,pediatrics
+2252,diagnostic radiology
+2253,podiatry
+2254,cardiology
+2255,endodontics
+2256,interventional radiology
+2257,podiatry
+2258,preventive medicine
+2259,dentistry
+2260,rheumatology
+2261,dermatology
+2262,endocrinology
+2263,family medicine
+2264,pediatrics
+2265,pain management
+2266,psychiatry
+2267,radiology
+2268,prosthodontics
+2269,neurology
+2270,orthodontics
+2271,internal medicine
+2272,family medicine
+2273,orthopedic surgery
+2274,anesthesiology
+2275,endodontics
+2276,pulmonary critical care
+2277,plastic surgery
+2278,hematology and oncology
+2279,diagnostic radiology
+2280,pulmonary critical care
+2281,obstetrics and gynecology
+2282,rheumatology
+2283,dentistry
+2284,podiatry
+2285,cosmetic dentistry
+2286,internal medicine
+2287,pathology
+2288,breast surgery
+2289,neurology
+2290,general surgery
+2291,obstetrics and gynecology
+2292,pathology
+2293,cardiology
+2294,pain management
+2295,plastic surgery
+2296,internal medicine
+2297,family medicine
+2298,radiation oncology
+2299,general surgery
+2300,family medicine
+2301,family medicine
+2302,oral and maxillofacial surgery
+2303,infectious disease
+2304,pediatrics
+2305,dentistry
+2306,pain management
+2307,general surgery
+2308,nephrology and dialysis
+2309,plastic surgery
+2310,pediatrics
+2311,dentistry
+2312,family medicine
+2313,internal medicine
+2314,pain management
+2315,general surgery
+2316,family medicine
+2317,periodontics
+2318,dentistry
+2319,pain management
+2320,internal medicine
+2321,diagnostic radiology
+2322,internal medicine
+2323,facial plastic surgery
+2324,family medicine
+2325,allergy and immunology
+2326,rheumatology
+2327,allergy and immunology
+2328,pain management
+2329,family medicine
+2330,pediatric critical care
+2331,internal medicine
+2332,family medicine
+2333,family medicine
+2334,family medicine
+2335,family medicine
+2336,general practice
+2337,emergency medicine
+2338,prosthodontics
+2339,pathology
+2340,orthodontics
+2341,pediatrics
+2342,orthopedic surgery
+2343,obstetrics and gynecology
+2344,dermatology
+2345,dentistry
+2346,family medicine
+2347,pathology
+2348,family medicine
+2349,allergy and immunology
+2350,internal medicine
+2351,emergency medicine
+2352,gastroenterology
+2353,clinical psychology
+2354,internal medicine
+2355,internal medicine
+2356,pain management
+2357,pediatric pulmonology
+2358,pediatrics
+2359,neurology
+2360,urgent care
+2361,oral and maxillofacial surgery
+2362,gastroenterology
+2363,neurology
+2364,obstetrics and gynecology
+2365,pain management
+2366,pain management
+2367,family medicine
+2368,allergy and immunology
+2369,geriatrics
+2370,family medicine
+2371,radiation oncology
+2372,allergy and immunology
+2373,family medicine
+2374,internal medicine
+2375,dentistry
+2376,dentistry
+2377,pain management
+2378,pediatrics
+2379,family medicine
+2380,general surgery
+2381,pain management
+2382,critical care
+2383,family medicine
+2384,family medicine
+2385,cosmetic dentistry
+2386,family medicine
+2387,gastroenterology
+2388,pediatrics
+2389,facial plastic surgery
+2390,orthopedic surgery
+2391,family medicine
+2392,internal medicine
+2393,podiatry
+2394,physical medicine and rehabilitation
+2395,podiatry
+2396,oral and maxillofacial surgery
+2397,nan
+2398,family medicine
+2399,neurosurgery
+2400,hand surgery
+2401,oral and maxillofacial surgery
+2402,general practice
+2403,breast surgery
+2404,medical oncology
+2405,oral and maxillofacial surgery
+2406,anesthesiology
+2407,ent and head and neck surgery
+2408,general surgery
+2409,orthodontics
+2410,orthopedic surgery
+2411,addiction medicine
+2412,dentistry
+2413,nan
+2414,fertility medicine
+2415,internal medicine
+2416,internal medicine
+2417,rheumatology
+2418,general surgery
+2419,neurology
+2420,orthodontics
+2421,preventive medicine
+2422,dentistry
+2423,orthopedic surgery
+2424,dentistry
+2425,periodontics
+2426,orthodontics
+2427,dentistry
+2428,rheumatology
+2429,orthopedic surgery
+2430,endodontics
+2431,radiology
+2432,dentistry
+2433,radiology
+2434,dentistry
+2435,dermatology
+2436,obstetrics and gynecology
+2437,interventional radiology
+2438,radiology
+2439,orthopedic surgery
+2440,dentistry
+2441,physical medicine and rehabilitation
+2442,hematology and oncology
+2443,dentistry
+2444,medical oncology
+2445,general surgery
+2446,gastroenterology
+2447,internal medicine
+2448,general surgery
+2449,american board of phlebology
+2450,dentistry
+2451,cosmetic dentistry
+2452,phlebology
+2453,pediatrics
+2454,plastic surgery
+2455,family medicine
+2456,pathology
+2457,obstetrics and gynecology
+2458,obstetrics and gynecology
+2459,rheumatology
+2460,neurosurgery
+2461,pediatrics
+2462,general surgery
+2463,dentistry
+2464,general practice
+2465,podiatry
+2466,general surgery
+2467,ophthalmology
+2468,general practice
+2469,palliative care
+2470,medical oncology
+2471,hand surgery
+2472,general surgery
+2473,dentistry
+2474,obstetrics and gynecology
+2475,pediatrics
+2476,podiatry
+2477,cosmetic dentistry
+2478,general surgery
+2479,internal medicine
+2480,orthopedic surgery
+2481,neurology
+2482,family medicine
+2483,orthopedic surgery
+2484,general surgery
+2485,general surgery
+2486,rheumatology
+2487,medical oncology
+2488,wound care
+2489,plastic surgery
+2490,family medicine
+2491,plastic surgery
+2492,orthopedic surgery
+2493,oral and maxillofacial surgery
+2494,dentistry
+2495,dermatology
+2496,neurology
+2497,cardiology
+2498,internal medicine
+2499,family medicine
+2500,general surgery
+2501,cardiology
+2502,cosmetic surgery
+2503,obstetrics and gynecology
+2504,psychiatry
+2505,dentistry
+2506,family medicine
+2507,general practice
+2508,pediatrics
+2509,obstetrics and gynecology
+2510,neurology
+2511,fertility medicine
+2512,gastroenterology
+2513,urogynecology
+2514,general practice
+2515,infectious disease
+2516,rheumatology
+2517,geriatrics
+2518,family medicine
+2519,family medicine
+2520,orthopedic surgery
+2521,sports medicine
+2522,child psychiatry
+2523,internal medicine
+2524,hematology and oncology
+2525,internal medicine
+2526,dentistry
+2527,hematology and oncology
+2528,integrative medicine
+2529,dentistry
+2530,ophthalmology
+2531,family medicine
+2532,breast surgery
+2533,family medicine
+2534,internal medicine
+2535,pediatrics
+2536,obstetrics and gynecology
+2537,endodontics
+2538,family medicine
+2539,ophthalmology
+2540,plastic surgery
+2541,sports medicine
+2542,podiatry
+2543,family medicine
+2544,pediatrics
+2545,rheumatology
+2546,cardiology
+2547,infectious disease
+2548,general surgery
+2549,family medicine
+2550,hand surgery
+2551,dentistry
+2552,pulmonary critical care
+2553,diagnostic radiology
+2554,anesthesiology
+2555,orthopedic spine surgery
+2556,pediatrics
+2557,dentistry
+2558,pediatric neurology
+2559,cardiology
+2560,nan
+2561,interventional radiology
+2562,anesthesiology
+2563,pulmonary critical care
+2564,infectious disease
+2565,hematology and oncology
+2566,ophthalmology
+2567,vascular surgery
+2568,orthopedic surgery
+2569,oral and maxillofacial surgery
+2570,cardiology
+2571,general surgery
+2572,neurology
+2573,pulmonary critical care
+2574,medical oncology
+2575,hematology and oncology
+2576,pain management
+2577,interventional radiology
+2578,geriatrics
+2579,obstetrics and gynecology
+2580,psychiatry
+2581,internal medicine
+2582,orthopedic surgery
+2583,general surgery
+2584,internal medicine
+2585,pediatric endocrinology
+2586,dentistry
+2587,ent and head and neck surgery
+2588,dentistry
+2589,radiology
+2590,psychiatry
+2591,pediatrics
+2592,medical oncology
+2593,gastroenterology
+2594,oral and maxillofacial surgery
+2595,family medicine
+2596,prosthodontics
+2597,geriatrics
+2598,ophthalmology
+2599,nan
+2600,colon and rectal surgery
+2601,dentistry
+2602,psychiatry
+2603,medical oncology
+2604,pulmonary critical care
+2605,oral and maxillofacial surgery
+2606,obstetrics and gynecology
+2607,neurology
+2608,pathology
+2609,pain management
+2610,internal medicine
+2611,cardiology
+2612,internal medicine
+2613,family medicine
+2614,ophthalmology
+2615,podiatry
+2616,dentistry
+2617,pediatrics
+2618,allergy and immunology
+2619,urology
+2620,pain management
+2621,obstetrics and gynecology
+2622,obstetrics and gynecology
+2623,medical oncology
+2624,internal medicine
+2625,radiology
+2626,family medicine
+2627,dermatology
+2628,phlebology
+2629,gastroenterology
+2630,psychiatry
+2631,infectious disease
+2632,maternalfetal medicine
+2633,family medicine
+2634,family medicine
+2635,obstetrics and gynecology
+2636,pediatrics
+2637,podiatry
+2638,emergency medicine
+2639,podiatry
+2640,clinical psychology
+2641,family medicine
+2642,family medicine
+2643,neurology
+2644,pain management
+2645,internal medicine
+2646,pathology
+2647,dermatology
+2648,radiology
+2649,pediatric pulmonology
+2650,clinical psychology
+2651,neurosurgery
+2652,general practice
+2653,family medicine
+2654,family medicine
+2655,neurology
+2656,rheumatology
+2657,pediatric ent and head and neck surgery
+2658,pathology
+2659,podiatry
+2660,radiation oncology
+2661,internal medicine
+2662,geriatrics
+2663,allergy and immunology
+2664,geriatric psychiatry
+2665,family medicine
+2666,general practice
+2667,dermatology
+2668,internal medicine
+2669,pediatrics
+2670,pediatrics
+2671,gastroenterology
+2672,neurology
+2673,general surgery
+2674,hematology and oncology
+2675,general practice
+2676,internal medicine and pediatrics
+2677,orthodontics
+2678,endocrinology
+2679,facial plastic surgery
+2680,family medicine
+2681,general practice
+2682,obstetrics and gynecology
+2683,family medicine
+2684,pediatrics
+2685,podiatry
+2686,neurology
+2687,pathology
+2688,medical oncology
+2689,pediatric urology
+2690,internal medicine
+2691,nephrology and dialysis
+2692,pain management
+2693,bariatrics
+2694,gastroenterology
+2695,physical medicine and rehabilitation
+2696,general practice
+2697,gastroenterology
+2698,diagnostic radiology
+2699,pediatrics
+2700,urgent care
+2701,pathology
+2702,internal medicine
+2703,family medicine
+2704,family medicine
+2705,family medicine
+2706,pediatrics
+2707,family medicine
+2708,pediatrics
+2709,family medicine
+2710,pathology
+2711,internal medicine
+2712,family medicine
+2713,family medicine
+2714,pediatrics
+2715,oral and maxillofacial surgery
+2716,pain management
+2717,psychiatry
+2718,hospitalbased practice
+2719,hematology and oncology
+2720,hospitalbased practice
+2721,internal medicine and pediatrics
+2722,obstetrics and gynecology
+2723,family medicine
+2724,internal medicine
+2725,obstetrics and gynecology
+2726,neurology
+2727,family medicine
+2728,neurosurgery
+2729,family medicine
+2730,internal medicine
+2731,ent and head and neck surgery
+2732,family medicine
+2733,internal medicine
+2734,allergy and immunology
+2735,pediatric emergency medicine
+2736,internal medicine
+2737,family medicine
+2738,hepatology
+2739,pediatrics
+2740,internal medicine
+2741,gynecology
+2742,emergency medicine
+2743,neurology
+2744,internal medicine
+2745,ent and head and neck surgery
+2746,neurosurgery
+2747,ent and head and neck surgery
+2748,ent and head and neck surgery
+2749,family medicine
+2750,family medicine
+2751,pediatrics
+2752,pediatrics
+2753,orthopedic surgery
+2754,emergency medicine
+2755,family medicine
+2756,pediatrics
+2757,family medicine
+2758,internal medicine
+2759,internal medicine
+2760,urology
+2761,emergency medicine
+2762,ent and head and neck surgery
+2763,neurology
+2764,internal medicine
+2765,pediatrics
+2766,family medicine
+2767,dentistry
+2768,pediatrics
+2769,pediatric emergency medicine
+2770,family medicine
+2771,internal medicine
+2772,family medicine
+2773,pathology
+2774,clinical psychology
+2775,neurology
+2776,fertility medicine
+2777,family medicine
+2778,pain management
+2779,obstetrics and gynecology
+2780,family medicine
+2781,pediatric emergency medicine
+2782,infectious disease
+2783,pain management
+2784,ent and head and neck surgery
+2785,obstetrics and gynecology
+2786,pediatrics
+2787,urgent care
+2788,pediatrics
+2789,pathology
+2790,internal medicine
+2791,urgent care
+2792,ophthalmology
+2793,family medicine
+2794,general practice
+2795,pediatrics
+2796,pathology
+2797,psychiatry
+2798,internal medicine
+2799,pediatrics
+2800,internal medicine
+2801,psychiatry
+2802,obstetrics and gynecology
+2803,general practice
+2804,internal medicine
+2805,orthopedic surgery
+2806,pain management
+2807,pediatrics
+2808,podiatry
+2809,ent and head and neck surgery
+2810,pediatrics
+2811,pain management
+2812,dentistry
+2813,ent and head and neck surgery
+2814,clinical psychology
+2815,pediatrics
+2816,dentistry
+2817,family medicine
+2818,internal medicine
+2819,obstetrics and gynecology
+2820,nan
+2821,urgent care
+2822,internal medicine
+2823,endocrinology
+2824,infectious disease
+2825,physical medicine and rehabilitation
+2826,pediatrics
+2827,pain management
+2828,internal medicine
+2829,sleep medicine
+2830,pediatric hematology and oncology
+2831,family medicine
+2832,rheumatology
+2833,internal medicine
+2834,general surgery
+2835,internal medicine
+2836,family medicine
+2837,medical oncology
+2838,internal medicine
+2839,infectious disease
+2840,family medicine
+2841,pain management
+2842,pediatric urology
+2843,family medicine
+2844,dentistry
+2845,medical oncology
+2846,podiatry
+2847,general practice
+2848,rheumatology
+2849,hematology and oncology
+2850,ophthalmology
+2851,podiatry
+2852,retinal surgery
+2853,endocrinology
+2854,general surgery
+2855,pediatrics
+2856,general surgery
+2857,family medicine
+2858,podiatry
+2859,allergy and immunology
+2860,psychiatry
+2861,endocrinology
+2862,endocrinology
+2863,neurology
+2864,hematology and oncology
+2865,podiatry
+2866,cardiology
+2867,child psychiatry
+2868,geriatric psychiatry
+2869,radiation oncology
+2870,podiatry
+2871,orthopedic spine surgery
+2872,radiology
+2873,family medicine
+2874,internal medicine
+2875,family medicine
+2876,general practice
+2877,endocrinology
+2878,endodontics
+2879,adolescent medicine
+2880,orthopedic spine surgery
+2881,orthopedic surgery
+2882,hospitalbased practice
+2883,pediatric urology
+2884,dentistry
+2885,podiatry
+2886,fertility medicine
+2887,general surgery
+2888,family medicine
+2889,fertility medicine
+2890,wound care
+2891,orthopedic reconstructive surgery
+2892,dentistry
+2893,pediatrics
+2894,orthopedic surgery
+2895,general surgery
+2896,dermatology
+2897,internal medicine
+2898,ophthalmology
+2899,general surgery
+2900,nan
+2901,wound care
+2902,ophthalmology
+2903,plastic surgery
+2904,podiatry
+2905,general surgery
+2906,general surgery
+2907,hematology and oncology
+2908,ophthalmology
+2909,family medicine
+2910,obstetrics and gynecology
+2911,pulmonary critical care
+2912,internal medicine
+2913,dentistry
+2914,orthopedic spine surgery
+2915,pathology
+2916,family medicine
+2917,neurology
+2918,adolescent medicine
+2919,cardiology
+2920,internal medicine
+2921,podiatry
+2922,oral and maxillofacial surgery
+2923,dentistry
+2924,podiatry
+2925,plastic surgery
+2926,oral and maxillofacial surgery
+2927,lasik surgery
+2928,orthopedic surgery
+2929,ophthalmology
+2930,internal medicine
+2931,radiology
+2932,dentistry
+2933,maternalfetal medicine
+2934,pathology
+2935,podiatry
+2936,radiology
+2937,phlebology
+2938,orthopedic surgery
+2939,dermatology
+2940,pathology
+2941,dentistry
+2942,trauma surgery
+2943,lasik surgery
+2944,podiatry
+2945,pathology
+2946,internal medicine
+2947,pulmonology
+2948,ophthalmology
+2949,lasik surgery
+2950,radiology
+2951,ophthalmology
+2952,ophthalmology
+2953,pediatrics
+2954,urologic oncology
+2955,infectious disease
+2956,radiology
+2957,ophthalmology
+2958,podiatry
+2959,ophthalmology
+2960,ophthalmology
+2961,pulmonary critical care
+2962,prosthodontics
+2963,hematology and oncology
+2964,hand surgery
+2965,general surgery
+2966,neurology
+2967,cardiology
+2968,podiatry
+2969,pediatrics
+2970,ent and head and neck surgery
+2971,medical oncology
+2972,pain management
+2973,radiation oncology
+2974,general practice
+2975,pediatrics
+2976,pulmonary critical care
+2977,pediatric urology
+2978,thoracic surgery
+2979,podiatry
+2980,orthopedic surgery
+2981,facial plastic surgery
+2982,pediatrics
+2983,ophthalmology
+2984,dermatology
+2985,urology
+2986,podiatry
+2987,oral and maxillofacial surgery
+2988,ophthalmology
+2989,oral and maxillofacial surgery
+2990,podiatry
+2991,family medicine
+2992,cosmetic dentistry
+2993,oral and maxillofacial surgery
+2994,ent and head and neck surgery
+2995,hand surgery
+2996,hand surgery
+2997,general practice
+2998,pediatric emergency medicine
+2999,podiatry
+3000,neurosurgery
+3001,podiatry
+3002,podiatry
+3003,sports medicine
+3004,pathology
+3005,orthopedic spine surgery
+3006,adolescent medicine
+3007,vascular surgery
+3008,hematology and oncology
+3009,psychiatry
+3010,allergy and immunology
+3011,lasik surgery
+3012,podiatry
+3013,dentistry
+3014,thoracic surgery
+3015,ophthalmology
+3016,pediatrics
+3017,surgical oncology
+3018,gastroenterology
+3019,pediatric urology
+3020,retinal surgery
+3021,family medicine
+3022,orthopedic surgery
+3023,lasik surgery
+3024,oral and maxillofacial surgery
+3025,pediatrics
+3026,orthopedic surgery
+3027,family medicine
+3028,orthopedic foot and ankle surgery
+3029,ophthalmology
+3030,orthopedic surgery
+3031,orthopedic surgery
+3032,dentistry
+3033,dentistry
+3034,fertility medicine
+3035,cardiology
+3036,plastic surgery
+3037,prosthodontics
+3038,oral and maxillofacial surgery
+3039,dentistry
+3040,obstetrics and gynecology
+3041,neurology
+3042,fertility medicine
+3043,internal medicine
+3044,hematology and oncology
+3045,general surgery
+3046,pain management
+3047,oral and maxillofacial surgery
+3048,gastroenterology
+3049,infectious disease
+3050,anesthesiology
+3051,podiatry
+3052,dermatology
+3053,cosmetic dentistry
+3054,internal medicine
+3055,neurology
+3056,urgent care
+3057,dermatology
+3058,orthopedic surgery
+3059,vascular surgery
+3060,allergy and immunology
+3061,ent and head and neck surgery
+3062,fertility medicine
+3063,phlebology
+3064,plastic surgery
+3065,internal medicine
+3066,internal medicine
+3067,podiatry
+3068,plastic surgery
+3069,vascular surgery
+3070,family medicine
+3071,dentistry
+3072,ent and head and neck surgery
+3073,nephrology and dialysis
+3074,pain management
+3075,internal medicine
+3076,family medicine
+3077,sports medicine
+3078,ophthalmology
+3079,pathology
+3080,nuclear medicine
+3081,general surgery
+3082,interventional radiology
+3083,pediatrics
+3084,internal medicine
+3085,family medicine
+3086,allergy and immunology
+3087,general surgery
+3088,pain management
+3089,allergy and immunology
+3090,interventional radiology
+3091,dentistry
+3092,ophthalmology
+3093,orthopedic spine surgery
+3094,neurology
+3095,podiatry
+3096,radiology
+3097,general surgery
+3098,oral and maxillofacial surgery
+3099,family medicine
+3100,cardiology
+3101,family medicine
+3102,cardiology
+3103,cardiology
+3104,dentistry
+3105,obstetrics and gynecology
+3106,wound care
+3107,neurosurgery
+3108,family medicine
+3109,pathology
+3110,internal medicine
+3111,orthopedic surgery
+3112,dentistry
+3113,fertility medicine
+3114,pain management
+3115,psychiatry
+3116,internal medicine
+3117,neurology
+3118,neurology
+3119,endocrinology
+3120,emergency medicine
+3121,diagnostic radiology
+3122,family medicine
+3123,allergy and immunology
+3124,nan
+3125,internal medicine
+3126,podiatry
+3127,internal medicine
+3128,dentistry
+3129,pediatrics
+3130,internal medicine
+3131,dentistry
+3132,dentistry
+3133,family medicine
+3134,infectious disease
+3135,allergy and immunology
+3136,internal medicine
+3137,psychiatry
+3138,nan
+3139,internal medicine
+3140,pain management
+3141,pediatric gastroenterology
+3142,allergy and immunology
+3143,hospitalbased practice
+3144,general surgery
+3145,nan
+3146,internal medicine
+3147,pain management
+3148,pediatric emergency medicine
+3149,family medicine
+3150,pulmonary critical care
+3151,family medicine
+3152,hospitalbased practice
+3153,neurology
+3154,emergency medicine
+3155,rheumatology
+3156,dermatology
+3157,pediatric emergency medicine
+3158,obstetrics and gynecology
+3159,podiatry
+3160,family medicine
+3161,general surgery
+3162,endocrinology
+3163,family medicine
+3164,internal medicine
+3165,neurology
+3166,medical oncology
+3167,pediatric hematology and oncology
+3168,pediatric pulmonology
+3169,internal medicine
+3170,thoracic surgery
+3171,pain management
+3172,pediatric hematology and oncology
+3173,internal medicine
+3174,oral and maxillofacial surgery
+3175,dentistry
+3176,clinical genetics
+3177,allergy and immunology
+3178,thoracic surgery
+3179,child psychiatry
+3180,gastroenterology
+3181,neurology
+3182,podiatry
+3183,family medicine
+3184,ophthalmology
+3185,general surgery
+3186,orthopedic surgery
+3187,critical care
+3188,ophthalmology
+3189,ent and head and neck surgery
+3190,ophthalmology
+3191,neurology
+3192,podiatry
+3193,neurology
+3194,pediatrics
+3195,rheumatology
+3196,diagnostic radiology
+3197,pediatrics
+3198,cardiology
+3199,neurology
+3200,gastroenterology
+3201,internal medicine
+3202,orthodontics
+3203,dentistry
+3204,pediatrics
+3205,pediatrics
+3206,internal medicine
+3207,endocrinology
+3208,gastroenterology
+3209,internal medicine
+3210,dentistry
+3211,pain management
+3212,neurology
+3213,dentistry
+3214,cardiology
+3215,general surgery
+3216,podiatry
+3217,orthopedic surgery
+3218,ophthalmology
+3219,dentistry
+3220,psychiatry
+3221,cardiology
+3222,cardiology
+3223,psychiatry
+3224,wound care
+3225,pediatrics
+3226,nan
+3227,hand surgery
+3228,obstetrics and gynecology
+3229,pediatrics
+3230,ophthalmology
+3231,orthopedic surgery
+3232,dentistry
+3233,dentistry
+3234,family medicine
+3235,neurology
+3236,gastroenterology
+3237,clinical psychology
+3238,general surgery
+3239,rheumatology
+3240,family medicine
+3241,geriatrics
+3242,allergy and immunology
+3243,pediatrics
+3244,podiatry
+3245,ent and head and neck surgery
+3246,general surgery
+3247,ophthalmology
+3248,pathology
+3249,podiatry
+3250,interventional radiology
+3251,obstetrics and gynecology
+3252,lasik surgery
+3253,cardiology
+3254,pediatrics
+3255,pediatrics
+3256,radiology
+3257,palliative care
+3258,oral and maxillofacial surgery
+3259,pathology
+3260,gastroenterology
+3261,general surgery
+3262,clinical psychology
+3263,internal medicine
+3264,pulmonology
+3265,dentistry
+3266,internal medicine
+3267,family medicine
+3268,orthopedic surgery
+3269,wound care
+3270,general surgery
+3271,plastic surgery
+3272,family medicine
+3273,general surgery
+3274,pain management
+3275,cardiology
+3276,family medicine
+3277,dentistry
+3278,plastic surgery
+3279,internal medicine
+3280,anesthesiology
+3281,ophthalmology
+3282,pulmonary critical care
+3283,ophthalmology
+3284,physical medicine and rehabilitation
+3285,general surgery
+3286,podiatry
+3287,cosmetic dentistry
+3288,general surgery
+3289,orthopedic surgery
+3290,psychiatry
+3291,internal medicine
+3292,colon and rectal surgery
+3293,dermatology
+3294,internal medicine
+3295,neurosurgery
+3296,podiatry
+3297,general practice
+3298,neurology
+3299,psychiatry
+3300,internal medicine
+3301,interventional radiology
+3302,neurology
+3303,internal medicine
+3304,pathology
+3305,podiatry
+3306,radiology
+3307,general practice
+3308,neurology
+3309,gynecology
+3310,pediatrics
+3311,obstetrics and gynecology
+3312,surgical oncology
+3313,pediatric orthopedic surgery
+3314,radiation oncology
+3315,podiatry
+3316,family medicine
+3317,hematology and oncology
+3318,nuclear medicine
+3319,cardiology
+3320,sleep medicine
+3321,nuclear medicine
+3322,pain management
+3323,sports medicine
+3324,sports medicine
+3325,family medicine
+3326,rheumatology
+3327,pediatrics
+3328,rheumatology
+3329,clinical psychology
+3330,interventional radiology
+3331,orthopedic surgery
+3332,obstetrics and gynecology
+3333,bariatrics
+3334,ent and head and neck surgery
+3335,ophthalmology
+3336,ophthalmology
+3337,lasik surgery
+3338,medical oncology
+3339,nuclear medicine

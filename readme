@@ -1,10 +1,22 @@
 
 INSTRUCTION :
+	
+	run divide.py to generate best_answer.csv/second_answer.csv/third_answer.csv 
+	mv best_answer.csv/second_answer.csv/third_answer.csv to DIVDE/MATCH/
+	run non-match.py to generate non-match data to DIVIDE/NON-MATCH/
+	RUN.py
 
-	1. run the load.py 
 
-	2. cd to the dir LDA, run contact.py , it will generate the LDA_SOURCE.txt
 
-	3. USE LDA package analysis LDA_SOURCE.txt to generate Topic Features.
+
+
+	1. run the load.py , go to FEATURES dir, run extract_f4.py
+    
+    2. go to the LDA dir, run process.py, copy the *_pro.txt to the OVER_LAP dir  
+       go to the OVER_LAP dir run overlap.py to generate the overlap features.
+
+	3. cd to the dir LDA, run contact.py , it will generate the LDA_SOURCE.txt
+
+	4. USE LDA package analysis LDA_SOURCE.txt to generate Topic Features.
 
 	
