@@ -5,8 +5,8 @@ from overlap import *
 from lda import *
 from normalize import *
 
-FILE = 'non_match_best.csv'
-ANSWER_DEGREE = 'BEST'
+FILE = 'non_match_third.csv'
+ANSWER_DEGREE = 'THIRD'
 
 MATCH = False
 if MATCH is True:
@@ -19,49 +19,9 @@ else :
     PATH_IN = 'DIVIDE/NON-MATCH/' + FILE
     PATH_OVERLAP = 'NON-MATCH/' + ANSWER_DEGREE +'/OVERLAP/'
     PATH_NORMAL = 'NON-MATCH/' + ANSWER_DEGREE + '/NORMAL/'
-    PATH_LDA = 'NON-MATCH/' + ANSWER_DEGREE + '/NORMAL/'
-    PATH_TEXT = 'NON-MATCH/' + ANSWER_DEGREE + '/NORMAL/'
+    PATH_LDA = 'NON-MATCH/' + ANSWER_DEGREE + '/LDA/'
+    PATH_TEXT = 'NON-MATCH/' + ANSWER_DEGREE + '/TEXT/'
 
-
-#PATH_IN = 'DIVIDE/MATCH/best_answer.csv'
-#PATH_NORMAL = 'MATCH/BEST/NORMAL/'
-#PATH_OVERLAP = 'MATCH/BEST/OVERLAP/'
-#PATH_LDA = 'MATCH/BEST/LDA/'
-#PATH_TEXT = 'MATCH/BEST/TEXT/'
-
-
-#PATH_IN = 'DIVIDE/non-match/non_match_best.csv'
-#PATH_NORMAL = 'NON-MATCH/BEST/NORMAL/'
-#PATH_OVERLAP = 'NON-MATCH/BEST/OVERLAP/'
-#PATH_LDA = 'NON-MATCH/BEST/LDA/'
-#PATH_TEXT = 'NON-MATCH/BEST/TEXT/'
-
-
-#PATH_IN = 'DIVIDE/match/second_answer.csv'
-#PATH_NORMAL = 'MATCH/SECOND/NORMAL/'
-#PATH_OVERLAP = 'MATCH/SECOND/OVERLAP/'
-#PATH_LDA = 'MATCH/SECOND/LDA/'
-#PATH_TEXT = 'MATCH/SECOND/TEXT/'
-
-
-#PATH_IN = 'DIVIDE/non-match/non_match_second.csv'
-#PATH_NORMAL = 'NON-MATCH/SECOND/NORMAL/'
-#PATH_OVERLAP = 'NON-MATCH/SECOND/OVERLAP/'
-#PATH_LDA = 'NON-MATCH/SECOND/LDA/'
-#PATH_TEXT = 'NON-MATCH/SECOND/TEXT/'
-
-#PATH_IN = 'DIVIDE/match/third_answer.csv'
-#PATH_NORMAL = 'MATCH/THIRD/NORMAL/'
-#PATH_OVERLAP = 'MATCH/THIRD/OVERLAP/'
-#PATH_LDA = 'MATCH/THIRD/LDA/'
-#PATH_TEXT = 'MATCH/THIRD/TEXT/'
-
-
-#PATH_IN = 'DIVIDE/non-match/non_match_third.csv'
-#PATH_NORMAL = 'NON-MATCH/THIRD/NORMAL/'
-#PATH_OVERLAP = 'NON-MATCH/THIRD/OVERLAP/'
-#PATH_LDA = 'NON-MATCH/THIRD/LDA/'
-#PATH_TEXT = 'NON-MATCH/THIRD/TEXT/'
 
 # First Step : you need to run the Generate_non_match_data.ipynb
 #              to generate non-match instances
