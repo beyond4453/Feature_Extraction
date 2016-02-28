@@ -24,7 +24,7 @@
 23,breast surgery
 24,general surgery
 25,obstetrics and gynecology
-26,hospitalbased practice
+26,hospital-based practice
 27,general practice
 28,dentistry
 29,cosmetic dentistry
@@ -225,7 +225,7 @@
 224,emergency medicine
 225,pediatric ent and head and neck surgery
 226,obstetrics and gynecology
-227,hospitalbased practice
+227,hospital-based practice
 228,surgical oncology
 229,podiatry
 230,general surgery
@@ -426,7 +426,7 @@
 425,internal medicine
 426,allergy and immunology
 427,dentistry
-428, select specialities 
+428,- select specialities -
 429,allergy and immunology
 430,radiology
 431,cardiology
@@ -444,7 +444,7 @@
 443,orthopedic surgery
 444,dentistry
 445,obstetrics and gynecology
-446,hospitalbased practice
+446,hospital-based practice
 447,pediatrics
 448,dentistry
 449,general surgery
@@ -671,7 +671,7 @@
 670,podiatry
 671,oral and maxillofacial surgery
 672,child psychiatry
-673,maternalfetal medicine
+673,maternal-fetal medicine
 674,plastic surgery
 675,radiation oncology
 676,dentistry
@@ -732,7 +732,7 @@
 731,hematology and oncology
 732,hematology and oncology
 733,breast surgery
-734,hospitalbased practice
+734,hospital-based practice
 735,allergy and immunology
 736,ent and head and neck surgery
 737,internal medicine
@@ -977,7 +977,7 @@
 976,rheumatology
 977,anesthesiology
 978,family medicine
-979,antiaging medicine
+979,anti-aging medicine
 980,cardiology
 981,family medicine
 982,gynecology
@@ -988,7 +988,7 @@
 987,cardiology
 988,obstetrics and gynecology
 989,internal medicine and pediatrics
-990,maternalfetal medicine
+990,maternal-fetal medicine
 991,wound care
 992,podiatry
 993,pediatrics
@@ -1195,7 +1195,7 @@
 1194,pediatrics
 1195,internal medicine
 1196,pharmacology
-1197,antiaging medicine
+1197,anti-aging medicine
 1198,neurosurgery
 1199,medical oncology
 1200,internal medicine
@@ -1390,7 +1390,7 @@
 1389,cardiology
 1390,breast surgery
 1391,oral and maxillofacial surgery
-1392,maternalfetal medicine
+1392,maternal-fetal medicine
 1393,cosmetic dentistry
 1394,dentistry
 1395,internal medicine
@@ -1446,7 +1446,7 @@
 1445,radiology
 1446,neurosurgery
 1447,podiatry
-1448, select specialities 
+1448,- select specialities -
 1449,internal medicine
 1450,pediatrics
 1451,physical medicine and rehabilitation
@@ -1792,7 +1792,7 @@
 1791,general surgery
 1792,psychiatry
 1793,facial plastic surgery
-1794,hospitalbased practice
+1794,hospital-based practice
 1795,endocrinology
 1796,family medicine
 1797,ent and head and neck surgery
@@ -1888,7 +1888,7 @@
 1887,medical oncology
 1888,facial plastic surgery
 1889,general practice
-1890,hospitalbased practice
+1890,hospital-based practice
 1891,pediatrics
 1892,family medicine
 1893,obstetrics and gynecology
@@ -2169,7 +2169,7 @@
 2168,rheumatology
 2169,anesthesiology
 2170,podiatry
-2171,hospitalbased practice
+2171,hospital-based practice
 2172,neurology
 2173,clinical psychology
 2174,internal medicine
@@ -2222,7 +2222,7 @@
 2221,general surgery
 2222,dentistry
 2223,internal medicine
-2224,hospitalbased practice
+2224,hospital-based practice
 2225,clinical genetics
 2226,surgical oncology
 2227,internal medicine
@@ -2413,7 +2413,7 @@
 2412,oral and maxillofacial surgery
 2413,podiatry
 2414,internal medicine
-2415,antiaging medicine
+2415,anti-aging medicine
 2416,family medicine
 2417,diagnostic radiology
 2418,pain management
@@ -2509,7 +2509,7 @@
 2508,family medicine
 2509,hand surgery
 2510,orthopedic foot and ankle surgery
-2511,maternalfetal medicine
+2511,maternal-fetal medicine
 2512,pediatric neurology
 2513,allergy and immunology
 2514,internal medicine
@@ -2811,7 +2811,7 @@
 2810,urology
 2811,podiatry
 2812,dentistry
-2813,antiaging medicine
+2813,anti-aging medicine
 2814,pulmonary critical care
 2815,allergy and immunology
 2816,dentistry
@@ -3101,7 +3101,7 @@
 3100,interventional radiology
 3101,aesthetic medicine
 3102,family medicine
-3103,hospitalbased practice
+3103,hospital-based practice
 3104,dentistry
 3105,pain management
 3106,infectious disease
@@ -3139,7 +3139,7 @@
 3138,medical oncology
 3139,radiation oncology
 3140,nephrology and dialysis
-3141,hospitalbased practice
+3141,hospital-based practice
 3142,podiatry
 3143,general practice
 3144,family medicine
@@ -3168,7 +3168,7 @@
 3167,general surgery
 3168,psychiatry
 3169,clinical psychology
-3170,hospitalbased practice
+3170,hospital-based practice
 3171,clinical psychology
 3172,dentistry
 3173,family medicine
@@ -3188,7 +3188,7 @@
 3187,family medicine
 3188,family medicine
 3189,ent and head and neck surgery
-3190,hospitalbased practice
+3190,hospital-based practice
 3191,emergency medicine
 3192,emergency medicine
 3193,diagnostic radiology
@@ -3197,12 +3197,12 @@
 3196,general surgery
 3197,podiatry
 3198,breast surgery
-3199,hospitalbased practice
+3199,hospital-based practice
 3200,general surgery
 3201,obstetrics and gynecology
 3202,radiology
 3203,dermatology
-3204,hospitalbased practice
+3204,hospital-based practice
 3205,hematology and oncology
 3206,internal medicine
 3207,dermatology

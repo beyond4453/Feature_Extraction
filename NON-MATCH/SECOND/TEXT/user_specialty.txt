@@ -109,7 +109,7 @@
 108,dermatology
 109,oral and maxillofacial surgery
 110,endocrinology
-111, select specialities 
+111,- select specialities -
 112,pediatric hematology and oncology
 113,radiation oncology
 114,family medicine
@@ -445,7 +445,7 @@
 444,pediatric dentistry
 445,dermatology
 446,pathology
-447,hospitalbased practice
+447,hospital-based practice
 448,orthodontics
 449,preventive medicine
 450,orthopedic surgery
@@ -1155,7 +1155,7 @@
 1154,internal medicine
 1155,pediatrics
 1156,podiatry
-1157,hospitalbased practice
+1157,hospital-based practice
 1158,gynecology
 1159,ent and head and neck surgery
 1160,ophthalmology
@@ -1175,7 +1175,7 @@
 1174,family medicine
 1175,pediatrics
 1176,family medicine
-1177,hospitalbased practice
+1177,hospital-based practice
 1178,ophthalmology
 1179,podiatry
 1180,pediatrics
@@ -1429,7 +1429,7 @@
 1428,family medicine
 1429,family medicine
 1430,hand surgery
-1431,hospitalbased practice
+1431,hospital-based practice
 1432,pulmonary critical care
 1433,dentistry
 1434,pathology
@@ -1734,7 +1734,7 @@
 1733,orthodontics
 1734,nephrology and dialysis
 1735,dentistry
-1736,maternalfetal medicine
+1736,maternal-fetal medicine
 1737,hematology and oncology
 1738,infectious disease
 1739,pediatrics
@@ -2335,7 +2335,7 @@
 2334,internal medicine
 2335,urology
 2336,preventive medicine
-2337, select specialities 
+2337,- select specialities -
 2338,pain management
 2339,emergency medicine
 2340,family medicine
@@ -2490,7 +2490,7 @@
 2489,podiatry
 2490,plastic surgery
 2491,family medicine
-2492, select specialities 
+2492,- select specialities -
 2493,orthopedic foot and ankle surgery
 2494,dentistry
 2495,cardiology
@@ -2645,7 +2645,7 @@
 2644,internal medicine
 2645,infectious disease
 2646,neurosurgery
-2647,hospitalbased practice
+2647,hospital-based practice
 2648,pain management
 2649,family medicine
 2650,pathology
@@ -2850,7 +2850,7 @@
 2849,dentistry
 2850,orthopedic surgery
 2851,dermatology
-2852,hospitalbased practice
+2852,hospital-based practice
 2853,podiatry
 2854,ophthalmology
 2855,dentistry
@@ -3252,10 +3252,10 @@
 3251,pain management
 3252,family medicine
 3253,hematology and oncology
-3254,antiaging medicine
+3254,anti-aging medicine
 3255,podiatry
 3256,infectious disease
-3257, select specialities 
+3257,- select specialities -
 3258,radiology
 3259,interventional radiology
 3260,anesthesiology

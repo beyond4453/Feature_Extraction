@@ -93,7 +93,7 @@
 92,family medicine
 93,urology
 94,obstetrics and gynecology
-95, select specialities 
+95,- select specialities -
 96,psychiatry
 97,internal medicine
 98,family medicine
@@ -164,7 +164,7 @@
 163,general practice
 164,neurology
 165,internal medicine
-166, select specialities 
+166,- select specialities -
 167,interventional radiology
 168,surgical oncology
 169,internal medicine
@@ -189,7 +189,7 @@
 188,pain management
 189,family medicine
 190,family medicine
-191,hospitalbased practice
+191,hospital-based practice
 192,internal medicine
 193,emergency medicine
 194,clinical psychology
@@ -817,7 +817,7 @@
 816,cardiology
 817,dentistry
 818,ophthalmology
-819,maternalfetal medicine
+819,maternal-fetal medicine
 820,psychiatry
 821,podiatry
 822,pain management
@@ -1816,7 +1816,7 @@
 1815,cosmetic dentistry
 1816,neurology
 1817,dentistry
-1818, select specialities 
+1818,- select specialities -
 1819,cardiology
 1820,general practice
 1821,internal medicine
@@ -2355,7 +2355,7 @@
 2354,pathology
 2355,family medicine
 2356,oral and maxillofacial surgery
-2357,hospitalbased practice
+2357,hospital-based practice
 2358,family medicine
 2359,radiation oncology
 2360,pediatrics
@@ -2686,7 +2686,7 @@
 2685,neurology
 2686,neurology
 2687,family medicine
-2688,hospitalbased practice
+2688,hospital-based practice
 2689,pediatrics
 2690,nan
 2691,internal medicine
@@ -2734,7 +2734,7 @@
 2733,bariatrics
 2734,internal medicine
 2735,internal medicine
-2736,hospitalbased practice
+2736,hospital-based practice
 2737,oral and maxillofacial surgery
 2738,pediatrics
 2739,emergency medicine
@@ -2768,7 +2768,7 @@
 2767,pain management
 2768,family medicine
 2769,preventive medicine
-2770,hospitalbased practice
+2770,hospital-based practice
 2771,family medicine
 2772,internal medicine
 2773,emergency medicine
@@ -2821,7 +2821,7 @@
 2820,family medicine
 2821,neurology
 2822,dermatology
-2823,hospitalbased practice
+2823,hospital-based practice
 2824,family medicine
 2825,family medicine
 2826,family medicine
@@ -2832,7 +2832,7 @@
 2831,ent and head and neck surgery
 2832,family medicine
 2833,internal medicine
-2834,antiaging medicine
+2834,anti-aging medicine
 2835,family medicine
 2836,internal medicine
 2837,internal medicine
@@ -2905,7 +2905,7 @@
 2904,podiatry
 2905,radiation oncology
 2906,plastic surgery
-2907, select specialities 
+2907,- select specialities -
 2908,ophthalmology
 2909,ent and head and neck surgery
 2910,obstetrics and gynecology

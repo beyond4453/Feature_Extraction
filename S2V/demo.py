@@ -17,7 +17,7 @@ logging.basicConfig(format='%(asctime)s : %(threadName)s : %(levelname)s : %(mes
 logging.info("running %s" % " ".join(sys.argv))
 
 input_file = 'non_match_third_s2v.txt'
-model = Word2Vec(LineSentence(input_file), size=20, window=5, sg=0, min_count=5, workers=8)
+model = Word2Vec(LineSentence(input_file), size=50, window=5, sg=0, min_count=5, workers=8)
 model.save(input_file + '.model')
 model.save_word2vec_format(input_file + '.vec')
 

@@ -143,34 +143,34 @@ def extract_text_features(path_in, path_lda):
 
     # Process with the question_content
     qc = m['question_content']
-    qc = str_strip(qc)
+    #qc = str_strip(qc)
     #print qc
     qc.to_csv(path_lda+'/question_content.txt', encoding='utf-8')
 
     # Process with the answer_content
     ac = m['answer_content']
-    ac = str_strip(ac)
+    #ac = str_strip(ac)
     ac.to_csv(path_lda+'/answer_content.txt', encoding='utf-8')
 
     # Process with the user_recommends
     ur = m['user_recommends'].astype(str)
-    ur = str_strip(ur)
+    #ur = str_strip(ur)
     ur.to_csv(path_lda+'/user_recommends.txt', encoding='utf-8')
 
     # Process with question_tags
     qt = m['question_tags'].astype(str)
-    qt = str_strip(qt)
+    #qt = str_strip(qt)
     #print qt
     qt.to_csv(path_lda+'/question_tag.txt', encoding='utf-8')
 
     # Process with user_interest
     ut = m['user_interest'].astype(str)
-    ut = str_strip(ut)
+    #ut = str_strip(ut)
     ut.to_csv(path_lda+'/user_interest.txt', encoding='utf-8')
 
     # Proecess with user_specialty
     us = m['user_specialty'].astype(str)
-    us = str_strip(us)
+    #us = str_strip(us)
     us.to_csv(path_lda+'/user_specialty.txt', encoding='utf-8')
     
     

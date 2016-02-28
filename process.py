@@ -1,13 +1,15 @@
 # Process with the Text features to remove the stop words and 
 # Generate the source data used by LDA && OVER_LAP
 
+import re
 import nltk
+import sys
 from nltk.corpus import stopwords
+from nltk.stem.porter import PorterStemmer
+from nltk.stem import SnowballStemmer
+
 #nltk.download()
 
-#PATH_IN = 'DIVIDE/match/best_answer_features/TEXT_FEATURES/'
-#PATH_OUT = 'DIVIDE/match/best_answer_features/LDA/'
-#PATH_OUT = 'DIVIDE/match/best_answer_features/OVER_LAP/'
 
 def remove_stop_words(fin, fout) :
     for line in fin:
@@ -17,7 +19,36 @@ def remove_stop_words(fin, fout) :
         fout.write(' '.join(filtered_words))
         fout.write('\n')
 
+# do text - preprocessing 
+# get tokens / remove stopwords / do stemming 
+def text_processing(FIN, FOUT) :
+    for line in FIN :
+        stemmed = []
+
+        # do some strip to get tokens 
+        word_str = line.split(',')[1]
+        word_str = word_str.replace('u\'', '\'')
+        word_str = word_str.replace("'", "")
+        word_str = re.sub(r"\W+", " ", word_str)
+        word_list = word_str.strip().split(' ')
+        
+        # remove the stop words from tokens 
+        filtered = [word for word in word_list if word not in stopwords.words('english')]
+        print filtered
+        # do stemming on the word 
+        for word in filtered :
+            #stemmed.append(PorterStemmer().stem(word))
+            stemmed.append(SnowballStemmer("english").stem(word))
+        FOUT.write(' '.join(stemmed))
+        FOUT.write('\n')
+
+    return 
+
 def process_text_features(PATH_IN, PATH_OUT) :
+    
+    reload(sys)
+    sys.setdefaultencoding('utf8')
+
     f_in1 = open(PATH_IN+'question_content.txt','r')
     f_out1 = open(PATH_OUT+'question_content_pro.txt','w')
 
@@ -36,12 +67,12 @@ def process_text_features(PATH_IN, PATH_OUT) :
     f_in6 = open(PATH_IN+'user_specialty.txt', 'r')
     f_out6 = open(PATH_OUT+'user_specialty_pro.txt', 'w')
 
-    remove_stop_words(f_in1, f_out1)
-    remove_stop_words(f_in2, f_out2)
-    remove_stop_words(f_in3, f_out3)
-    remove_stop_words(f_in4, f_out4)
-    remove_stop_words(f_in5, f_out5)
-    remove_stop_words(f_in6, f_out6)
+    text_processing(f_in1, f_out1)
+    text_processing(f_in2, f_out2)
+    text_processing(f_in3, f_out3)
+    text_processing(f_in4, f_out4)
+    text_processing(f_in5, f_out5)
+    text_processing(f_in6, f_out6)
 
     f_in1.close()
     f_out1.close()
