@@ -1,6 +1,4 @@
+This is the Source-code for LDA
 
-1. run the process.py to remove stop words
-
-2. union the same words (not done yet)
-
-3. run the contact.py to contact files
+Usage : you should put the numOfLines in the header of the LDA_SOURCE.txt
+        then run the code 
