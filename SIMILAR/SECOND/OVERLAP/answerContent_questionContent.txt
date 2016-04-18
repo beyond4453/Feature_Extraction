@@ -1,0 +1,1959 @@
+0,nasal septum,2
+1, week smoker,3
+2, adenoid enlarg snore ent treatment,6
+3,3,get,1
+4,4,herp,1
+5,node ear swell lymph tooth,5
+6,,1
+7,even  pain heart chest worri attack,7
+8,test sexual hiv,3
+9, caus,2
+10, mammogram breast,3
+11,concern,1
+12,jaw dentist wisdom pain teeth,5
+13, dementia effect,3
+14,,1
+15,,1
+16,,1
+17, jaw move caus,4
+18,,0
+19,,1
+20,,1
+21,like,1
+22,,1
+23,septum spray nasal,3
+24,,0
+25, toe,2
+26,,0
+27, med etc,3
+28, dementia stage alzheim,4
+29,,0
+30, swell spread,3
+31,,1
+32, muscl,2
+33,,1
+34, may,2
+35,,1
+36, rheumatoid,2
+37, tooth wisdom,3
+38,caus sore virus simplex cold herp,6
+39,,1
+40, heart attack,3
+41, dizzi vision blur,4
+42,,0
+43, mri,2
+44,,1
+45, test negat hiv,4
+46, gum,2
+47,,1
+48, dont,2
+49, throat,2
+50,,1
+51, joint,2
+52,node infect lymph,3
+53,,1
+54,,1
+55, test,2
+56,,1
+57, std pimpl,3
+58, cough,2
+59,,1
+60,biopsi breast needl,3
+61,,1
+62,,0
+63, heart attack similar,4
+64,,1
+65,,1
+66, use apnea cpap work sleep,6
+67,,1
+68, gum tooth,3
+69, fever,2
+70,,1
+71, sore cold,3
+72, like,2
+73, ct scan,3
+74, go size swollen,4
+75,,1
+76, jaw open,3
+77,canal  need root tooth,5
+78,node  lymph,3
+79,,0
+80, teeth wisdom,3
+81,liver cancer cirrhosi,3
+82, radiologist mammogram breast,4
+83,neuropathi,1
+84, mri ms,3
+85,,1
+86,,0
+87,,0
+88, rib chest pain,4
+89,,0
+90,,1
+91,sciatica,1
+92, throat,2
+93,,1
+94, anxieti,2
+95,feel,1
+96, yeast,2
+97,,1
+98, tmj,2
+99,,1
+100,incontin stress,2
+101, bump look,3
+102, see numb,3
+103,chlamydia gonorrhea,2
+104,lyrica neurontin,2
+105, lupus,2
+106, go,2
+107, headach migrain,3
+108, vomit nausea,3
+109, ear,2
+110, mammogram breast,3
+111,node work,2
+112,,1
+113,infect yeast,2
+114,,1
+115,urin,1
+116, benign al,3
+117,,1
+118, benign cyst,3
+119,,0
+120,,0
+121, cough,2
+122, day,2
+123, breast lump,3
+124, sore throat spot red,5
+125,,0
+126, wors,2
+127,,0
+128, might pain,3
+129, doctor,2
+130,hair loss,2
+131,,1
+132, need doctor,3
+133, stool,2
+134, muscl,2
+135,,1
+136, hour,2
+137,,0
+138, biopsi,2
+139,biopsi fine breast needl,4
+140, 140,mammogram breast cancer,4
+141,breast cancer,2
+142, take,2
+143,mammogram,1
+144, amoxicillin,2
+145, take,2
+146, vicodin ibuprofen,3
+147, salin old help month,5
+148, antibiot dentist help,4
+149,,1
+150,,0
+151, emg,2
+152,,0
+153,,0
+154,,0
+155,,0
+156, see,2
+157,,1
+158, gum teeth,3
+159, ib,2
+160, could wart hpv vaccin,5
+161, infect cough day,4
+162,infect staph,2
+163,day symptom get,3
+164, doesnt help,3
+165,,1
+166, heart chest pain,4
+167,,0
+168, could period,3
+169, infect antibiot tooth,4
+170, laser acn treatment scar sever,6
+171,,1
+172,,1
+173,mammogram breast,2
+174, heart attack,3
+175,,1
+176,,0
+177, go away,3
+178,ultrasound mammogram breast,3
+179, surgeri,2
+180,sinus,1
+181, ultrasound mammogram breast,4
+182,,1
+183,,1
+184, uti,2
+185,,1
+186,mammogram,1
+187, breath chest panic attack,5
+188, sleep,2
+189, infect bacteri viral,4
+190, knee,2
+191, tingl numb,3
+192, pain,2
+193, get pain ra stiff,5
+194,incontin stress,2
+195,node  could lymph,4
+196, spine pain back month,5
+197, back,2
+198,,1
+199,pregnant,1
+200,knee partial,2
+201,lung breast cancer,3
+202, ultrasound mammogram breast,4
+203,cant breast,2
+204,incontin,1
+205, dentist pain,3
+206, headach,2
+207,,0
+208, breast cancer,3
+209, flu,2
+210,see breast,2
+211,surgeri get,2
+212, heart see like,4
+213, lung radiat,3
+214,snore,1
+215,incontin,1
+216,jaw pain,2
+217, nasal salin help,4
+218,birth,1
+219, heart attack test,4
+220,prolaps ,2
+221, allergi day,3
+222, infect cold cough,4
+223,allergi,1
+224,,0
+225, heart mi,3
+226,elbow,1
+227,xray chest,2
+228,,1
+229, scalp,2
+230, teeth,2
+231,,1
+232,caus,1
+233, knee compress wear,4
+234,dvt swell,2
+235,235,mammogram detect breast cancer,4
+236,therapi breast cancer radiat,4
+237,,0
+238,,1
+239, tooth,2
+240, apnea snore sleep,4
+241,,1
+242, biopsi,2
+243,,0
+244,knee surgeri acl,3
+245,callus toe,2
+246,mammogram breast,2
+247, swell blood get,4
+248, ms lyme,3
+249,,0
+250, cell remov,3
+251,node tender,2
+252,,0
+253,,1
+254,,1
+255,dental drain,2
+256, infect,2
+257,,1
+258,,0
+259,,0
+260,wisdom,1
+261, ibuprofen acetaminophen,3
+262,,0
+263,,0
+264, control late start birth miss,6
+265,nasal,1
+266, could symptom,3
+267,,0
+268, may infect,3
+269, heart diseas,3
+270, mammogram,2
+271,diseas lung,2
+272,,0
+273,,1
+274, cough,2
+275,,1
+276, pressur blood,3
+277,,0
+278, nail ingrown toe,4
+279, chemotherapi treatment breast radiat,5
+280, headach sure,3
+281, get,2
+282,eye,1
+283, heart chest pain,4
+284, best,2
+285, doctor,2
+286,dentist teeth wisdom,3
+287,therapi cancer radiat,3
+288,come therapi back cancer breast,5
+289, found white mri ms,5
+290, cancer chemotherapi back radiat came,6
+291, root canal crown tooth,5
+292, diseas lung fibrosi,4
+293,dental drain,2
+294, mammogram breast get,4
+295, need come back radiat,5
+296,,1
+297, foot,2
+298,,1
+299,,1
+300, dentist,2
+301, dentist,2
+302,,1
+303,,1
+304,herp,1
+305, ingrown toe,3
+306,,0
+307, headach brain tumor doctor,5
+308,,0
+309,,1
+310, pregnanc,2
+311, ear old nose cough,5
+312, done,2
+313, surgeri surgeon,3
+314,,1
+315, cancer,2
+316,,0
+317,,1
+318, surgeri lung cancer radiat,5
+319,,1
+320, like,2
+321, test headach,3
+322, take one,3
+323, infect caus tooth,4
+324, mammogram breast,3
+325, jaw get,3
+326,,1
+327, ear pain,3
+328, node biopsi lymph,4
+329, mastectomi cancer radiat,4
+330,,0
+331, lupus ra,3
+332,,1
+333,,1
+334,could,1
+335, mole,2
+336, caus nerv,3
+337,,1
+338, earli pregnanc test,4
+339, nasal,2
+340,,1
+341, excis,2
+342,,0
+343, heart attack pain chest,5
+344, hand,2
+345,,1
+346, scan radiat caus brain year ct,7
+347, biopsi,2
+348, soft,2
+349,med work,2
+350,,1
+351,nail hurt pain ingrown toenail,5
+352,get,1
+353, mammogram,2
+354,head injuri,2
+355, migrain neurologist scan,4
+356, like,2
+357,,1
+358,,0
+359,,1
+360,std consid,2
+361,,1
+362, need,2
+363,,1
+364,opinion surgeri pain year,4
+365, cancer skin,3
+366, callus 366,corn,3
+367,,1
+368,,0
+369, acn treatment,3
+370,,1
+371,caus,1
+372, test blood show,4
+373, swollen,2
+374, throat pain mouth symptom,5
+375,,0
+376,mammogram breast doctor,3
+377, feel swallow,3
+378,urin  uti,3
+379, caus stool blood day,5
+380, pain back,3
+381,,1
+382,depress anxieti,2
+383, sore throat strep,4
+384,,0
+385, pain back kidney,4
+386,,1
+387,,1
+388,see breast lump,3
+389,,0
+390,,0
+391, hida gallbladd scan ultrasound ct,6
+392, swell heat sinc,4
+393, 393,tmj,2
+394, heart stress holter done lot test,7
+395, jaw pain,3
+396, could,2
+397, throat tonsil,3
+398,,1
+399,treatment mri,2
+400,,1
+401,quit,1
+402, infect tooth wisdom,4
+403, gum tooth,3
+404,,1
+405, pain back,3
+406,,0
+407, infect tooth,3
+408, palpit get,3
+409, caus tooth,3
+410, period,2
+411, infect antibiot pain,4
+412, dentist pain tmj,4
+413,,1
+414, sore,2
+415,occur,1
+416,,1
+417,,1
+418,pregnant get,2
+419, period,2
+420, start,2
+421, loss pain weight especi throat,6
+422, feel level,3
+423,,1
+424,,1
+425, week posit hiv,4
+426, antibiot tooth,3
+427, take ibuprofen,3
+428, pain smoke cancer,4
+429, attack dizzi anxieti,4
+430, sleep,2
+431, sleep realli,3
+432, cancer,2
+433,impact  pain ach wisdom teeth extract,7
+434, asthma,2
+435,infect ear,2
+436, antibiot,2
+437, go tooth give,4
+438,,1
+439,,0
+440,node  lymph normal,4
+441,teeth wisdom,2
+442,,1
+443,,1
+444, infect,2
+445, sleep,2
+446, spine muscl spasm,4
+447,,1
+448,canal  root infect,4
+449, could,2
+450,,1
+451,,1
+452,migrain right doctor,3
+453,,1
+454, nervous,2
+455, pregnanc ectop,3
+456,,0
+457,prolaps pelvic birth caus organ,5
+458, bmi,2
+459,week  surgeri two,4
+460, mg pain dose neuropathi gabapentin,6
+461,disc treatment,2
+462,urin  uti cultur,4
+463, toe,2
+464,,1
+465, get,2
+466,color,1
+467, year,2
+468, pregnanc,2
+469, breast,2
+470, breast cancer,3
+471, nose,2
+472,,1
+473,,0
+474,,1
+475,,1
+476, dri foot athlet,4
+477, sleep snore apnea,4
+478, prescrib infect wisdom dentist friend,6
+479, pregnanc,2
+480,,0
+481, hair caus loss,4
+482, pms,2
+483, breast size,3
+484,,0
+485,wellbutrin,1
+486, rectal bright blood bleed red,6
+487, normal,2
+488,canal  root get,4
+489, melanoma,2
+490,,1
+491,,1
+492,,1
+493,,1
+494,,1
+495, extract bleed,3
+496,doctor,1
+497,,1
+498,,0
+499, sleep studi apnea,4
+500, wrist nerv,3
+501,,0
+502, benign 2,3
+503, incontin stress,3
+504,,0
+505,clot caus dvt blood leg,5
+506,tunnel carpal,2
+507,,0
+508, scar acn,3
+509, bleed,2
+510, get,2
+511,,0
+512, leg,2
+513,,0
+514,,0
+515,test genet,2
+516, sleep apnea like,4
+517,,0
+518,head,1
+519,get 6 doctor,3
+520, teeth,2
+521,,1
+522,drain,1
+523,,1
+524,biopsi breast,2
+525,,1
+526,remov look skin,3
+527,scar treatment acn,3
+528,test,1
+529,,1
+530,lump,1
+531,blood,1
+532,,1
+533,scan radiat brain 3 year ct,6
+534,,1
+535, doctor,2
+536,,0
+537,surgeri,1
+538,,0
+539, cancer normal chest lung ct,6
+540,,1
+541, surgeri cancer,3
+542, cant,2
+543, itchi rash,3
+544,abscess dental drain,3
+545, blood,2
+546,,1
+547,sleep snore,2
+548, disc,2
+549,breast,1
+550,,1
+551, caus dizzi,3
+552,help day,2
+553,feed  need breast milk,5
+554, ankl sprain fractur,4
+555,,1
+556, graft extract bone tooth,5
+557,canal  tooth,3
+558,herniat,1
+559, seen colon cancer,4
+560, appear skin,3
+561,,1
+562,,1
+563, sensit bite fill,4
+564, 564,ct scan,3
+565, urin done,3
+566, chest normal well ct,5
+567, pain neck numb,4
+568,ct cancer scan,3
+569, lump cancer breast,4
+570, stress dizzi,3
+571, stone pain blood kidney,5
+572,,1
+573,,0
+574,infect,1
+575, mri ms,3
+576, cyst mammogram breast ultrasound,5
+577, tmj,2
+578,,1
+579,mammogram breast,2
+580, cancer,2
+581,jaw tmj,2
+582, feel wisdom pain tooth,5
+583, take,2
+584, 2,2
+585, tmj,2
+586,,0
+587,,1
+588,caus pain,2
+589, pain wisdom,3
+590, could diabet,3
+591,,0
+592,,1
+593,,0
+594,caviti fill,2
+595, sprain,2
+596,extract pain wisdom,3
+597, zoloft,2
+598, dentist,2
+599, week cough,3
+600, flu,2
+601,cymbalta lexapro,2
+602,like know,2
+603, pain mri symptom,4
+604,detect colon ct,3
+605,,1
+606,cat colon scan,3
+607, infect,2
+608,,0
+609,go doctor ent ct,4
+610,depress anti,2
+611, mri ms,3
+612,,1
+613, zoloft,2
+614,,1
+615,scalp,1
+616,,0
+617,tmj click,2
+618, stroke,2
+619,,0
+620,zoloft abilifi,2
+621, lung wheez,3
+622, normal,2
+623, small,2
+624, bump,2
+625, eye,2
+626,breast famili histori,3
+627, ligament,2
+628, jaw pain side,4
+629, vagin,2
+630, jaw,2
+631,think doctor,2
+632,ear hear,2
+633,infect,1
+634, xray chest lung,4
+635,chest,1
+636, breath short cough copd,5
+637,vagina,1
+638,week  pregnant,3
+639, problem cystoscopi lesion bladder,5
+640, mri,2
+641, swollen gum teeth,4
+642, small neuropathi,3
+643,,1
+644,herp,1
+645,,0
+646, steroid cream,3
+647,cancer,1
+648, biopsi,2
+649, wisdom like teeth,4
+650,,1
+651, avoid herniat disc exercis surgeri,6
+652, pregnant discharg late test day,6
+653, also back,3
+654,654,abdomin,1
+655, fill tooth,3
+656,foot swell,2
+657,,1
+658,claritin,1
+659,,0
+660, numb,2
+661, anxieti,2
+662, infect sinus,3
+663,xray copd air,3
+664, pregnanc period get,4
+665, surgeri disc herniat,4
+666,,1
+667,,1
+668,,0
+669,669,wisdom stop tooth dentist extract bleed,6
+670,herp,1
+671, remov,2
+672,,0
+673, possibl ct,3
+674, heal fractur walk,4
+675, migrain,2
+676, babi marijuana,3
+677,,0
+678, lump cancer breast,4
+679,,1
+680,,1
+681, vision,2
+682,,1
+683,,0
+684,jaw,1
+685,problem,1
+686, wisdom teeth,3
+687,,1
+688,,0
+689, itchi also nose ear runni,6
+690,sperm 690,intercours pregnant,3
+691,,0
+692,,0
+693,degener macular,2
+694,,0
+695, sexual activ,3
+696,,0
+697, caus numb,3
+698, sore fever,3
+699, caus,2
+700, time,2
+701,701,vitamin,1
+702, infect,2
+703,,0
+704,,1
+705,doctor,1
+706, std,2
+707,throat fever get,3
+708, caus disc,3
+709, chest cancer smoke,4
+710, lump cancer breast,4
+711,peni,1
+712,,1
+713,,1
+714,,1
+715,,0
+716, period normal,3
+717,pain,1
+718,,0
+719, heart rate pressur diltiazem,5
+720,,0
+721, mri ms,3
+722, node lymph swollen,4
+723,cough,1
+724,,1
+725, wisdom tooth,3
+726,pregnant,1
+727,xray age chest,3
+728,pain,1
+729,infect sinus,2
+730,xray given chest,3
+731,,0
+732, pregnant,2
+733, radiat,2
+734, wisdom,2
+735, jaw mouth,3
+736,dri cough,2
+737,cough,1
+738, congest,2
+739,,1
+740,,0
+741, tooth,2
+742,,1
+743, surgeri,2
+744,,1
+745,,1
+746,,0
+747,sore,1
+748, tri,2
+749, contrast ct,3
+750,dri extract socket tooth,4
+751, dentist wisdom tooth,4
+752,,0
+753,,0
+754,teeth extract wisdom,3
+755, throat strep,3
+756, urin blood,3
+757, headach symptom,3
+758,marijuana smoke,2
+759, headach symptom go,4
+760,caviti tooth,2
+761, oral cancer,3
+762,allergi flu,2
+763,,0
+764,mammogram breast,2
+765,,1
+766,depress anxieti help,3
+767,,0
+768, surgeri,2
+769,herniat,1
+770,,0
+771,mri ms,2
+772, dont,2
+773,,0
+774, need,2
+775,,1
+776,marijuana help,2
+777,get,1
+778,breast cancer,2
+779,,0
+780,780,fibroadenoma cancer,2
+781, pain,2
+782,,1
+783,disc,1
+784, pregnant,2
+785,thyroid surgeri biopsi nodul,4
+786,,0
+787,,0
+788, lesion like symptom,4
+789,problem wisdom swollen,3
+790,surgeri,1
+791, due,2
+792,,1
+793, infect sinus,3
+794, heal boot,3
+795,,0
+796, heart enough test,4
+797, right,2
+798,,0
+799, teeth day wisdom,4
+800, base toe,3
+801, age degener macular relat,5
+802,marijuana smoke,2
+803,,0
+804,prednison,1
+805,,1
+806,,1
+807,surgeri recoveri time,3
+808, lung collaps,3
+809, sleep apnea,3
+810, sore breast cancer,4
+811, ankl check fractur,4
+812, jaw tmj left,4
+813,surgeri,1
+814, pain lot toe,4
+815, cancer,2
+816, migrain tumor,3
+817, seizur,2
+818,extract wisdom,2
+819,vascular,1
+820,,1
+821,breast,1
+822,week  3,3
+823,,1
+824, go week milk breast,5
+825,mammogram detect breast cancer,4
+826,,1
+827,,1
+828,wisdom extract teeth,3
+829, feel pain,3
+830, acl,2
+831,,0
+832, care,2
+833, diagnos pain big,4
+834,,0
+835, scar acn treatment,4
+836, node lymph,3
+837, could look,3
+838, 2 type diabet,4
+839, extract bone wisdom,4
+840,effect,1
+841,breast cancer,2
+842,cure lung cancer,3
+843, get,2
+844,lung cancer,2
+845,lung cancer,2
+846, antibiot get,3
+847,,1
+848,,0
+849,,1
+850, surgeri,2
+851, stone,2
+852, get,2
+853, sore,2
+854,,1
+855, throat sore,3
+856, could fill get,4
+857,,1
+858, high stroke pressur blood,5
+859, go use fill,4
+860,fill tooth,2
+861,,0
+862,depress psychotherapi medic,3
+863,,0
+864,,0
+865,,1
+866, use,2
+867,pain extract socket,3
+868,,0
+869,disc herniat,2
+870, start good,3
+871,,1
+872,remov wisdom,2
+873,,0
+874,,1
+875, throat could,3
+876,,1
+877, heart,2
+878, masturb,2
+879, mri ms,3
+880,,0
+881, nerv,2
+882,tooth,1
+883,tmj teeth,2
+884, infect use,3
+885, varicos vein,3
+886,,1
+887,,1
+888,,1
+889,,0
+890,,1
+891, breast cancer,3
+892, symptom temporomandibular,3
+893,pain,1
+894, sleep,2
+895, socket dri still extract day,6
+896,,1
+897, infect ear dizzi,4
+898,,0
+899, knee,2
+900,,1
+901,sciatica nerv pain prednison,4
+902, swell teeth wisdom,4
+903,,0
+904, taken,2
+905, need pressur blood,4
+906,,0
+907,,1
+908, fever congest,3
+909,,1
+910,,1
+911, tooth wisdom,3
+912, heart discomfort attack,4
+913,could,1
+914, ssris zoloft worri syndrom,5
+915,,1
+916,,0
+917,,1
+918, clean,2
+919,,1
+920, could ear,3
+921, surgeri pressur open,4
+922,,1
+923, teeth,2
+924,canal  antibiot infect,4
+925,detach retina eye,3
+926, avoid cancer,3
+927,,0
+928, breast cancer radiat,4
+929, test get,3
+930,,0
+931,blood,1
+932, acetaminophen ibuprofen,3
+933, tumor,2
+934, swallow,2
+935,,1
+936,,1
+937,,1
+938, sensit,2
+939, wisdom hear tooth,4
+940, cancer,2
+941, lung sob asthma,4
+942,breast,1
+943, depress defici caus 943,vitamin,5
+944,node lymph normal,3
+945,seizur eeg,2
+946,flu,1
+947,,0
+948, like,2
+949, caus go numb,4
+950, dentist,2
+951, node,2
+952,pain side,2
+953, dentist,2
+954,,1
+955,dentist,1
+956,get,1
+957,,1
+958,,0
+959,,1
+960,,1
+961,node  dentist wisdom see lymph,6
+962, sleep,2
+963,,1
+964, bump itchi,3
+965, year,2
+966, period today due,4
+967,,0
+968, advil,2
+969, attack anxieti panic,4
+970,,1
+971,,1
+972, tooth extract wisdom,4
+973,,1
+974, surgeri fractur fibula,4
+975, wisdom,2
+976,infect,1
+977, breath dont,3
+978,tendon,1
+979, acn,2
+980, good,2
+981,,1
+982, sexual,2
+983,node  swell caus lymph,5
+984,,1
+985,,1
+986, fill,2
+987, neck,2
+988, ct scan,3
+989,,1
+990, foot sprain,3
+991,,1
+992, disc due herniat,4
+993, bite tooth,3
+994,sound  jaw pop treat tmj stage,7
+995,increas mammogram breast cancer,4
+996,,0
+997, sore,2
+998,,0
+999,,1
+1000, albuterol asthma help wheez cough,6
+1001,brain mri,2
+1002, wisdom,2
+1003, take,2
+1004,,0
+1005,marijuana smoke,2
+1006,thyroid nodul,2
+1007,,0
+1008,,0
+1009,1009,wisdom teeth,2
+1010, damag nerv,3
+1011, caus issu,3
+1012,,1
+1013, jaw tmj open,4
+1014,cough,1
+1015, pain,2
+1016,,0
+1017,,0
+1018,,1
+1019,,0
+1020, headach neck help,4
+1021,,1
+1022,,1
+1023,ankl sprain,2
+1024,doctor,1
+1025,,0
+1026,,1
+1027, heart,2
+1028,tooth extract wisdom,3
+1029, pull,2
+1030,,1
+1031, pain,2
+1032,,1
+1033,,0
+1034, fever old month,4
+1035, cancer,2
+1036,,1
+1037,swell wisdom,2
+1038,,0
+1039,,0
+1040, need,2
+1041,,1
+1042,,1
+1043,,0
+1044, head stroke,3
+1045,,0
+1046,ms,1
+1047, still concuss exercis,4
+1048, test 1048,ct scan,4
+1049,thyroid biopsi nodul,3
+1050,,0
+1051,,1
+1052, food socket,3
+1053,copd,1
+1054, tooth,2
+1055,pregnant,1
+1056, laser ipl,3
+1057, start could throat mild,5
+1058, teeth,2
+1059, heart test,3
+1060, period get,3
+1061, brain mri ms,4
+1062, feel anxieti ekg breath,5
+1063, ct lymph,3
+1064,,1
+1065, arm,2
+1066,week ,2
+1067,day,1
+1068,,1
+1069,,1
+1070,antidepress,1
+1071, sore irrit,3
+1072, tongu,2
+1073,,1
+1074,,1
+1075, gallbladd,2
+1076,ankl,1
+1077, mammogram exam breast,4
+1078, could cancer,3
+1079,infect,1
+1080,,1
+1081, xray test,3
+1082,would,1
+1083,cyst,1
+1084,,0
+1085,day,1
+1086, test blood,3
+1087,mammogram,1
+1088,,0
+1089, go help,3
+1090,,1
+1091, flu could shot,4
+1092,,0
+1093,,0
+1094,breast,1
+1095,,0
+1096,,1
+1097,old,1
+1098, throat,2
+1099, pain hand wrist finger numb,6
+1100,chest ct normal,3
+1101,,0
+1102,,1
+1103,,1
+1104,caus,1
+1105,,0
+1106,,0
+1107, take fissur day hemorrhoid,5
+1108,thyroid  tsh normal,4
+1109, pregnanc,2
+1110,,1
+1111, feel,2
+1112,,1
+1113,,0
+1114,,1
+1115, dvt swell red,4
+1116, breath,2
+1117,surgeri,1
+1118, infect see pain dentist,5
+1119,,1
+1120, surgeri septum,3
+1121,breast,1
+1122,caus swell lump cancer breast,5
+1123, arthriti,2
+1124, need antibiot dentist wisdom,5
+1125, ms symptom mri rule,5
+1126,applianc cpap treatment,3
+1127,infect fluconazol,2
+1128, yeast,2
+1129,canal root tooth,3
+1130, pain get,3
+1131, leg,2
+1132,lump,1
+1133,xray,1
+1134, tooth gum wisdom,4
+1135, applianc use apnea,4
+1136, surgeri deviat septum nose,5
+1137,,1
+1138, sinus,2
+1139,,1
+1140, day,2
+1141, swollen gum area,4
+1142,swell,1
+1143,remov treatment wisdom,3
+1144,,1
+1145,arthriti like,2
+1146,,0
+1147,head injuri,2
+1148,,1
+1149,,1
+1150,,1
+1151, day low,3
+1152, spread,2
+1153, hand,2
+1154, 1154,bone pain,3
+1155, need wisdom teeth ibuprofen,5
+1156, infect could yeast,4
+1157,,0
+1158,week  pain socket infect dri extract,7
+1159,,1
+1160, symptom ms get,4
+1161, ct,2
+1162,tmj teeth,2
+1163,,1
+1164, test 1164,ct scan,4
+1165, heart pain,3
+1166, right,2
+1167, pain,2
+1168, sore throat fever chill,5
+1169,,1
+1170, throat,2
+1171, food allergi test,4
+1172, jaw pain,3
+1173, loss caus,3
+1174,take,1
+1175,,1
+1176,week  babi,3
+1177, pet mammogram breast scan,5
+1178,,0
+1179, remov,2
+1180, urin pregnanc period,4
+1181, itchi rash,3
+1182, defici like,3
+1183,breast cancer,2
+1184, throat allergi,3
+1185,,1
+1186, chlamydia itch also gonorrhea go,6
+1187,,1
+1188, surgeri pain year,4
+1189, lump,2
+1190, foot,2
+1191, cramp,2
+1192,,0
+1193, pressur blood,3
+1194,extract tooth,2
+1195, feet,2
+1196, surgeri numb nerv,4
+1197, day pregnant,3
+1198,,0
+1199,node ,2
+1200,caus breath mouth ,4
+1201,,0
+1202, pet mammo breast ct,5
+1203,,0
+1204,sore cold someon,3
+1205,urin  test posit,4
+1206,,0
+1207,,1
+1208, acn,2
+1209,sore,1
+1210, need alk,3
+1211, temperatur,2
+1212,sore cold someon,3
+1213,,0
+1214,heart,1
+1215, infect could treat yeast,5
+1216, brain mri ms,4
+1217,,1
+1218, day,2
+1219,,1
+1220,,1
+1221,,0
+1222, sore throat penicillin,4
+1223, go cyst,3
+1224, ms,2
+1225,teeth,1
+1226,,0
+1227,,1
+1228,neurologist,1
+1229, pregnanc test day pregnant,5
+1230,jaw dentist pain,3
+1231, infect pain normal,4
+1232, sex shot hpv possibl,5
+1233, fever breast cancer,4
+1234, mri ms,3
+1235,,1
+1236, pregnant negat period regular time test,7
+1237, throat,2
+1238, breast cancer radiat,4
+1239, sore throat,3
+1240, pain,2
+1241,,1
+1242, cancer gum histori lung smoke,6
+1243,check,1
+1244, leg negat clot test dvt,6
+1245, constip,2
+1246,,0
+1247,,0
+1248,,1
+1249,,1
+1250,throat fever day,3
+1251,,1
+1252,,1
+1253, tingl numb,3
+1254,,1
+1255,,1
+1256, pain arm numb,4
+1257,,1
+1258, blood,2
+1259,,1
+1260, congest,2
+1261, risk cancer,3
+1262,,1
+1263, breast cancer,3
+1264, like,2
+1265,,0
+1266, knee,2
+1267,,1
+1268,,0
+1269,,1
+1270,famili histori,2
+1271,infant,1
+1272,,0
+1273, cancer doctor away lump breast,6
+1274, feet,2
+1275, toe,2
+1276,,0
+1277,test anoth breast,3
+1278,lung breast cancer,3
+1279,node patient breast,3
+1280,breast cancer,2
+1281,,0
+1282, hurt,2
+1283,,1
+1284, pain,2
+1285,,1
+1286,,1
+1287, heart,2
+1288,,0
+1289, big pain toe,4
+1290,,1
+1291,,1
+1292, dvt,2
+1293,arthriti,1
+1294,,0
+1295,knee,1
+1296, test,2
+1297, breast lump,3
+1298, extract intens pain,4
+1299, leg surgeri clot blood need,6
+1300,,0
+1301, tonsil would,3
+1302,ct scan,2
+1303,breast,1
+1304,,1
+1305, ms,2
+1306,,1
+1307,heal ankl get,3
+1308,,0
+1309,scar acn,2
+1310, ms,2
+1311, chest cancer,3
+1312,,1
+1313,graft,1
+1314, tunnel syndrom wrist hand,5
+1315, pain ms,3
+1316, caus,2
+1317, xray,2
+1318, also,2
+1319, dvt swell,3
+1320, could breast cancer,4
+1321, side cancer,3
+1322,,1
+1323,,1
+1324,caus constip,2
+1325,therapi cancer,2
+1326, injuri nerv,3
+1327,,0
+1328, weak normal,3
+1329,,1
+1330,valv,1
+1331,,1
+1332,,0
+1333,,0
+1334, hpv cancer get,4
+1335, chronic sinus ear,4
+1336,,1
+1337, stone pain kidney,4
+1338, infect,2
+1339, bulg varicos vein get,5
+1340,,0
+1341, take doctor,3
+1342,node neck,2
+1343, extract bone tooth,4
+1344, much,2
+1345, long,2
+1346, reconstruct mastectomi breast radiat,5
+1347, pain diabet neuropathi,4
+1348,alcohol,1
+1349, caus,2
+1350,,0
+1351, headach dizzi teeth,4
+1352, breast,2
+1353,,1
+1354, breast cancer,3
+1355,,1
+1356,surviv cancer month,3
+1357,,0
+1358,given doctor,2
+1359,,0
+1360,cancer,1
+1361,anxieti,1
+1362,,1
+1363, extract pain normal,4
+1364,,1
+1365, heart attack,3
+1366, scan,2
+1367,caus defici vitamin,3
+1368, get,2
+1369, hard gum,3
+1370, test pain,3
+1371, ibuprofen acetaminophen,3
+1372,day,1
+1373, infect,2
+1374,,1
+1375, mammogram breast,3
+1376,,1
+1377,graft,1
+1378,test,1
+1379, test,2
+1380,node lymph swollen normal,4
+1381, tender,2
+1382, go wheez,3
+1383,day,1
+1384, chemotherapi patient neoadjuv,4
+1385,,1
+1386,,0
+1387, caus,2
+1388,,1
+1389, liver,2
+1390,,1
+1391,fever,1
+1392, pain,2
+1393, ankl,2
+1394,,0
+1395,,1
+1396,,1
+1397, breast cancer,3
+1398, dentist teeth wisdom,4
+1399, depress symptom,3
+1400, breast lump,3
+1401,possibl,1
+1402, teeth wisdom,3
+1403, help,2
+1404, bone show,3
+1405,,1
+1406, pain,2
+1407, scar laser effect,4
+1408, cancer,2
+1409, canal pain infect need root sever,7
+1410, small year,3
+1411,,0
+1412,like,1
+1413,,1
+1414, lump cancer breast,4
+1415, headach could pain neck,5
+1416, leg,2
+1417,,1
+1418, foot ankl get,4
+1419,node behind ear lymph,4
+1420, extract,2
+1421,,1
+1422,urin uti,2
+1423,,1
+1424, pain infect tooth wisdom day,6
+1425, antibiot,2
+1426,infect dentist good tooth,4
+1427,,1
+1428,,1
+1429, treat symptom,3
+1430, could,2
+1431,,1
+1432,,1
+1433, infect cough,3
+1434,test,1
+1435,,1
+1436, chlamydia,2
+1437, lump cancer,3
+1438,prescrib,1
+1439, sexual activ,3
+1440,strep,1
+1441,,0
+1442,,1
+1443,,0
+1444, dizzi vision symptom,4
+1445, head injuri day symptom,5
+1446, random blood,3
+1447,tumor treatment,2
+1448, gum area,3
+1449, feet 1449,vitamin tingl,4
+1450,,1
+1451,remov open wisdom,3
+1452, ibuprofen acetaminophen,3
+1453,,0
+1454,cancer,1
+1455, blood,2
+1456, week infect,3
+1457, congest,2
+1458,,0
+1459, ibuprofen,2
+1460, rib help scan,4
+1461,,1
+1462,,1
+1463,sore,1
+1464, apnea cpap sleep 1464,sleep,5
+1465,,0
+1466,,0
+1467, 1467,knee like,3
+1468, bump,2
+1469,,1
+1470, arthriti psoriat,3
+1471,,1
+1472,,1
+1473, pain neck,3
+1474,week,1
+1475, tmj,2
+1476,,0
+1477,,1
+1478, extract pain,3
+1479, check,2
+1480, last sinc,3
+1481, pain numb,3
+1482,,1
+1483,,0
+1484, surgeri,2
+1485,tooth,1
+1486,test negat possibl,3
+1487, meniscus,2
+1488,,0
+1489, mri ms,3
+1490,dental,1
+1491,nippl lump cancer,3
+1492,,1
+1493,,1
+1494, increas worri ct,4
+1495, breath extract wisdom,4
+1496, exam cancer breast,4
+1497, ulcer get,3
+1498, lung cancer,3
+1499, knee behind,3
+1500, teeth,2
+1501, take,2
+1502, go throat fever strep,5
+1503, realli,2
+1504, also,2
+1505, test pregnant,3
+1506,could,1
+1507,,0
+1508,,0
+1509, acid stomach,3
+1510, long,2
+1511, cancer,2
+1512, could ent,3
+1513,treatment breast,2
+1514, mass,2
+1515,constip,1
+1516, pain,2
+1517,node possibl infect tooth lymph ear,6
+1518,breast,1
+1519,,0
+1520,,1
+1521, bleed hemorrhoid,3
+1522, howev hysterectomi cin,4
+1523,chemotherapi breast cancer,3
+1524, caus pain side cyst,5
+1525,get pregnant,2
+1526, scar option acn,4
+1527, sprain,2
+1528,,1
+1529, rash,2
+1530, could breast lump,4
+1531, caus,2
+1532,,0
+1533,methotrex,1
+1534,,0
+1535,blood,1
+1536, pain mri,3
+1537,,0
+1538,test,1
+1539,breast cancer,2
+1540, mouth,2
+1541,,1
+1542,,0
+1543,,1
+1544,acn,1
+1545, cough,2
+1546,,1
+1547, hurt,2
+1548, sinus,2
+1549, foot pain sprain fractur,5
+1550,,0
+1551, cant,2
+1552,,0
+1553, cell lung cancer,4
+1554,tumor worri year,3
+1555, disc pain herniat left,5
+1556, blood cancer,3
+1557,tumor caus,2
+1558,heart attack,2
+1559,,1
+1560, ms,2
+1561,run wheez,2
+1562,,1
+1563,,0
+1564,,1
+1565,,1
+1566, pain,2
+1567, anxieti mouth,3
+1568,cancer,1
+1569,,0
+1570, polyp colon,3
+1571, loss like weight,4
+1572,,1
+1573, ambien,2
+1574,,0
+1575, doctor,2
+1576,,1
+1577, gall bladder,3
+1578,ms,1
+1579,hpv,1
+1580, pain get,3
+1581,eye,1
+1582, pain toe,3
+1583,,1
+1584,,1
+1585,,1
+1586, smoke cancer,3
+1587,,1
+1588, itchi,2
+1589, compress wear stock,4
+1590,,0
+1591, attack anxieti,3
+1592,,1
+1593,come day,2
+1594, period,2
+1595,,1
+1596, 1596,dont,2
+1597, pregnanc breast,3
+1598, ct scan,3
+1599, diabet,2
+1600, reflux,2
+1601, tri 2,3
+1602, test blood,3
+1603, xray chest cancer,4
+1604, pregnanc test,3
+1605,tumor,1
+1606, cpap,2
+1607, 150mg day dose,4
+1608, pain weak,3
+1609,,1
+1610,,1
+1611,,0
+1612, lung cancer,3
+1613,,0
+1614, thyroid,2
+1615,diseas alzheim,2
+1616, vaccin shingl,3
+1617,,0
+1618, vaccin shingl,3
+1619,,0
+1620,tumor headach,2
+1621,,1
+1622, get,2
+1623, odor bv fishi yeast,5
+1624,,1
+1625, hernia stomach pain,4
+1626,colon cancer,2
+1627, pain ra bone,4
+1628,,0
+1629,infect yeast,2
+1630,breath chest pain,3
+1631, alt lab worri,4
+1632, heart attack,3
+1633, jaw pain,3
+1634,doctor,1
+1635,,0
+1636,node remov swollen lymph,4
+1637, migrain day 1637,migrain,4
+1638,,1
+1639,,1
+1640, nodul show,3
+1641,nodul month,2
+1642,,0
+1643,glucos blood sugar,3
+1644, period,2
+1645, vagin discharg,3
+1646, blood ms,3
+1647, like breast,3
+1648, nerv,2
+1649,,0
+1650, pain,2
+1651, tonsil strep,3
+1652, cyst,2
+1653,,1
+1654, diarrhea cancer,3
+1655,diabet,1
+1656,,0
+1657, period day pregnant,4
+1658, chest scare cancer doctor,5
+1659, nail ingrown skin red toe,6
+1660,take zyrtec,2
+1661, test hiv,3
+1662,occur,1
+1663, allegra claritin,3
+1664, itchi,2
+1665,,1
+1666, sore spot also throat red,6
+1667,tissu,1
+1668,cirrhosi,1
+1669,pregnanc,1
+1670,node infect swell caus lymph,5
+1671,t3,1
+1672,,1
+1673, sore red,3
+1674,,0
+1675, continu,2
+1676, period normal,3
+1677,,1
+1678,colon 1678,stomach diarrhea cancer,4
+1679, liver lab,3
+1680,,1
+1681,fissur stool hemorrhoid,3
+1682, help hurt,3
+1683,,1
+1684, lip,2
+1685,,0
+1686,,0
+1687, throat look,3
+1688,could,1
+1689, period,2
+1690,,0
+1691,,0
+1692, arthriti psoriat,3
+1693, bleed cancer,3
+1694, jaw pain neck,4
+1695,bleed day pregnant,3
+1696, heart test,3
+1697,,1
+1698, dizzi,2
+1699,work,1
+1700,,1
+1701,,1
+1702,,0
+1703, pain numb hand,4
+1704,men,1
+1705, diverticul,2
+1706,surgeri eye,2
+1707, surgeri detach eye,4
+1708,,0
+1709,breast cancer,2
+1710,cervic hpv cancer,3
+1711,stone,1
+1712,fractur fibula,2
+1713,thyroid multinodular goiter,3
+1714, blood cancer,3
+1715, good number,3
+1716,bipolar disord,2
+1717,differ vascular dementia alzheim,4
+1718,chemotherapi breast cancer treatment,4
+1719,migrain,1
+1720,,0
+1721, 1721,thyroid nodul,3
+1722,,0
+1723, headach pain neck,4
+1724,,0
+1725, chest pain,3
+1726,infect men tract urinari,4
+1727,,1
+1728, histori,2
+1729,knee schlatter,2
+1730,hsv1 someon pass,3
+1731,need ankl,2
+1732, infect take,3
+1733, correct astigmat,3
+1734, headach tumor brain,4
+1735,,0
+1736, surgeri eye,3
+1737, ankl pain,3
+1738,,1
+1739, radiat therapi cancer one,5
+1740, colonoscopi ct liver scan,5
+1741,,1
+1742, get,2
+1743,,1
+1744,,1
+1745, done,2
+1746, move,2
+1747, sinus,2
+1748,,1
+1749,,1
+1750,surgeri,1
+1751, surgeri retina eye hole,5
+1752,urin  fibroid uterin,4
+1753, numb,2
+1754, intercours pregnant,3
+1755, could,2
+1756, wear calf,3
+1757,,1
+1758, area,2
+1759,stone pain kidney,3
+1760,,1
+1761,dri eye,2
+1762, correct,2
+1763, good wear contact,4
+1764,,1
+1765, sexual,2
+1766, blood iron anemia,4
+1767, ankl sprain time,4
+1768, nearsighted correct astigmat lasik,5
+1769, nearsighted could result astigmat,5
+1770,apnea,1
+1771,,1
+1772, pain breast side,4
+1773, breast cancer radiat,4
+1774,,0
+1775,cancer,1
+1776,,1
+1777,,1
+1778, dri candid eye lasik,5
+1779, laser,2
+1780,urin  bladder cystoscopi done blood,6
+1781, could diabet,3
+1782, nail look foot toenail,5
+1783,pregnant,1
+1784,cyst,1
+1785, eye,2
+1786, tumor mri ct,4
+1787,,1
+1788,,0
+1789,,1
+1790, clot treatment dvt,4
+1791,xray lung cancer,3
+1792,,0
+1793, child,2
+1794, 1794,cultur,2
+1795, retin detach eye floater,5
+1796,,1
+1797, wrist hand,3
+1798, pain,2
+1799, len,2
+1800, penicillin,2
+1801, wisdom swollen,3
+1802,cancer,1
+1803, numb,2
+1804, pain,2
+1805, diarrhea month bodi 3 breast,6
+1806, pregnanc fertil,3
+1807, diabet,2
+1808, urin frequent,3
+1809, asthma,2
+1810, loss ear hear caus,5
+1811, viral fever infect mild throat bacteri,7
+1812, infect tooth,3
+1813, vein,2
+1814, surgeri anesthesia,3
+1815, shoe,2
+1816,chest pain sever,3
+1817, ct ent scan,4
+1818,treat,1
+1819, sore throat,3
+1820,,0
+1821, anxieti blood abnorm,4
+1822, eat,2
+1823,,1
+1824, viral eye,3
+1825, big doctor,3
+1826, fever,2
+1827, also could,3
+1828,gallston,1
+1829, ct sinc scan,4
+1830,tumor brain,2
+1831,,1
+1832,toe,1
+1833,,0
+1834,liver,1
+1835,,0
+1836, heart,2
+1837,,1
+1838,,1
+1839,herniat,1
+1840, xray chest lung cancer,5
+1841,,0
+1842, still,2
+1843, neg breast,3
+1844,adderal,1
+1845,,1
+1846, tingl,2
+1847,,0
+1848, rule,2
+1849,without mri contrast,3
+1850, surgeri daili,3
+1851,,1
+1852, infect wisdom tooth,4
+1853, test negat,3
+1854,diabet,1
+1855,rash,1
+1856,,0
+1857,,1
+1858, cough get,3
+1859, hernia hiatal give,4
+1860,,1
+1861,also,1
+1862,,1
+1863, pain,2
+1864, last ovul next,4
+1865,,0
+1866,,1
+1867,,0
+1868,,1
+1869, pain jaw 1869,jaw tooth caus,6
+1870, period,2
+1871,,0
+1872,,1
+1873, 4,2
+1874, flu,2
+1875, level,2
+1876,myocardi infarct,2
+1877, apnea 1877,sleep,3
+1878, stool blood,3
+1879,pain,1
+1880,tear knee,2
+1881, retin surgeri detach eye,5
+1882, surgeri eye,3
+1883,diseas alzheim,2
+1884, diseas neurolog lyme chronic ms,6
+1885,vagin,1
+1886,,1
+1887, cholesterol,2
+1888,caus injuri,2
+1889,polyp colon cancer,3
+1890, feed babi,3
+1891, pain,2
+1892,diabet,1
+1893, stone,2
+1894,fever infect antibiot 5 throat strep day,7
+1895, effect,2
+1896, ldl,2
+1897,stone,1
+1898, high dvt pe,4
+1899, caus,2
+1900,,1
+1901, chanc,2
+1902,,0
+1903,,1
+1904, vision astigmat correct,4
+1905, ear,2
+1906, hand,2
+1907,alzheim,1
+1908,,1
+1909, uti,2
+1910,,1
+1911, miss period breast,4
+1912,done surgeri eye,3
+1913, place eye len cataract,5
+1914, heart attack pain breath,5
+1915, loss hear,3
+1916,stool pain blood,3
+1917,sever,1
+1918,,0
+1919, test headach,3
+1920, ok,2
+1921,blood,1
+1922, brain mri,3
+1923, ib,2
+1924, pain leg,3
+1925, diabet,2
+1926, infect dentist sometim,4
+1927,,0
+1928,surgeri,1
+1929,breast cancer,2
+1930, disc herniat,3
+1931, breath apnea sleep,4
+1932, pain gerd gastriti stomach usual,6
+1933,diverticul,1
+1934,,0
+1935, brain diagnosi spinal mri ms,6
+1936,,1
+1937, radiologist month read 6,5
+1938,,1
+1939,,1
+1940,thyroid nodul cancer,3
+1941,,1
+1942,,0
+1943,,0
+1944,rheumatoid,1
+1945,,1
+1946,,1
+1947, breath pain,3
+1948,xray chest,2
+1949, stool,2
+1950,,1
+1951, caus,2
+1952, shingl,2
+1953,,1
+1954,polyp colon cancer,3
+1955,,1
+1956, run schlatter,3
+1957,,1
+1958,,1
