@@ -1,0 +1,1959 @@
+0,plastic surgeri
+1,famili medicin
+2,pediatr
+3,intern medicin
+4,dentistri
+5,infecti diseas
+6,general surgeri
+7,neurolog
+8,general practic
+9,anesthesiolog
+10,hematolog oncolog
+11,medic oncolog
+12,oral maxillofaci surgeri
+13,geriatr psychiatri
+14,dentistri
+15,podiatri
+16,dentistri
+17,oral maxillofaci surgeri
+18,diagnost radiolog
+19,cosmet dentistri
+20,intern medicin
+21,neurolog
+22,dentistri
+23,dentistri
+24,psychiatri
+25,podiatri
+26,pediatr
+27,rheumatolog
+28,clinic psycholog
+29,intern medicin
+30,hand surgeri
+31,dentistri
+32,dentistri
+33,pediatr
+34,dentistri
+35,podiatri
+36,pharmacolog
+37,dentistri
+38,dentistri
+39,pediatr urolog
+40, select special 
+41,pediatr
+42,psychiatri
+43,pain manag
+44,patholog
+45,famili medicin
+46,obstetr gynecolog
+47,general surgeri
+48,intern medicin
+49,ophthalmolog
+50,dentistri
+51,allergi immunolog
+52,pain manag
+53,dentistri
+54,ent head neck surgeri
+55,pain manag
+56,hematolog oncolog
+57,gynecolog
+58,ent head neck surgeri
+59,orthoped surgeri
+60,plastic surgeri
+61,intern medicin
+62,famili medicin
+63,famili medicin
+64,dentistri
+65,allergi immunolog
+66,neurosurgeri
+67,radiolog
+68,endodont
+69,geriatr
+70,dentistri
+71,orthodont
+72,radiat oncolog
+73,orthoped surgeri
+74,psychiatri
+75,intern medicin
+76,dentistri
+77,dentistri
+78,intern medicin
+79,pediatr
+80,dentistri
+81,radiat oncolog
+82,radiolog
+83,podiatri
+84,neurolog
+85,intern medicin
+86,cardiolog
+87,pain manag
+88,prevent medicin
+89,facial plastic surgeri
+90,famili medicin
+91,general surgeri
+92,ent head neck surgeri
+93,general surgeri
+94,cardiolog
+95,dentistri
+96,intern medicin pediatr
+97,bariatr
+98,pain manag
+99,podiatri
+100,gynecolog
+101,psychiatri
+102,neurolog
+103,infecti diseas
+104,psychiatri
+105,pediatr
+106,famili medicin
+107,pain manag
+108,nuclear medicin
+109,intern medicin
+110,diagnost radiolog
+111,intern medicin
+112,infecti diseas
+113,obstetr gynecolog
+114,podiatri
+115,clinic psycholog
+116,psychiatri
+117,neurolog
+118,diagnost radiolog
+119,obstetr gynecolog
+120,dentistri
+121,neurolog
+122,clinic psycholog
+123,general surgeri
+124,famili medicin
+125,famili medicin
+126,cardiolog
+127,allergi immunolog
+128,geriatr
+129,intern medicin
+130,anesthesiolog
+131,pain manag
+132,podiatri
+133,general practic
+134,neurosurgeri
+135,psychiatri
+136,famili medicin
+137,intervent radiolog
+138,obstetr gynecolog
+139,surgic oncolog
+140,radiat oncolog
+141,radiat oncolog
+142,radiat oncolog
+143,hematolog oncolog
+144,dentistri
+145,prevent medicin
+146,pain manag
+147,pediatr
+148,pain manag
+149,pain manag
+150,famili medicin
+151,neurosurgeri
+152,gynecolog
+153,surgic oncolog
+154,famili medicin
+155,patholog
+156,ent head neck surgeri
+157,intern medicin
+158,oral maxillofaci surgeri
+159,general surgeri
+160,famili medicin
+161,famili medicin
+162,plastic surgeri
+163,allergi immunolog
+164,famili medicin
+165,dentistri
+166,cardiolog
+167,famili medicin
+168,famili medicin
+169,orthodont
+170,plastic surgeri
+171,orthodont
+172,psychiatri
+173,obstetr gynecolog
+174,general surgeri
+175,general practic
+176,breast surgeri
+177,prosthodont
+178,intervent radiolog
+179,podiatri
+180,pediatr pulmonolog
+181,obstetr gynecolog
+182,orthoped surgeri
+183,podiatri
+184,intern medicin
+185,famili medicin
+186,intervent radiolog
+187,infecti diseas
+188,psychiatri
+189,pain manag
+190,podiatri
+191,orthoped spine surgeri
+192,ent head neck surgeri
+193,allergi immunolog
+194,urogynecolog
+195,famili medicin
+196,podiatri
+197,dentistri
+198,anesthesiolog
+199,patholog
+200,pediatr
+201,surgic oncolog
+202,radiat oncolog
+203,obstetr gynecolog
+204,gynecolog
+205,pain manag
+206,neurolog
+207,orthoped spine surgeri
+208,diagnost radiolog
+209,general practic
+210,patholog
+211,dentistri
+212,dentistri
+213,radiat oncolog
+214,psychiatri
+215,pediatr urolog
+216,dentistri
+217,intern medicin
+218,urogynecolog
+219, select special 
+220,gynecolog
+221,pediatr
+222,urgent care
+223,cardiolog
+224,general surgeri
+225,general surgeri
+226,anesthesiolog
+227,general surgeri
+228,plastic surgeri
+229,nan
+230,dentistri
+231,hematolog oncolog
+232,pain manag
+233,phlebolog
+234,phlebolog
+235,intervent radiolog
+236,radiat oncolog
+237,orthoped reconstruct surgeri
+238,podiatri
+239,pediatr emerg medicin
+240,pediatr
+241,neurosurgeri
+242,diagnost radiolog
+243,rheumatolog
+244,emerg medicin
+245,podiatri
+246,obstetr gynecolog
+247,neurosurgeri
+248,neurolog
+249,plastic surgeri
+250,plastic surgeri
+251,psychiatri
+252,physic medicin rehabilit
+253,podiatri
+254,vascular surgeri
+255,oral maxillofaci surgeri
+256,intern medicin
+257,dentistri
+258,ent head neck surgeri
+259,pain manag
+260,oral maxillofaci surgeri
+261,orthodont
+262,famili medicin
+263,psychiatri
+264,patholog
+265,facial plastic surgeri
+266,ent head neck surgeri
+267,radiolog
+268,pediatr urolog
+269,patholog
+270,general surgeri
+271,intern medicin
+272,dentistri
+273,cardiolog
+274,pediatr
+275,psychiatri
+276,cardiolog
+277,diagnost radiolog
+278,podiatri
+279,general surgeri
+280,anesthesiolog
+281,facial plastic surgeri
+282,geriatr
+283,plastic surgeri
+284,endocrinolog
+285,famili medicin
+286,oral maxillofaci surgeri
+287,surgic oncolog
+288,medic oncolog
+289,physic medicin rehabilit
+290,medic oncolog
+291,dentistri
+292,radiat oncolog
+293,dentistri
+294,medic oncolog
+295,plastic surgeri
+296,infecti diseas
+297,neurosurgeri
+298,neurolog
+299,dentistri
+300,general practic
+301,dentistri
+302,intern medicin
+303,intervent radiolog
+304,dentistri
+305,podiatri
+306,medic oncolog
+307,neurolog
+308,intern medicin
+309,famili medicin
+310,famili medicin
+311,allergi immunolog
+312,medic oncolog
+313,bariatr
+314,cardiolog
+315,intervent radiolog
+316,famili medicin
+317,neurosurgeri
+318,radiat oncolog
+319,dentistri
+320,pediatr
+321,famili medicin
+322,intern medicin
+323,oral maxillofaci surgeri
+324,radiolog
+325,dentistri
+326,neurosurgeri
+327,intern medicin
+328,surgic oncolog
+329,radiat oncolog
+330,pediatr
+331,dentistri
+332,sport medicin
+333,infecti diseas
+334,pain manag
+335,surgic oncolog
+336,orthoped spine surgeri
+337,intern medicin
+338,bariatr
+339,pediatr
+340,ent head neck surgeri
+341,patholog
+342,phlebolog
+343, select special 
+344,hand surgeri
+345,cosmet dentistri
+346,radiolog
+347,patholog
+348,infecti diseas
+349,ent head neck surgeri
+350,famili medicin
+351,intern medicin
+352,famili medicin
+353,intervent radiolog
+354,plastic surgeri
+355,famili medicin
+356,pain manag
+357,famili medicin
+358,medic oncolog
+359,radiolog
+360,infecti diseas
+361,ent head neck surgeri
+362,general surgeri
+363,plastic surgeri
+364,orthoped spine surgeri
+365,hematolog oncolog
+366,famili medicin
+367,famili medicin
+368,sport medicin
+369,pediatr
+370,dentistri
+371,pediatr
+372,intern medicin
+373,podiatri
+374,intern medicin
+375,medic oncolog
+376,general surgeri
+377,dentistri
+378,urolog
+379,colon rectal surgeri
+380,podiatri
+381,intern medicin
+382,intern medicin
+383,psychiatri
+384,radiolog
+385,nephrolog dialysi
+386,obstetr gynecolog
+387,pain manag
+388,plastic surgeri
+389,radiat oncolog
+390,fertil medicin
+391,nuclear medicin
+392,oral maxillofaci surgeri
+393,oral maxillofaci surgeri
+394,endocrinolog
+395,orthodont
+396,allergi immunolog
+397,pediatr emerg medicin
+398,emerg medicin
+399,diagnost radiolog
+400,cardiolog
+401,addict medicin
+402,dentistri
+403,famili medicin
+404,rheumatolog
+405,podiatri
+406,facial plastic surgeri
+407,orthodont
+408,intern medicin
+409,orthodont
+410,general practic
+411,dentistri
+412,dentistri
+413,intern medicin
+414,dentistri
+415,dentistri
+416,famili medicin
+417,nan
+418,pediatr
+419,intern medicin
+420,anesthesiolog
+421,dentistri
+422,general practic
+423,cardiolog
+424,radiat oncolog
+425,general practic
+426,prevent medicin
+427,intern medicin
+428,intern medicin
+429,intern medicin
+430,psychiatri
+431,pain manag
+432,aesthet medicin
+433,dentistri
+434,thorac surgeri
+435,intern medicin
+436,emerg medicin
+437,oral maxillofaci surgeri
+438,nuclear medicin
+439,pulmonari critic care
+440,infecti diseas
+441,oral maxillofaci surgeri
+442,cardiolog
+443,hand surgeri
+444,dentistri
+445,general practic
+446,neurosurgeri
+447,famili medicin
+448,dentistri
+449,podiatri
+450,pediatr
+451,rheumatolog
+452,pain manag
+453,radiolog
+454,intern medicin
+455,general surgeri
+456,plastic surgeri
+457,gynecolog
+458,gynecolog
+459,general surgeri
+460,neurosurgeri
+461,radiat oncolog
+462,famili medicin
+463,podiatri
+464,plastic surgeri
+465,pediatr
+466,hematolog oncolog
+467,podiatri
+468,aesthet medicin
+469,bariatr
+470,intern medicin
+471,oral maxillofaci surgeri
+472,breast surgeri
+473,plastic surgeri
+474,integr medicin
+475,general surgeri
+476,emerg medicin
+477,ent head neck surgeri
+478,orthodont
+479,bariatr
+480,intern medicin
+481,anesthesiolog
+482,famili medicin
+483,patholog
+484,hand surgeri
+485,psychiatri
+486,nan
+487,orthoped surgeri
+488,pediatr dentistri
+489,ent head neck surgeri
+490,pediatr
+491,psychiatri
+492,podiatri
+493,endocrinolog
+494,orthoped surgeri
+495,oral maxillofaci surgeri
+496,patholog
+497,plastic surgeri
+498,pain manag
+499,intern medicin
+500,orthoped surgeri  hand surgeri
+501,famili medicin
+502,radiat oncolog
+503,urogynecolog
+504,patholog
+505,hematolog oncolog
+506,dentistri
+507,famili medicin
+508,dermatolog
+509,cardiolog
+510,adolesc medicin
+511,hematolog oncolog
+512,phlebolog
+513,radiolog
+514,famili medicin
+515,hematolog oncolog
+516,cosmet dentistri
+517,pediatr
+518,intern medicin
+519,pain manag
+520,dentistri
+521,oral maxillofaci surgeri
+522,dentistri
+523,intern medicin
+524,radiolog
+525,pediatr
+526,patholog
+527,plastic surgeri
+528,dentistri
+529,surgic oncolog
+530,famili medicin
+531,intern medicin
+532,orthoped surgeri
+533,radiolog
+534,famili medicin
+535,dentistri
+536,nan
+537,hand surgeri
+538,podiatri
+539,general surgeri
+540,radiat oncolog
+541,general surgeri
+542,prevent medicin
+543,pediatr
+544,dentistri
+545,patholog
+546,famili medicin
+547,dentistri
+548,pain manag
+549,intervent radiolog
+550,neurolog
+551,dentistri
+552,pediatr
+553,surgic oncolog
+554,podiatri
+555,intern medicin pediatr
+556,oral maxillofaci surgeri
+557,dentistri
+558,neurosurgeri
+559,famili medicin
+560,hematolog oncolog
+561,prevent medicin
+562,physic medicin rehabilit
+563,pain manag
+564,general surgeri
+565,infecti diseas
+566,sport medicin
+567,orthoped spine surgeri
+568,hematolog oncolog
+569,diagnost radiolog
+570,neurosurgeri
+571,pain manag
+572,dentistri
+573,plastic surgeri
+574,orthodont
+575,endocrinolog
+576,famili medicin
+577,pain manag
+578,hematolog oncolog
+579,surgic oncolog
+580,hematolog oncolog
+581,oral maxillofaci surgeri
+582,pain manag
+583,dentistri
+584,dentistri
+585,oral maxillofaci surgeri
+586,cardiolog
+587,dentistri
+588,dentistri
+589,dentistri
+590,podiatri
+591,pain manag
+592,urolog
+593,pain manag
+594,oral maxillofaci surgeri
+595,podiatri
+596,oral maxillofaci surgeri
+597,psychiatri
+598,dentistri
+599,intern medicin
+600,pediatr
+601,clinic psycholog
+602,intervent radiolog
+603,radiolog
+604,radiolog
+605,famili medicin
+606,hematolog oncolog
+607,obstetr gynecolog
+608,pain manag
+609,plastic surgeri
+610,psychiatri
+611,neurolog
+612,allergi immunolog
+613,pediatr
+614,prevent medicin
+615,psychiatri
+616,pediatr
+617,surgic oncolog
+618,neurolog
+619,urolog
+620,psychiatri
+621,pediatr
+622,psychiatri
+623,pain manag
+624,intern medicin
+625,dentistri
+626,general surgeri
+627,orthoped surgeri
+628,dentistri
+629,urolog
+630,dentistri
+631,retin surgeri
+632,dentistri
+633,dentistri
+634,nuclear medicin
+635,plastic surgeri
+636,pulmonari critic care
+637,famili medicin
+638,famili medicin
+639,ophthalmolog
+640,orthoped surgeri
+641,oral maxillofaci surgeri
+642,neurolog
+643,dentistri
+644,gynecolog
+645,psychiatri
+646,dentistri
+647,diagnost radiolog
+648,famili medicin
+649,dentistri
+650,neurolog
+651,pain manag
+652,neurolog
+653,famili medicin
+654,famili medicin
+655,dentistri
+656,intern medicin
+657,pain manag
+658,intern medicin
+659,pediatr
+660,dentistri
+661,endocrinolog
+662,intern medicin
+663,allergi immunolog
+664,famili medicin
+665,orthoped spine surgeri
+666,pediatr
+667,dentistri
+668,pediatr
+669,cosmet dentistri
+670,obstetr gynecolog
+671,general surgeri
+672,dentistri
+673,neurosurgeri
+674,podiatri
+675,dentistri
+676,patholog
+677,podiatri
+678,psychiatri
+679,pediatr
+680,clinic psycholog
+681,sport medicin
+682,neurosurgeri
+683,famili medicin
+684,dentistri
+685,infecti diseas
+686,oral maxillofaci surgeri
+687,obstetr gynecolog
+688,famili medicin
+689,rheumatolog
+690,famili medicin
+691,radiat oncolog
+692,radiat oncolog
+693,dentistri
+694,dentistri
+695,intern medicin
+696,podiatri
+697,anesthesiolog
+698,famili medicin
+699,psychiatri
+700,famili medicin
+701,ophthalmolog
+702,pediatr urolog
+703,podiatri
+704,famili medicin
+705,hematolog oncolog
+706,infecti diseas
+707,intern medicin
+708,orthoped spine surgeri
+709,intern medicin
+710,radiat oncolog
+711,dentistri
+712,cardiac electrophysiolog
+713,neurosurgeri
+714,gastroenterolog
+715,radiolog
+716,aesthet medicin
+717,intern medicin
+718,intern medicin
+719,famili medicin
+720,dentistri
+721,famili medicin
+722,geriatr
+723,patholog
+724,radiolog
+725,pain manag
+726,oral maxillofaci surgeri
+727,medic oncolog
+728,anesthesiolog
+729,prosthodont
+730,urgent care
+731,podiatri
+732,famili medicin
+733,famili medicin
+734,dentistri
+735,oral maxillofaci surgeri
+736,ent head neck surgeri
+737,famili medicin
+738,nan
+739,dentistri
+740,famili medicin
+741,dentistri
+742,orthodont
+743,intern medicin
+744,ent head neck surgeri
+745,pain manag
+746,pain manag
+747,hand surgeri
+748,psychiatri
+749,colon rectal surgeri
+750,dentistri
+751,prosthodont
+752,obstetr gynecolog
+753,psychiatri
+754,dentistri
+755,psychiatri
+756, select special 
+757,famili medicin
+758,psychiatri
+759,sport medicin
+760,oral maxillofaci surgeri
+761,surgic oncolog
+762,intern medicin
+763,dentistri
+764,intervent radiolog
+765,dentistri
+766,psychiatri
+767,geriatr psychiatri
+768,dentistri
+769,anesthesiolog
+770,dentistri
+771,famili medicin
+772,dermatolog
+773,oral maxillofaci surgeri
+774,podiatri
+775,famili medicin
+776,nan
+777,dentistri
+778,famili medicin
+779,famili medicin
+780,radiat oncolog
+781,intern medicin
+782,gastroenterolog
+783,neurosurgeri
+784,patholog
+785,radiolog
+786,dentistri
+787,intervent radiolog
+788,neurolog
+789,dentistri
+790,dentistri
+791,podiatri
+792,neurosurgeri
+793,dentistri
+794,podiatri
+795,orthoped surgeri
+796,neurolog
+797,podiatri
+798,clinic psycholog
+799,pain manag
+800,famili medicin
+801,dentistri
+802,pediatr
+803,psychiatri
+804,pediatr
+805,intern medicin
+806,orthodont
+807,podiatri
+808,general surgeri
+809,dentistri
+810,patholog
+811,podiatri
+812,oral maxillofaci surgeri
+813,breast surgeri
+814,famili medicin
+815,podiatri
+816,neurolog
+817,pediatr
+818,oral maxillofaci surgeri
+819,psychiatri
+820,ent head neck surgeri
+821,radiolog
+822,orthoped foot ankl surgeri
+823,intern medicin
+824,radiolog
+825,radiat oncolog
+826,allergi immunolog
+827,podiatri
+828,oral maxillofaci surgeri
+829,dentistri
+830,radiolog
+831,orthoped reconstruct surgeri
+832,psychiatri
+833,emerg medicin
+834,surgic oncolog
+835,plastic surgeri
+836,ent head neck surgeri
+837,emerg medicin
+838,podiatri
+839,oral maxillofaci surgeri
+840,pediatr hematolog oncolog
+841,surgic oncolog
+842,radiat oncolog
+843,pediatr
+844,radiat oncolog
+845,radiat oncolog
+846,pain manag
+847,pediatr
+848,allergi immunolog
+849,ent head neck surgeri
+850,dentistri
+851,famili medicin
+852,endodont
+853,geriatr
+854,pain manag
+855,ent head neck surgeri
+856,dentistri
+857,psychiatri
+858,pain manag
+859,psychiatri
+860,dentistri
+861,psychiatri
+862,child psychiatri
+863,psychiatri
+864,dentistri
+865,intern medicin
+866,rheumatolog
+867,oral maxillofaci surgeri
+868,intervent radiolog
+869,neurosurgeri
+870,neurolog
+871,oral maxillofaci surgeri
+872,dentistri
+873,radiolog
+874,neurosurgeri
+875,emerg medicin
+876,ophthalmolog
+877,cardiolog
+878,plastic surgeri
+879,neurolog
+880,oral maxillofaci surgeri
+881,podiatri
+882,dentistri
+883,cosmet dentistri
+884,pain manag
+885,vascular surgeri
+886,pediatr nephrolog dialysi
+887,pediatr
+888,dentistri
+889,dentistri
+890,rheumatolog
+891,surgic oncolog
+892,dentistri
+893,dentistri
+894,psychiatri
+895,oral maxillofaci surgeri
+896,emerg medicin
+897,oral maxillofaci surgeri
+898,pediatr
+899,dentistri
+900,obstetr gynecolog
+901,sport medicin
+902,oral maxillofaci surgeri
+903,orthodont
+904,oral maxillofaci surgeri
+905,intern medicin
+906,ent head neck surgeri
+907,psychiatri
+908,neurolog
+909,psychiatri
+910,pain manag
+911,dentistri
+912,cardiolog
+913,pediatr
+914,psychiatri
+915,pediatr urolog
+916,ent head neck surgeri
+917,orthoped spine surgeri
+918,oral maxillofaci surgeri
+919,pediatr
+920,pain manag
+921,ophthalmolog
+922,intern medicin
+923,dentistri
+924,pediatr emerg medicin
+925,lasik surgeri
+926,famili medicin
+927,medic oncolog
+928,radiat oncolog
+929,obstetr gynecolog
+930,emerg medicin
+931,dermatolog
+932,pain manag
+933,radiolog
+934,intern medicin
+935,facial plastic surgeri
+936,orthodont
+937,radiolog
+938,oral maxillofaci surgeri
+939,oral maxillofaci surgeri
+940,medic oncolog
+941,intern medicin
+942,radiat oncolog
+943,dermatolog
+944,patholog
+945,pediatr neurolog
+946,pulmonari critic care
+947,intern medicin
+948,dentistri
+949,orthoped spine surgeri
+950,pediatr dentistri
+951,orthodont
+952,ophthalmolog
+953,dentistri
+954,dermatolog
+955,dentistri
+956,pain manag
+957,podiatri
+958,dentistri
+959,oral maxillofaci surgeri
+960,intern medicin
+961,general practic
+962,psychiatri
+963,dentistri
+964,dentistri
+965,oral maxillofaci surgeri
+966,neurolog
+967,famili medicin
+968,dentistri
+969,intern medicin
+970,clinic psycholog
+971,psychiatri
+972,dentistri
+973,nuclear medicin
+974,podiatri
+975,oral maxillofaci surgeri
+976,orthodont
+977,famili medicin
+978,ent head neck surgeri
+979,plastic surgeri
+980,psychiatri
+981,famili medicin
+982,intern medicin
+983,intern medicin
+984,general surgeri
+985,intern medicin
+986,dentistri
+987,obstetr gynecolog
+988,general surgeri
+989,intern medicin
+990,orthoped foot ankl surgeri
+991,dentistri
+992,neurosurgeri
+993,pain manag
+994,dentistri
+995,medic oncolog
+996,pediatr
+997,patholog
+998,pediatr
+999,cardiolog
+1000,intern medicin
+1001,physic medicin rehabilit
+1002,orthodont
+1003,plastic surgeri
+1004,intern medicin
+1005,psychiatri
+1006,patholog
+1007,medic oncolog
+1008,oral maxillofaci surgeri
+1009,pain manag
+1010,pediatr
+1011,cosmet dentistri
+1012,intern medicin
+1013,pain manag
+1014,pediatr
+1015,nan
+1016,famili medicin
+1017,dentistri
+1018,obstetr gynecolog
+1019,podiatri
+1020,dentistri
+1021,pain manag
+1022,geriatr
+1023,podiatri
+1024,endodont
+1025,pediatr
+1026,medic oncolog
+1027,cardiolog
+1028,oral maxillofaci surgeri
+1029,dentistri
+1030,oral maxillofaci surgeri
+1031,geriatr
+1032,oral maxillofaci surgeri
+1033,orthoped surgeri
+1034,ent head neck surgeri
+1035,surgic oncolog
+1036,famili medicin
+1037,dentistri
+1038,orthodont
+1039,radiat oncolog
+1040,dentistri
+1041,hand surgeri
+1042,surgic oncolog
+1043,famili medicin
+1044,addict medicin
+1045,dentistri
+1046,neurolog
+1047,intern medicin
+1048, select special 
+1049,breast surgeri
+1050,rheumatolog
+1051,intern medicin
+1052,pain manag
+1053,intern medicin
+1054,orthodont
+1055,famili medicin
+1056,pediatr
+1057,intern medicin
+1058,pediatr emerg medicin
+1059,pain manag
+1060,obstetr gynecolog
+1061,famili medicin
+1062,clinic psycholog
+1063,radiat oncolog
+1064,allergi immunolog
+1065,neurosurgeri
+1066,intern medicin
+1067,pain manag
+1068,famili medicin
+1069,intern medicin
+1070,clinic psycholog
+1071,ent head neck surgeri
+1072,ent head neck surgeri
+1073,obstetr gynecolog
+1074,famili medicin
+1075,famili medicin
+1076,podiatri
+1077,general surgeri
+1078,oral maxillofaci surgeri
+1079,dentistri
+1080,obstetr gynecolog
+1081,cardiolog
+1082,dentistri
+1083,aesthet medicin
+1084,famili medicin
+1085,psychiatri
+1086,pediatr
+1087,radiolog
+1088,podiatri
+1089,intern medicin
+1090,clinic psycholog
+1091,famili medicin
+1092,infecti diseas
+1093,allergi immunolog
+1094,obstetr gynecolog
+1095,nuclear medicin
+1096,dentistri
+1097,orthodont
+1098,pediatr
+1099,hand surgeri
+1100,general surgeri
+1101,ent head neck surgeri
+1102,podiatri
+1103,prosthodont
+1104,dentistri
+1105,intern medicin
+1106,intern medicin
+1107,cardiolog
+1108,urolog
+1109,obstetr gynecolog
+1110,intern medicin
+1111,podiatri
+1112,colon rectal surgeri
+1113,phlebolog
+1114,orthoped surgeri
+1115,phlebolog
+1116,cardiolog
+1117,orthoped foot ankl surgeri
+1118,pain manag
+1119,geriatr
+1120,general surgeri
+1121,hematolog oncolog
+1122,orthodont
+1123,neurolog
+1124,dentistri
+1125,neurolog
+1126,pulmonari critic care
+1127,obstetr gynecolog
+1128,obstetr gynecolog
+1129,pain manag
+1130,famili medicin
+1131,intern medicin
+1132,diagnost radiolog
+1133,pulmonari critic care
+1134,orthodont
+1135,dentistri
+1136,general surgeri
+1137,hand surgeri
+1138,orthodont
+1139,plastic surgeri
+1140,obstetr gynecolog
+1141,oral maxillofaci surgeri
+1142,podiatri
+1143,dentistri
+1144,dentistri
+1145,rheumatolog
+1146,dentistri
+1147,pediatr neurolog
+1148,intern medicin
+1149,neurosurgeri
+1150,geriatr
+1151,urolog
+1152,dentistri
+1153,intern medicin
+1154,oral maxillofaci surgeri
+1155,pain manag
+1156,obstetr gynecolog
+1157,radiat oncolog
+1158,oral maxillofaci surgeri
+1159,plastic surgeri
+1160,neurolog
+1161,radiat oncolog
+1162,dentistri
+1163,dentistri
+1164,thorac surgeri
+1165,famili medicin
+1166,dentistri
+1167,pediatr
+1168,emerg medicin
+1169,oral maxillofaci surgeri
+1170,ent head neck surgeri
+1171,ent head neck surgeri
+1172,orthodont
+1173,intern medicin pediatr
+1174,hematolog oncolog
+1175,neurolog
+1176,famili medicin
+1177,diagnost radiolog
+1178,facial plastic surgeri
+1179,famili medicin
+1180,famili medicin
+1181,famili medicin
+1182,hematolog oncolog
+1183,intern medicin
+1184,intern medicin
+1185,famili medicin
+1186,famili medicin
+1187,ent head neck surgeri
+1188,ophthalmolog
+1189,pain manag
+1190,podiatri
+1191,orthoped surgeri
+1192,pediatr
+1193,psychiatri
+1194,oral maxillofaci surgeri
+1195,endocrinolog
+1196,hand surgeri
+1197,obstetr gynecolog
+1198,pain manag
+1199,intern medicin
+1200,ent head neck surgeri
+1201,intern medicin
+1202,diagnost radiolog
+1203,allergi immunolog
+1204,cosmet dentistri
+1205,cardiolog
+1206,oral maxillofaci surgeri
+1207,famili medicin
+1208,plastic surgeri
+1209,pediatr emerg medicin
+1210,hepatolog
+1211,addict medicin
+1212,general practic
+1213,general surgeri
+1214,thorac surgeri
+1215,famili medicin
+1216,ophthalmolog
+1217,pediatr
+1218,famili medicin
+1219,podiatri
+1220,intern medicin
+1221,dentistri
+1222,dentistri
+1223,famili medicin
+1224,physic medicin rehabilit
+1225,pain manag
+1226,famili medicin
+1227,emerg medicin
+1228,neurolog
+1229,famili medicin
+1230,dentistri
+1231,dentistri
+1232,infecti diseas
+1233,dentistri
+1234,neurolog
+1235,dermatolog
+1236,famili medicin
+1237,intern medicin
+1238,radiat oncolog
+1239,ent head neck surgeri
+1240,dentistri
+1241,prosthodont
+1242,diagnost radiolog
+1243,famili medicin
+1244,phlebolog
+1245,general surgeri
+1246,cardiolog
+1247,lasik surgeri
+1248,patholog
+1249,sport medicin
+1250,famili medicin
+1251,podiatri
+1252,famili medicin
+1253,intern medicin
+1254,obstetr gynecolog
+1255,dentistri
+1256,dentistri
+1257,psychiatri
+1258,intern medicin
+1259,wound care
+1260,allergi immunolog
+1261,famili medicin
+1262,radiat oncolog
+1263,radiat oncolog
+1264,obstetr gynecolog
+1265,medic oncolog
+1266,orthoped surgeri
+1267,rheumatolog
+1268,general surgeri
+1269,intern medicin
+1270,intern medicin
+1271,ophthalmolog
+1272,hand surgeri
+1273,surgic oncolog
+1274,intern medicin
+1275,hand surgeri
+1276,podiatri
+1277, select special 
+1278,radiat oncolog
+1279,radiat oncolog
+1280,surgic oncolog
+1281,dentistri
+1282,orthoped foot ankl surgeri
+1283,intern medicin
+1284,famili medicin
+1285,dentistri
+1286,podiatri
+1287,famili medicin
+1288,physic medicin rehabilit
+1289,podiatri
+1290,podiatri
+1291,oral maxillofaci surgeri
+1292,urgent care
+1293,gastroenterolog
+1294,dentistri
+1295,famili medicin
+1296,psychiatri
+1297,general surgeri
+1298,dentistri
+1299,general surgeri
+1300,dentistri
+1301,dentistri
+1302,hematolog oncolog
+1303,diagnost radiolog
+1304,obstetr gynecolog
+1305,pain manag
+1306,intern medicin
+1307,podiatri
+1308,plastic surgeri
+1309,plastic surgeri
+1310,neurolog
+1311,orthoped surgeri
+1312,hematolog oncolog
+1313,oral maxillofaci surgeri
+1314,hand surgeri
+1315,geriatr psychiatri
+1316,general practic
+1317,podiatri
+1318,integr medicin
+1319,hematolog oncolog
+1320,general surgeri
+1321,radiat oncolog
+1322,medic oncolog
+1323,neurosurgeri
+1324,intern medicin
+1325,radiat oncolog
+1326,psychiatri
+1327,oral maxillofaci surgeri
+1328,nephrolog dialysi
+1329,orthodont
+1330,gynecolog
+1331,podiatri
+1332,medic oncolog
+1333,plastic surgeri
+1334,pediatr
+1335,ent head neck surgeri
+1336,ent head neck surgeri
+1337,pediatr
+1338,rheumatolog
+1339,plastic surgeri
+1340,pain manag
+1341,famili medicin
+1342,ent head neck surgeri
+1343,dentistri
+1344,radiat oncolog
+1345,psychiatri
+1346,radiat oncolog
+1347,psychiatri
+1348,pulmonolog
+1349,pediatr hematolog oncolog
+1350,intern medicin
+1351,oral maxillofaci surgeri
+1352,obstetr gynecolog
+1353,famili medicin
+1354,intervent radiolog
+1355,urolog
+1356,radiolog
+1357,famili medicin
+1358,cardiolog
+1359,rheumatolog
+1360,medic oncolog
+1361,clinic psycholog
+1362,neurolog
+1363,dentistri
+1364,neurolog
+1365,clinic psycholog
+1366,radiat oncolog
+1367,sport medicin
+1368,pain manag
+1369,pain manag
+1370,famili medicin
+1371,geriatr
+1372,dentistri
+1373,dentistri
+1374,oral maxillofaci surgeri
+1375,diagnost radiolog
+1376,dentistri
+1377,dentistri
+1378,patholog
+1379,general practic
+1380,psychiatri
+1381,endodont
+1382,allergi immunolog
+1383,integr medicin
+1384,general surgeri
+1385,podiatri
+1386,radiat oncolog
+1387,vascular surgeri
+1388,phlebolog
+1389,intern medicin
+1390,emerg medicin
+1391,geriatr
+1392,podiatri
+1393,famili medicin
+1394,intern medicin
+1395,periodont
+1396,ent head neck surgeri
+1397,intern medicin
+1398,dentistri
+1399,psychiatri
+1400,general surgeri
+1401,hand surgeri
+1402,urgent care
+1403,intern medicin
+1404,radiolog
+1405,general surgeri
+1406,pain manag
+1407,plastic surgeri
+1408,patholog
+1409,pediatr emerg medicin
+1410,diagnost radiolog
+1411,orthoped reconstruct surgeri
+1412,cardiolog
+1413,dentistri
+1414,intern medicin
+1415,pain manag
+1416,pain manag
+1417,dentistri
+1418,podiatri
+1419,oral maxillofaci surgeri
+1420,pain manag
+1421,obstetr gynecolog
+1422,obstetr gynecolog
+1423,pediatr dentistri
+1424,dentistri
+1425,dentistri
+1426,dentistri
+1427,patholog
+1428,podiatri
+1429,infecti diseas
+1430,general practic
+1431,intern medicin
+1432,ent head neck surgeri
+1433,ent head neck surgeri
+1434,psychiatri
+1435,dentistri
+1436,obstetr gynecolog
+1437,radiat oncolog
+1438,ent head neck surgeri
+1439,famili medicin
+1440,famili medicin
+1441,bariatr
+1442,pain manag
+1443,dermatolog
+1444,orthodont
+1445,intern medicin
+1446,podiatri
+1447,hematolog oncolog
+1448,dentistri
+1449,podiatri
+1450,dentistri
+1451,oral maxillofaci surgeri
+1452,pediatr dentistri
+1453,endodont
+1454,dentistri
+1455,rheumatolog
+1456,oral maxillofaci surgeri
+1457,pain manag
+1458,radiolog
+1459,pain manag
+1460,pain manag
+1461,intern medicin
+1462,famili medicin
+1463,hand surgeri
+1464,dentistri
+1465,cardiolog
+1466,intern medicin
+1467,podiatri
+1468,famili medicin
+1469,emerg medicin
+1470,rheumatolog
+1471,orthoped surgeri
+1472,anesthesiolog
+1473,intern medicin
+1474,dentistri
+1475,plastic surgeri
+1476,bariatr
+1477,plastic surgeri
+1478,dentistri
+1479,podiatri
+1480,famili medicin
+1481,obstetr gynecolog
+1482,famili medicin
+1483,rheumatolog
+1484,lasik surgeri
+1485,oral maxillofaci surgeri
+1486,allergi immunolog
+1487,orthoped surgeri
+1488,dentistri
+1489,physic medicin rehabilit
+1490,oral maxillofaci surgeri
+1491,plastic surgeri
+1492,orthoped surgeri
+1493,cardiolog
+1494,patholog
+1495,dentistri
+1496,medic oncolog
+1497,general surgeri
+1498,radiat oncolog
+1499,phlebolog
+1500,oral maxillofaci surgeri
+1501,podiatri
+1502,famili medicin
+1503,dentistri
+1504,patholog
+1505,famili medicin
+1506,patholog
+1507,famili medicin
+1508,pain manag
+1509,general surgeri
+1510,podiatri
+1511,hand surgeri
+1512,physic medicin rehabilit
+1513,surgic oncolog
+1514,intern medicin
+1515,pain manag
+1516,podiatri
+1517,oral maxillofaci surgeri
+1518,medic oncolog
+1519,cardiolog
+1520,podiatri
+1521,general surgeri
+1522,surgic oncolog
+1523,famili medicin
+1524,famili medicin
+1525,psychiatri
+1526,dermatolog
+1527,podiatri
+1528,dentistri
+1529,allergi immunolog
+1530,general surgeri
+1531,famili medicin
+1532,anesthesiolog
+1533,psychiatri
+1534,famili medicin
+1535,patholog
+1536,diagnost radiolog
+1537,rheumatolog
+1538,patholog
+1539,medic oncolog
+1540,famili medicin
+1541,wound care
+1542,dentistri
+1543,pain manag
+1544,dermatolog
+1545,allergi immunolog
+1546,orthodont
+1547,podiatri
+1548,pediatr
+1549,podiatri
+1550,pediatr pulmonolog
+1551,dermatolog
+1552,orthodont
+1553,radiat oncolog
+1554,neurosurgeri
+1555,general surgeri
+1556,hematolog oncolog
+1557,neurolog
+1558, select special 
+1559,dentistri
+1560,neurolog
+1561,allergi immunolog
+1562,oral maxillofaci surgeri
+1563,hematolog oncolog
+1564,famili medicin
+1565,intern medicin
+1566,urolog
+1567,intervent radiolog
+1568,hematolog oncolog
+1569,pulmonari critic care
+1570,hematolog oncolog
+1571,famili medicin
+1572,lasik surgeri
+1573,dentistri
+1574,cardiolog
+1575,oral maxillofaci surgeri
+1576,podiatri
+1577,intern medicin
+1578,famili medicin
+1579,famili medicin
+1580,pediatr
+1581,famili medicin
+1582,endocrinolog
+1583,dentistri
+1584,pediatr hematolog oncolog
+1585,gynecolog
+1586,urgent care
+1587,pediatr
+1588,famili medicin
+1589,phlebolog
+1590,pain manag
+1591,dentistri
+1592,surgic oncolog
+1593,neurolog
+1594,neurolog
+1595,dentistri
+1596,pain manag
+1597,obstetr gynecolog
+1598,radiolog
+1599,famili medicin
+1600,general practic
+1601,intern medicin
+1602,emerg medicin
+1603,radiat oncolog
+1604,patholog
+1605,intervent radiolog
+1606,pain manag
+1607,infecti diseas
+1608,physic medicin rehabilit
+1609,pain manag
+1610,intern medicin
+1611,podiatri
+1612,intern medicin
+1613,geriatr psychiatri
+1614,diagnost radiolog
+1615,geriatr psychiatri
+1616,pediatr
+1617,obstetr gynecolog
+1618,pediatr
+1619,cardiolog
+1620,pediatr neurolog
+1621,medic oncolog
+1622,gastroenterolog
+1623,pediatr
+1624,vascular surgeri
+1625,famili medicin
+1626,colon rectal surgeri
+1627,hand surgeri
+1628,famili medicin
+1629,obstetr gynecolog
+1630,plastic surgeri
+1631,intern medicin
+1632,famili medicin
+1633,oral maxillofaci surgeri
+1634,famili medicin
+1635,famili medicin
+1636,dentistri
+1637,ophthalmolog
+1638,general surgeri
+1639,patholog
+1640,general surgeri
+1641,radiat oncolog
+1642,urolog
+1643,famili medicin
+1644,famili medicin
+1645,pediatr
+1646,neurolog
+1647,hematolog oncolog
+1648,physic medicin rehabilit
+1649,surgic oncolog
+1650,medic oncolog
+1651,ent head neck surgeri
+1652,fertil medicin
+1653,intern medicin
+1654,infecti diseas
+1655,neurolog
+1656,dentistri
+1657,intern medicin
+1658,general surgeri
+1659,orthodont
+1660,allergi immunolog
+1661,general practic
+1662,aesthet medicin
+1663,allergi immunolog
+1664,wound care
+1665,intern medicin
+1666,ent head neck surgeri
+1667,famili medicin
+1668,radiat oncolog
+1669,intern medicin
+1670,integr medicin
+1671,general surgeri
+1672,hematolog oncolog
+1673,dentistri
+1674,clinic psycholog
+1675,nuclear medicin
+1676,gynecolog
+1677,obstetr gynecolog
+1678,general surgeri
+1679,intern medicin
+1680,podiatri
+1681,general surgeri
+1682,podiatri
+1683,pain manag
+1684,oral maxillofaci surgeri
+1685,cardiolog
+1686,oral maxillofaci surgeri
+1687,pediatr
+1688,famili medicin
+1689,intern medicin
+1690,famili medicin
+1691,famili medicin
+1692,physic medicin rehabilit
+1693,medic oncolog
+1694,oral maxillofaci surgeri
+1695,famili medicin
+1696,intern medicin
+1697,anesthesiolog
+1698,neurosurgeri
+1699,famili medicin
+1700,podiatri
+1701,intern medicin
+1702,breast surgeri
+1703,emerg medicin
+1704,pediatr urolog
+1705,radiolog
+1706,orthoped reconstruct surgeri
+1707,ophthalmolog
+1708,medic oncolog
+1709,intern medicin
+1710,surgic oncolog
+1711,ophthalmolog
+1712,podiatri
+1713,surgic oncolog
+1714,radiat oncolog
+1715,pharmacolog
+1716,clinic psycholog
+1717,nuclear medicin
+1718,intern medicin
+1719,intern medicin
+1720,sport medicin
+1721,patholog
+1722,ent head neck surgeri
+1723,dentistri
+1724,intervent radiolog
+1725,general surgeri
+1726,lasik surgeri
+1727,orthoped spine surgeri
+1728,famili medicin
+1729,orthoped surgeri
+1730,pediatr
+1731,podiatri
+1732,dentistri
+1733,ophthalmolog
+1734,prevent medicin
+1735,general surgeri
+1736,lasik surgeri
+1737,podiatri
+1738,radiat oncolog
+1739,radiat oncolog
+1740,radiolog
+1741,dentistri
+1742,patholog
+1743,intern medicin
+1744,dentistri
+1745,obstetr gynecolog
+1746,dentistri
+1747,ent head neck surgeri
+1748,pain manag
+1749,pain manag
+1750,hand surgeri
+1751,lasik surgeri
+1752,clinic psycholog
+1753,dentistri
+1754,patholog
+1755,diagnost radiolog
+1756,rheumatolog
+1757,famili medicin
+1758,vascular surgeri
+1759,psychiatri
+1760,general surgeri
+1761,pediatr
+1762,general practic
+1763,famili medicin
+1764,intern medicin
+1765,ent head neck surgeri
+1766,obstetr gynecolog
+1767,podiatri
+1768,ophthalmolog
+1769,lasik surgeri
+1770,cosmet dentistri
+1771,famili medicin
+1772,orthoped spine surgeri
+1773,medic oncolog
+1774,intervent radiolog
+1775,medic oncolog
+1776,ent head neck surgeri
+1777,orthoped surgeri
+1778,prosthodont
+1779,podiatri
+1780,orthodont
+1781,neurolog
+1782,psychiatri
+1783,famili medicin
+1784,orthoped surgeri
+1785,oral maxillofaci surgeri
+1786,urolog
+1787,neurolog
+1788,phlebolog
+1789,famili medicin
+1790,podiatri
+1791,radiolog
+1792,ophthalmolog
+1793,pediatr
+1794,pediatr urolog
+1795,ophthalmolog
+1796,general surgeri
+1797,orthoped surgeri  hand surgeri
+1798,general surgeri
+1799,allergi immunolog
+1800,dentistri
+1801,prosthodont
+1802,radiat oncolog
+1803,dentistri
+1804,dentistri
+1805,colon rectal surgeri
+1806,patholog
+1807,intern medicin
+1808,neurolog
+1809,allergi immunolog
+1810,dentistri
+1811,famili medicin
+1812,dentistri
+1813,phlebolog
+1814,prosthodont
+1815,orthoped surgeri
+1816,hand surgeri
+1817,plastic surgeri
+1818,famili medicin
+1819,ent head neck surgeri
+1820,patholog
+1821,plastic surgeri
+1822,famili medicin
+1823,sport medicin
+1824,ophthalmolog
+1825,plastic surgeri
+1826,pediatr pulmonolog
+1827,allergi immunolog
+1828,nuclear medicin
+1829,patholog
+1830,pediatr neurolog
+1831,orthoped spine surgeri
+1832,neurolog
+1833,urolog
+1834,patholog
+1835,intern medicin
+1836,cardiolog
+1837,physic medicin rehabilit
+1838,pain manag
+1839,pain manag
+1840,general surgeri
+1841,pain manag
+1842,dentistri
+1843,gynecolog
+1844,clinic psycholog
+1845,psychiatri
+1846,neurolog
+1847,general practic
+1848,patholog
+1849,pain manag
+1850,pain manag
+1851,dentistri
+1852,dentistri
+1853,intern medicin
+1854,pediatr
+1855,podiatri
+1856,ophthalmolog
+1857,general surgeri
+1858,ent head neck surgeri
+1859,infecti diseas
+1860,allergi immunolog
+1861,psychiatri
+1862,cardiolog
+1863,hematolog oncolog
+1864,patholog
+1865,surgic oncolog
+1866,emerg medicin
+1867,dentistri
+1868,physic medicin rehabilit
+1869,dentistri
+1870,general practic
+1871,infecti diseas
+1872,ent head neck surgeri
+1873,pain manag
+1874,emerg medicin
+1875,pharmacolog
+1876,famili medicin
+1877,pulmonari critic care
+1878,intervent radiolog
+1879,podiatri
+1880,emerg medicin
+1881,lasik surgeri
+1882,psychiatri
+1883,geriatr psychiatri
+1884,neurolog
+1885,prosthodont
+1886,intervent radiolog
+1887,integr medicin
+1888,geriatr psychiatri
+1889,hematolog oncolog
+1890,urolog
+1891,rheumatolog
+1892,emerg medicin
+1893,intervent radiolog
+1894,intern medicin
+1895,psychiatri
+1896,pediatr
+1897,famili medicin
+1898,podiatri
+1899,famili medicin
+1900,pediatr dentistri
+1901,thorac surgeri
+1902,pain manag
+1903,orthoped surgeri
+1904,lasik surgeri
+1905,oral maxillofaci surgeri
+1906,gastroenterolog
+1907,psychiatri
+1908,pediatr
+1909,obstetr gynecolog
+1910,hematolog oncolog
+1911,obstetr gynecolog
+1912,ophthalmolog
+1913,ophthalmolog
+1914,general surgeri
+1915,pediatr
+1916,general practic
+1917,radiat oncolog
+1918,radiat oncolog
+1919,ent head neck surgeri
+1920,intern medicin
+1921,hospitalbas practic
+1922,gastroenterolog
+1923,nuclear medicin
+1924,famili medicin
+1925,fertil medicin
+1926,oral maxillofaci surgeri
+1927,obstetr gynecolog
+1928,lasik surgeri
+1929,general surgeri
+1930,pain manag
+1931,clinic psycholog
+1932,psychiatri
+1933,orthodont
+1934,podiatri
+1935,famili medicin
+1936,podiatri
+1937,radiolog
+1938,hand surgeri
+1939,dermatolog
+1940,endocrinolog
+1941,geriatr psychiatri
+1942,pediatr
+1943,intern medicin
+1944,rheumatolog
+1945,neurolog
+1946,addict medicin
+1947,oral maxillofaci surgeri
+1948,nuclear medicin
+1949,cardiolog
+1950,intern medicin
+1951,podiatri
+1952,neurosurgeri
+1953,famili medicin
+1954,colon rectal surgeri
+1955,cardiolog
+1956,general practic
+1957,ophthalmolog
+1958,general surgeri
