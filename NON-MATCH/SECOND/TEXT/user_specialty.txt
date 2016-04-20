@@ -1,1959 +1,1959 @@
-0,oral maxillofaci surgeri
-1,podiatri
-2,intern medicin
-3,pediatr
-4,podiatri
-5,dentistri
-6,dermatolog
-7,psychiatri
-8,surgic oncolog
-9,prosthodont
-10,dentistri
-11,patholog
-12,urolog
-13,famili medicin
-14,famili medicin
-15,dentistri
-16,cardiolog
-17,plastic surgeri
-18,patholog
-19,dentistri
-20,general practic
-21,dentistri
-22,oral maxillofaci surgeri
-23,rheumatolog
-24,prevent medicin
-25,dentistri
-26,ent head neck surgeri
-27,cardiolog
-28,pain manag
-29,breast surgeri
-30,psychiatri
-31,infecti diseas
-32,cosmet dentistri
-33,general surgeri
-34,bariatr
-35,urgent care
-36,famili medicin
-37,general practic
-38,surgic oncolog
-39,pediatr endocrinolog
-40,facial plastic surgeri
-41,pediatr
-42,psychiatri
-43,orthoped surgeri
-44,pediatr
-45,pediatr
-46,endocrinolog
-47,intern medicin
-48,nuclear medicin
-49,famili medicin
-50,orthodont
-51,dentistri
-52,ent head neck surgeri
-53,surgic oncolog
-54,cardiolog
-55,orthodont
-56,endodont
-57,oral maxillofaci surgeri
-58,plastic surgeri
-59,gastroenterolog
-60,famili medicin
-61,clinic psycholog
-62,cosmet dentistri
-63,pain manag
-64,cardiolog
-65,podiatri
-66,pediatr neurolog
-67,dentistri
-68,famili medicin
-69,orthoped surgeri
-70,intern medicin
-71,orthodont
-72,dentistri
-73,ent head neck surgeri
-74,cosmet dentistri
-75,famili medicin
-76,pediatr
-77,patholog
-78,podiatri
-79,hand surgeri
-80,radiat oncolog
-81,medic oncolog
-82,famili medicin
-83,pediatr dentistri
-84,endocrinolog
-85,intern medicin
-86,urolog
-87,pediatr
-88,diagnost radiolog
-89,allergi immunolog
-90,neurolog
-91,orthoped surgeri
-92,pediatr emerg medicin
-93,patholog
-94,pediatr emerg medicin
-95,infecti diseas
-96,dentistri
-97,orthodont
-98,pediatr
-99,obstetr gynecolog
-100,orthoped surgeri
-101,intern medicin
-102,infecti diseas
-103,hand surgeri
-104,allergi immunolog
-105,urgent care
-106,intern medicin
-107,hematolog oncolog
-108,cardiolog
-109,oral maxillofaci surgeri
-110,general surgeri
-111,dentistri
-112,pediatr
-113,oral maxillofaci surgeri
-114,dentistri
-115,pain manag
-116,psychiatri
-117,cardiolog
-118,oral maxillofaci surgeri
-119,podiatri
-120,general surgeri
-121,medic oncolog
-122,general surgeri
-123,radiolog
-124,famili medicin
-125,cosmet dentistri
-126,hematolog oncolog
-127,allergi immunolog
-128,general surgeri
-129,orthoped surgeri
-130,colon rectal surgeri
-131,orthodont
-132,patholog
-133,surgic oncolog
-134,pediatr
-135,geriatr
-136,pain manag
-137,famili medicin
-138,obstetr gynecolog
-139,geriatr
-140,pediatr neurolog
-141,pain manag
-142,famili medicin
-143,famili medicin
-144,endocrinolog
-145,dermatolog
-146,intern medicin
-147,hand surgeri
-148,intern medicin
-149,obstetr gynecolog
-150,hand surgeri
-151,plastic surgeri
-152,geriatr
-153,dentistri
-154,sport medicin
-155,pain manag
-156,general practic
-157,ophthalmolog
-158,intern medicin
-159,general practic
-160,breast surgeri
-161,podiatri
-162,famili medicin
-163,geriatr
-164,hematolog oncolog
-165,ophthalmolog
-166,neurolog
-167,surgic oncolog
-168,neurolog
-169,dentistri
-170,psychiatri
-171,geriatr psychiatri
-172,general surgeri
-173,general surgeri
-174,dermatolog
-175,orthoped surgeri
-176,pain manag
-177,famili medicin
-178,psychiatri
-179,orthoped surgeri
-180,dentistri
-181,plastic surgeri
-182,phlebolog
-183,nan
-184,pediatr
-185,hand surgeri
-186,pain manag
-187,dentistri
-188,famili medicin
-189,dentistri
-190,ophthalmolog
-191,endocrinolog
-192,physic medicin rehabilit
-193,hand surgeri
-194,cardiolog
-195,pain manag
-196,dermatolog
-197,dentistri
-198,orthoped surgeri
-199,general surgeri
-200,psychiatri
-201,pain manag
-202,ophthalmolog
-203,famili medicin
-204,medic oncolog
-205,pain manag
-206,famili medicin
-207,hematolog oncolog
-208,radiat oncolog
-209,famili medicin
-210,obstetr gynecolog
-211,colon rectal surgeri
-212,pulmonolog
-213,dentistri
-214,neurolog
-215,radiolog
-216,cardiolog
-217,neurosurgeri
-218,orthoped spine surgeri
-219,cardiolog
-220,diagnost radiolog
-221,prosthodont
-222,pulmonolog
-223,general surgeri
-224,orthoped surgeri
-225,endocrinolog
-226,psychiatri
-227,geriatr psychiatri
-228,addict medicin
-229,pediatr neurolog
-230,pediatr
-231,hematolog oncolog
-232,pain manag
-233,hematolog oncolog
-234,famili medicin
-235,general surgeri
-236,patholog
-237,neurolog
-238,obstetr gynecolog
-239,famili medicin
-240,medic oncolog
-241,dermatolog
-242,sport medicin
-243,famili medicin
-244,pulmonari critic care
-245,intern medicin
-246,famili medicin
-247,plastic surgeri
-248,pain manag
-249,rheumatolog
-250,famili medicin
-251,orthodont
-252,radiat oncolog
-253,cardiolog
-254,radiolog
-255,dentistri
-256,anesthesiolog
-257,psychiatri
-258,patholog
-259,endodont
-260,physic medicin rehabilit
-261,integr medicin
-262,breast surgeri
-263,medic oncolog
-264,patholog
-265,famili medicin
-266,thorac surgeri
-267,dentistri
-268,intern medicin
-269,fertil medicin
-270,intern medicin
-271,dentistri
-272,endocrinolog
-273,infecti diseas
-274,intern medicin
-275,psychiatri
-276,neurolog
-277,famili medicin
-278,gastroenterolog
-279,dentistri
-280,cardiolog
-281,orthoped surgeri
-282,intern medicin
-283,dentistri
-284,psychiatri
-285,oral maxillofaci surgeri
-286,orthodont
-287,cardiolog
-288,psychiatri
-289,famili medicin
-290,medic oncolog
-291,intern medicin
-292,famili medicin
-293,podiatri
-294,patholog
-295,rheumatolog
-296,famili medicin
-297,podiatri
-298,neurolog
-299,obstetr gynecolog
-300,famili medicin
-301,orthoped surgeri
-302,orthoped surgeri
-303,surgic oncolog
-304,cardiolog
-305,podiatri
-306,orthodont
-307,rheumatolog
-308,psychiatri
-309,intern medicin
-310,podiatri
-311,famili medicin
-312,dentistri
-313,general practic
-314,famili medicin
-315,rheumatolog
-316,wound care
-317,gynecolog
-318,orthodont
-319,pain manag
-320,general practic
-321,intern medicin
-322,pain manag
-323,podiatri
-324,general surgeri
-325,infecti diseas
-326,neurolog
-327,ophthalmolog
-328,patholog
-329,general surgeri
-330,psychiatri
-331,dentistri
-332,dentistri
-333,intern medicin
-334,cardiolog
-335,radiat oncolog
-336,dentistri
-337,oral maxillofaci surgeri
-338,plastic surgeri
-339,urogynecolog
-340,famili medicin
-341,famili medicin
-342,ophthalmolog
-343,child psychiatri
-344,emerg medicin
-345,intervent radiolog
-346,general surgeri
-347,ent head neck surgeri
-348,famili medicin
-349,pediatr neurolog
-350,hematolog oncolog
-351,oral maxillofaci surgeri
-352,endodont
-353,pediatr hematolog oncolog
-354,podiatri
-355,intern medicin
-356,oral maxillofaci surgeri
-357,famili medicin
-358,ophthalmolog
-359,neurolog
-360,dermatolog
-361,clinic psycholog
-362,pediatr
-363,psychiatri
-364,dentistri
-365,pain manag
-366,famili medicin
-367,nan
-368,physic medicin rehabilit
-369,general surgeri
-370,podiatri
-371,intern medicin
-372,general surgeri
-373,pain manag
-374,intern medicin
-375,prevent medicin
-376,neurosurgeri
-377,dentistri
-378,plastic surgeri
-379,radiat oncolog
-380,famili medicin
-381,dermatolog
-382,lasik surgeri
-383,gastroenterolog
-384,orthoped surgeri
-385,famili medicin
-386,allergi immunolog
-387,pain manag
-388,ent head neck surgeri
-389,neurolog
-390,gastroenterolog
-391,endocrinolog
-392,dermatolog
-393,gastroenterolog
-394,famili medicin
-395,intern medicin
-396,wound care
-397,radiat oncolog
-398,famili medicin
-399,emerg medicin
-400,psychiatri
-401,pediatr pulmonolog
-402,pediatr urolog
-403,orthoped spine surgeri
-404,famili medicin
-405,pain manag
-406,plastic surgeri
-407,famili medicin
-408,rheumatolog
-409,endocrinolog
-410,facial plastic surgeri
-411,famili medicin
-412,dentistri
-413,obstetr gynecolog
-414,geriatr psychiatri
-415,general surgeri
-416,intern medicin
-417,endodont
-418,neurolog
-419,famili medicin
-420,famili medicin
-421,medic oncolog
-422,obstetr gynecolog
-423,ophthalmolog
-424,emerg medicin
-425,emerg medicin
-426,clinic psycholog
-427,cosmet dentistri
-428,famili medicin
-429,dentistri
-430,general surgeri
-431,wound care
-432,dentistri
-433,physic medicin rehabilit
-434,general surgeri
-435,radiolog
-436,pediatr
-437,pediatr pulmonolog
-438,intern medicin
-439,famili medicin
-440,general surgeri
-441,neurosurgeri
-442,pharmacolog
-443,allergi immunolog
-444,dermatolog
-445,wound care
-446,dentistri
-447,dermatolog
-448,orthoped surgeri
-449,intern medicin
-450,intern medicin
-451,patholog
-452,surgic oncolog
-453,famili medicin
-454,famili medicin
-455,famili medicin
-456,orthoped spine surgeri
-457,psychiatri
-458,neurolog
-459,dentistri
-460,retin surgeri
-461,famili medicin
-462,infecti diseas
-463,prosthodont
-464,obstetr gynecolog
-465,dentistri
-466,neurosurgeri
-467,hematolog oncolog
-468,patholog
-469,allergi immunolog
-470,pain manag
-471,podiatri
-472,dentistri
-473,dentistri
-474,podiatri
-475,famili medicin
-476,obstetr gynecolog
-477,intern medicin
-478,hand surgeri
-479,famili medicin
-480,lasik surgeri
-481,psychiatri
-482,obstetr gynecolog
-483,podiatri
-484,general surgeri
-485,nan
-486,general surgeri
-487,patholog
-488,dentistri
-489,plastic surgeri
-490,plastic surgeri
-491,patholog
-492,radiat oncolog
-493,obstetr gynecolog
-494,dentistri
-495,podiatri
-496,hematolog oncolog
-497,dentistri
-498,psychiatri
-499,patholog
-500,intervent radiolog
-501,orthoped spine surgeri
-502,famili medicin
-503,plastic surgeri
-504,podiatri
-505,rheumatolog
-506,intern medicin
-507,intern medicin pediatr
-508,sleep medicin
-509,radiolog
-510,podiatri
-511,orthodont
-512,intern medicin
-513,pediatr urolog
-514,dentistri
-515,dentistri
-516,intern medicin
-517,cardiolog
-518,neurolog
-519,famili medicin
-520,famili medicin
-521,gastroenterolog
-522,urolog
-523,pain manag
-524,clinic psycholog
-525,medic oncolog
-526,dentistri
-527,intern medicin
-528,ophthalmolog
-529,psychiatri
-530,holist medicin
-531,bariatr
-532,ophthalmolog
-533,pediatr pulmonolog
-534,orthoped surgeri
-535,pediatr
-536,famili medicin
-537,famili medicin
-538,dentistri
-539,radiat oncolog
-540,intern medicin
-541,podiatri
-542,hand surgeri
-543,pediatr
-544,ent head neck surgeri
-545,surgic oncolog
-546,ent head neck surgeri
-547,ophthalmolog
-548,patholog
-549,physic medicin rehabilit
-550,famili medicin
-551,rheumatolog
-552,orthoped spine surgeri
-553,intern medicin
-554,allergi immunolog
-555,radiat oncolog
-556,lasik surgeri
-557,pulmonari critic care
-558,podiatri
-559,dentistri
-560,pediatr pulmonolog
-561,famili medicin
-562,pediatr
-563,patholog
-564,emerg medicin
-565,clinic psycholog
-566,pain manag
-567,famili medicin
-568,integr medicin
-569,allergi immunolog
-570,anesthesiolog
-571,intern medicin
-572,psychiatri
-573,obstetr gynecolog
-574,sport medicin
-575,dentistri
-576,cardiolog
-577,famili medicin
-578,podiatri
-579,anesthesiolog
-580,famili medicin
-581,obstetr gynecolog
-582,dentistri
-583,plastic surgeri
-584,orthodont
-585,obstetr gynecolog
-586,ophthalmolog
-587,famili medicin
-588,intern medicin
-589,psychiatri
-590,patholog
-591,orthoped spine surgeri
-592,intern medicin
-593,obstetr gynecolog
-594,pediatr
-595,obstetr gynecolog
-596,plastic surgeri
-597,hematolog oncolog
-598,endocrinolog
-599,famili medicin
-600,neurolog
-601,ent head neck surgeri
-602,famili medicin
-603,intern medicin
-604,addict medicin
-605,dentistri
-606,famili medicin
-607,podiatri
-608,gastroenterolog
-609,intern medicin
-610,podiatri
-611,famili medicin
-612,pain manag
-613,famili medicin
-614,orthoped surgeri  hand surgeri
-615,oral maxillofaci surgeri
-616,emerg medicin
-617,rheumatolog
-618,famili medicin
-619,pediatr
-620,intern medicin
-621,podiatri
-622,intervent radiolog
-623,general surgeri
-624,rheumatolog
-625,famili medicin
-626,cardiolog
-627,allergi immunolog
-628,intern medicin
-629,dentistri
-630,podiatri
-631,intern medicin
-632,surgic oncolog
-633,sport medicin
-634,psychiatri
-635,neurolog
-636,podiatri
-637,pulmonari critic care
-638,intern medicin
-639,neurolog
-640,allergi immunolog
-641,dentistri
-642,hematolog oncolog
-643,nan
-644,dentistri
-645,physic medicin rehabilit
-646,intern medicin
-647,general practic
-648,oral maxillofaci surgeri
-649,dentistri
-650,urolog
-651,urgent care
-652,pediatr
-653,anesthesiolog
-654,famili medicin
-655,intervent radiolog
-656,intern medicin
-657,obstetr gynecolog
-658,emerg medicin
-659,radiolog
-660,nan
-661,dentistri
-662,dentistri
-663,podiatri
-664,gynecolog
-665,pediatr surgeri
-666,dermatolog
-667,pediatr
-668,pediatr
-669,famili medicin
-670,dentistri
-671,intern medicin
-672,podiatri
-673,obstetr gynecolog
-674,dentistri
-675,orthoped surgeri
-676,pediatr
-677,orthoped spine surgeri
-678,podiatri
-679,physic medicin rehabilit
-680,pediatr
-681,famili medicin
-682,emerg medicin
-683,podiatri
-684,dentistri
-685,dermatolog
-686,dentistri
-687,obstetr gynecolog
-688,neurolog
-689,intern medicin
-690, select special 
-691,ent head neck surgeri
-692,dentistri
-693,general surgeri
-694,infecti diseas
-695,psychiatri
-696,dermatolog
-697,pediatr urolog
-698,famili medicin
-699,medic oncolog
-700,orthoped foot ankl surgeri
-701,oral maxillofaci surgeri
-702,dentistri
-703,lasik surgeri
-704,psychiatri
-705,radiat oncolog
-706,famili medicin
-707,orthodont
-708,lasik surgeri
-709,oral maxillofaci surgeri
-710,general surgeri
-711,pediatr
-712,dentistri
-713,ent head neck surgeri
-714,podiatri
-715,intern medicin
-716,cardiolog
-717,colon rectal surgeri
-718,medic oncolog
-719,orthodont
-720,pain manag
-721,allergi immunolog
-722,thorac surgeri
-723,patholog
-724,obstetr gynecolog
-725,general surgeri
-726,famili medicin
-727,medic oncolog
-728,pain manag
-729,pediatr
-730,podiatri
-731,general practic
-732,general surgeri
-733,orthoped reconstruct surgeri
-734,allergi immunolog
-735,orthoped surgeri
-736,orthoped reconstruct surgeri
-737,general practic
-738,diagnost radiolog
-739,radiolog
-740,psychiatri
-741,diagnost radiolog
-742,intern medicin
-743,thorac surgeri
-744,facial plastic surgeri
-745,patholog
-746,surgic oncolog
-747,pain manag
-748,famili medicin
-749,medic oncolog
-750,pain manag
-751,intern medicin
-752,radiat oncolog
-753,neurolog
-754,anesthesiolog
-755,lasik surgeri
-756,colon rectal surgeri
-757,cardiolog
-758,urogynecolog
-759,aesthet medicin
-760,pediatr
-761,oral maxillofaci surgeri
-762,pain manag
-763,pediatr
-764,dentistri
-765,podiatri
-766,gynecolog
-767,ent head neck surgeri
-768,radiolog
-769,intern medicin
-770,pain manag
-771,dentistri
-772,rheumatolog
-773,intern medicin
-774,general practic
-775,dentistri
-776,podiatri
-777,infecti diseas
-778,dermatolog
-779,intern medicin
-780,podiatri
-781,neurolog
-782,infecti diseas
-783,orthoped surgeri
-784,allergi immunolog
-785,plastic surgeri
-786,hand surgeri
-787,infecti diseas
-788,retin surgeri
-789,cardiolog
-790,prosthodont
-791,integr medicin
-792,psychiatri
-793,urolog
-794,intern medicin
-795,patholog
-796,prosthodont
-797,urolog
-798,integr medicin
-799,nuclear medicin
-800,addict medicin
-801,pulmonari critic care
-802,patholog
-803,hand surgeri
-804,dentistri
-805,diagnost radiolog
-806,intern medicin
-807,infecti diseas
-808,orthoped surgeri
-809,hematolog oncolog
-810,pediatr
-811,infecti diseas
-812,gastroenterolog
-813,dentistri
-814,intern medicin
-815,intern medicin
-816,ent head neck surgeri
-817,dentistri
-818,intern medicin
-819,psychiatri
-820,pain manag
-821,dentistri
-822,pediatr emerg medicin
-823,podiatri
-824,hematolog oncolog
-825,physic medicin rehabilit
-826,podiatri
-827,allergi immunolog
-828,radiat oncolog
-829,ent head neck surgeri
-830,general surgeri
-831,general practic
-832,thorac surgeri
-833,oral maxillofaci surgeri
-834,podiatri
-835,general practic
-836,intern medicin
-837,pediatr dentistri
-838,intern medicin
-839,famili medicin
-840,nuclear medicin
-841,psychiatri
-842,general surgeri
-843,nan
-844,anesthesiolog
-845,patholog
-846,psychiatri
-847,emerg medicin
-848,intern medicin
-849,urolog
-850,radiat oncolog
-851,vascular surgeri
-852,emerg medicin
-853,orthoped surgeri
-854,obstetr gynecolog
-855,psychiatri
-856,pediatr emerg medicin
-857,allergi immunolog
-858,anesthesiolog
-859,radiat oncolog
-860,pediatr
-861,patholog
-862,orthodont
-863,podiatri
-864,pediatr
-865,intern medicin
-866,medic oncolog
-867,pain manag
-868,cosmet dentistri
-869,oral maxillofaci surgeri
-870,clinic psycholog
-871,pediatr
-872,podiatri
-873,hematolog oncolog
-874,famili medicin
-875,intern medicin
-876,pain manag
-877,aesthet medicin
-878,allergi immunolog
-879,neurolog
-880,ent head neck surgeri
-881,diagnost radiolog
-882,oral maxillofaci surgeri
-883,prevent medicin
-884,wound care
-885,pediatr cardiolog
-886,surgic oncolog
-887,gynecolog
-888,famili medicin
-889,famili medicin
-890,famili medicin
-891,plastic surgeri
-892,neurolog
-893,dentistri
-894,pediatr orthoped surgeri
-895,gastroenterolog
-896,pediatr
-897,urolog
-898,intern medicin
-899,hand surgeri
-900,general surgeri
-901,medic oncolog
-902,intern medicin
-903,intern medicin
-904,colon rectal surgeri
-905,general practic
-906,dentistri
-907,psychiatri
-908,intern medicin
-909,medic oncolog
-910,orthoped surgeri
-911,general surgeri
-912,emerg medicin
-913,urgent care
-914,patholog
-915,famili medicin
-916,lasik surgeri
-917,general surgeri
-918,dermatolog
-919,famili medicin
-920,dentistri
-921,pain manag
-922,pediatr
-923,pediatr dentistri
-924,intern medicin
-925,general surgeri
-926,dentistri
-927,periodont
-928,intern medicin
-929,pediatr
-930,pain manag
-931,intervent radiolog
-932,emerg medicin
-933,dentistri
-934,pediatr
-935,ent head neck surgeri
-936,cardiolog
-937,diagnost radiolog
-938,rheumatolog
-939,pain manag
-940,dermatolog
-941,famili medicin
-942,emerg medicin
-943,integr medicin
-944,general surgeri
-945,gynecolog
-946,pediatr
-947,orthodont
-948,famili medicin
-949,neurolog
-950,physic medicin rehabilit
-951,pain manag
-952,famili medicin
-953,pediatr
-954,ent head neck surgeri
-955,clinic psycholog
-956,dentistri
-957,ent head neck surgeri
-958,pediatr
-959,pediatr
-960,radiolog
-961,oral maxillofaci surgeri
-962,cardiolog
-963,dentistri
-964,ent head neck surgeri
-965,patholog
-966,plastic surgeri
-967,dentistri
-968,pain manag
-969,nephrolog dialysi
-970,radiat oncolog
-971,dentistri
-972,general surgeri
-973,pain manag
-974,dentistri
-975,cosmet dentistri
-976,podiatri
-977,famili medicin
-978,intern medicin
-979,famili medicin
-980,intervent radiolog
-981,ophthalmolog
-982,psychiatri
-983,allergi immunolog
-984,famili medicin
-985,psychiatri
-986,dentistri
-987,intern medicin
-988,dentistri
-989,podiatri
-990,cosmet dentistri
-991,famili medicin
-992,famili medicin
-993,general surgeri
-994,intervent radiolog
-995,radiolog
-996,famili medicin
-997,intern medicin
-998,general practic
-999,famili medicin
-1000,famili medicin
-1001,general practic
-1002,dentistri
-1003,dentistri
-1004,dentistri
-1005,phlebolog
-1006,dentistri
-1007,oral maxillofaci surgeri
-1008,rheumatolog
-1009,neurolog
-1010,neurolog
-1011,intern medicin
-1012,general practic
-1013,pain manag
-1014,antiag medicin
-1015,psychiatri
-1016,pain manag
-1017,psychiatri
-1018,famili medicin
-1019,dentistri
-1020,prosthodont
-1021,pediatr pulmonolog
-1022,pain manag
-1023,allergi immunolog
-1024,dentistri
-1025,intern medicin
-1026,medic oncolog
-1027,fertil medicin
-1028,pediatr
-1029,medic oncolog
-1030,adolesc medicin
-1031,pediatr gastroenterolog
-1032,obstetr gynecolog
-1033,famili medicin
-1034,orthoped surgeri
-1035,oral maxillofaci surgeri
-1036,oral maxillofaci surgeri
-1037,urolog
-1038,ophthalmolog
-1039,radiat oncolog
-1040,podiatri
-1041,intern medicin
-1042,famili medicin
-1043,psychiatri
-1044,dentistri
-1045,obstetr gynecolog
-1046,physic medicin rehabilit
-1047,pain manag
-1048,ophthalmolog
-1049,oral maxillofaci surgeri
-1050,emerg medicin
-1051,psychiatri
-1052,obstetr gynecolog
-1053,dentistri
-1054,famili medicin
-1055,neurosurgeri
-1056,obstetr gynecolog
-1057,physic medicin rehabilit
-1058,famili medicin
-1059,gynecolog
-1060,diagnost radiolog
-1061,thorac surgeri
-1062,dentistri
-1063,patholog
-1064,intern medicin
-1065,intern medicin
-1066,oral maxillofaci surgeri
-1067,pediatr
-1068,cosmet dentistri
-1069,general practic
-1070,famili medicin
-1071,ophthalmolog
-1072,dentistri
-1073,pediatr
-1074,general surgeri
-1075,pain manag
-1076,surgic oncolog
-1077,pain manag
-1078,dentistri
-1079,podiatri
-1080,intern medicin
-1081,emerg medicin
-1082,anesthesiolog
-1083,general surgeri
-1084,intervent radiolog
-1085,intern medicin pediatr
-1086,obstetr gynecolog
-1087,dermatolog
-1088,general surgeri
-1089,intern medicin
-1090,hand surgeri
-1091,famili medicin
-1092,medic oncolog
-1093,pain manag
-1094,patholog
-1095,neurolog
-1096,vascular surgeri
-1097,plastic surgeri
-1098,famili medicin
-1099,pediatr
-1100,famili medicin
-1101,holist medicin
-1102,intern medicin
-1103,dentistri
-1104,allergi immunolog
-1105,thorac surgeri
-1106,psychiatri
-1107,clinic psycholog
-1108,cardiolog
-1109,psychiatri
-1110,general practic
-1111,radiolog
-1112,rheumatolog
-1113,obstetr gynecolog
-1114,famili medicin
-1115,famili medicin
-1116,dentistri
-1117,general surgeri
-1118,famili medicin
-1119,emerg medicin
-1120,general practic
-1121,famili medicin
-1122,dentistri
-1123,ophthalmolog
-1124,plastic surgeri
-1125,famili medicin
-1126,famili medicin
-1127,pediatr
-1128,ent head neck surgeri
-1129,dentistri
-1130,podiatri
-1131,podiatri
-1132,famili medicin
-1133,neurolog
-1134,podiatri
-1135,intern medicin
-1136,neurosurgeri
-1137,anesthesiolog
-1138,podiatri
-1139,neurolog
-1140,dentistri
-1141,pain manag
-1142,intern medicin
-1143,dermatolog
-1144,diagnost radiolog
-1145,cardiolog
-1146,podiatri
-1147,fertil medicin
-1148,allergi immunolog
-1149,psychiatri
-1150,prevent medicin
-1151,oral maxillofaci surgeri
-1152,pediatr
-1153,general surgeri
-1154,pain manag
-1155,prosthodont
-1156,plastic surgeri
-1157,intern medicin
-1158,obstetr gynecolog
-1159,intern medicin
-1160,oral maxillofaci surgeri
-1161,orthoped spine surgeri
-1162,general practic
-1163,pain manag
-1164,endodont
-1165,intern medicin
-1166,child psychiatri
-1167,pediatr
-1168,medic oncolog
-1169,ophthalmolog
-1170,intern medicin pediatr
-1171,rheumatolog
-1172,podiatri
-1173,general practic
-1174,general practic
-1175,pediatr
-1176,psychiatri
-1177,intern medicin
-1178,infecti diseas
-1179,cardiolog
-1180,psychiatri
-1181,rheumatolog
-1182,diagnost radiolog
-1183,general surgeri
-1184,surgic oncolog
-1185,hematolog oncolog
-1186,patholog
-1187,radiat oncolog
-1188,radiat oncolog
-1189,intern medicin
-1190,pediatr
-1191,dermatolog
-1192,neurolog
-1193,radiat oncolog
-1194,podiatri
-1195,psychiatri
-1196, select special 
-1197,nuclear medicin
-1198,ophthalmolog
-1199,intern medicin
-1200,pain manag
-1201,oral maxillofaci surgeri
-1202,infecti diseas
-1203,orthoped surgeri
-1204,cardiolog
-1205,oral maxillofaci surgeri
-1206,pediatr
-1207,dentistri
-1208,obstetr gynecolog
-1209,general surgeri
-1210,rheumatolog
-1211,obstetr gynecolog
-1212,intern medicin
-1213,famili medicin
-1214,dentistri
-1215,orthoped surgeri
-1216,infecti diseas
-1217,famili medicin
-1218,phlebolog
-1219,pediatr nephrolog dialysi
-1220,podiatri
-1221,famili medicin
-1222,general surgeri
-1223,oral maxillofaci surgeri
-1224,nan
-1225,psychiatri
-1226,dentistri
-1227,physic medicin rehabilit
-1228,intern medicin
-1229,pediatr
-1230,colon rectal surgeri
-1231,dentistri
-1232,psychiatri
-1233,dentistri
-1234,geriatr
-1235,dentistri
-1236,famili medicin
-1237,vascular surgeri
-1238,podiatri
-1239,pain manag
-1240,infecti diseas
-1241,pediatr
-1242,breast surgeri
-1243,endocrinolog
-1244,ophthalmolog
-1245,intern medicin
-1246,general surgeri
-1247,podiatri
-1248,podiatri
-1249,podiatri
-1250,plastic surgeri
-1251,neurolog
-1252,cardiolog
-1253,dentistri
-1254,dermatolog
-1255,patholog
-1256,dentistri
-1257,neurosurgeri
-1258,podiatri
-1259,dentistri
-1260,podiatri
-1261,pediatr emerg medicin
-1262,intern medicin
-1263,pediatr neurolog
-1264,nuclear medicin
-1265,podiatri
-1266,surgic oncolog
-1267,phlebolog
-1268,pediatr
-1269,pain manag
-1270,infecti diseas
-1271,infecti diseas
-1272,famili medicin
-1273,psychiatri
-1274,oral maxillofaci surgeri
-1275,pediatr cardiolog
-1276,orthodont
-1277,maternalfet medicin
-1278,plastic surgeri
-1279,periodont
-1280,pediatr
-1281,podiatri
-1282,ophthalmolog
-1283,pain manag
-1284,dentistri
-1285,general practic
-1286,intern medicin
-1287,diagnost radiolog
-1288,dentistri
-1289,general surgeri
-1290,dentistri
-1291,podiatri
-1292,prevent medicin
-1293,famili medicin
-1294,patholog
-1295,pediatr
-1296,dentistri
-1297,psychiatri
-1298,dentistri
-1299,phlebolog
-1300,intervent radiolog
-1301,dentistri
-1302,dentistri
-1303,psychiatri
-1304,pediatr
-1305,obstetr gynecolog
-1306,psychiatri
-1307,patholog
-1308,podiatri
-1309,famili medicin
-1310,dentistri
-1311,dentistri
-1312,psychiatri
-1313,dentistri
-1314,nephrolog dialysi
-1315,radiolog
-1316,nuclear medicin
-1317,neurosurgeri
-1318,pediatr
-1319,pulmonari critic care
-1320,psychiatri
-1321,psychiatri
-1322,orthoped surgeri
-1323,obstetr gynecolog
-1324,ent head neck surgeri
-1325,pediatr
-1326,dentistri
-1327,pain manag
-1328,surgic oncolog
-1329,cardiolog
-1330,cardiolog
-1331,oral maxillofaci surgeri
-1332,dentistri
-1333,hand surgeri
-1334,intern medicin
-1335,oral maxillofaci surgeri
-1336,ent head neck surgeri
-1337,gynecolog
-1338,rheumatolog
-1339,pain manag
-1340,intern medicin
-1341,intern medicin
-1342,podiatri
-1343,famili medicin
-1344,neurosurgeri
-1345,podiatri
-1346,famili medicin
-1347,anesthesiolog
-1348,dentistri
-1349,pulmonari critic care
-1350,podiatri
-1351,radiolog
-1352,dentistri
-1353,oral maxillofaci surgeri
-1354,pain manag
-1355,intern medicin
-1356,famili medicin
-1357,oral maxillofaci surgeri
-1358,rheumatolog
-1359,intervent radiolog
-1360,general surgeri
-1361,famili medicin
-1362,podiatri
-1363,dentistri
-1364,general surgeri
-1365,podiatri
-1366,emerg medicin
-1367,orthoped surgeri
-1368,intern medicin
-1369,dentistri
-1370,psychiatri
-1371,lasik surgeri
-1372,pediatr
-1373,famili medicin
-1374,psychiatri
-1375,urolog
-1376,intern medicin
-1377,allergi immunolog
-1378,patholog
-1379,pediatr
-1380,clinic psycholog
-1381,facial plastic surgeri
-1382,dermatolog
-1383,podiatri
-1384,intern medicin
-1385,oral maxillofaci surgeri
-1386,general surgeri
-1387,psychiatri
-1388,intern medicin
-1389,nan
-1390,general surgeri
-1391,dentistri
-1392,podiatri
-1393,general surgeri
-1394,famili medicin
-1395,plastic surgeri
-1396,urolog
-1397,plastic surgeri
-1398,oral maxillofaci surgeri
-1399,radiolog
-1400,pediatr
-1401,dentistri
-1402,obstetr gynecolog
-1403,pulmonari critic care
-1404,general practic
-1405,general practic
-1406,orthodont
-1407,podiatri
-1408,wound care
-1409,periodont
-1410,prevent medicin
-1411,oral maxillofaci surgeri
-1412,neurosurgeri
-1413,pediatr
-1414,cardiac electrophysiolog
-1415,podiatri
-1416,pediatr
-1417,famili medicin
-1418,famili medicin
-1419,clinic psycholog
-1420,patholog
-1421,infecti diseas
-1422,intern medicin
-1423,pain manag
-1424,psychiatri
-1425,neurosurgeri
-1426,intervent radiolog
-1427,orthodont
-1428,dentistri
-1429,orthoped surgeri
-1430,gastroenterolog
-1431,nuclear medicin
-1432,pediatr hematolog oncolog
-1433,pediatr
-1434,hematolog oncolog
-1435,intern medicin
-1436,infecti diseas
-1437,cosmet dentistri
-1438,general practic
-1439,pediatr
-1440,cardiolog
-1441,diagnost radiolog
-1442,intern medicin
-1443,prosthodont
-1444,famili medicin
-1445,general practic
-1446,ophthalmolog
-1447,wound care
-1448,famili medicin
-1449,famili medicin
-1450,allergi immunolog
-1451,oral maxillofaci surgeri
-1452,oral maxillofaci surgeri
-1453,famili medicin
-1454,ophthalmolog
-1455,plastic surgeri
-1456,dentistri
-1457,general surgeri
-1458,famili medicin
-1459,psychiatri
-1460,dentistri
-1461,plastic surgeri
-1462,prosthodont
-1463,intern medicin
-1464,infecti diseas
-1465,neurolog
-1466,obstetr gynecolog
-1467,famili medicin
-1468,radiat oncolog
-1469,cosmet dentistri
-1470,podiatri
-1471,intern medicin
-1472,neurolog
-1473,sport medicin
-1474,fertil medicin
-1475,surgic oncolog
-1476,pain manag
-1477,pediatr
-1478,pediatr
-1479,neurolog
-1480,diagnost radiolog
-1481,radiat oncolog
-1482,psychiatri
-1483,cosmet dentistri
-1484,famili medicin
-1485,hematolog oncolog
-1486,cardiolog
-1487,podiatri
-1488,dentistri
-1489,psychiatri
-1490,diagnost radiolog
-1491,famili medicin
-1492,prevent medicin
-1493,oral maxillofaci surgeri
-1494,intern medicin
-1495,orthoped surgeri
-1496,pulmonari critic care
-1497,allergi immunolog
-1498,pain manag
-1499,famili medicin
-1500,dentistri
-1501,famili medicin
-1502,urolog
-1503,ophthalmolog
-1504,famili medicin
-1505,intern medicin
-1506,patholog
-1507,dentistri
-1508,prevent medicin
-1509,dentistri
-1510,dentistri
-1511,radiat oncolog
-1512,dentistri
-1513,psychiatri
-1514,oral maxillofaci surgeri
-1515,urolog
-1516,podiatri
-1517,physic medicin rehabilit
-1518,adolesc medicin
-1519,sport medicin
-1520,rheumatolog
-1521,intern medicin
-1522,dentistri
-1523,podiatri
-1524,cardiolog
-1525,psychiatri
-1526,hospitalbas practic
-1527,ophthalmolog
-1528,orthoped surgeri
-1529,dentistri
-1530,oral maxillofaci surgeri
-1531,pain manag
-1532,pediatr cardiolog
-1533,dentistri
-1534,famili medicin
-1535,pain manag
-1536,ent head neck surgeri
-1537,oral maxillofaci surgeri
-1538,podiatri
-1539,psychiatri
-1540,patholog
-1541,hematolog oncolog
-1542, select special 
-1543,pediatr
-1544,geriatr
-1545,intern medicin
-1546,clinic psycholog
-1547,prevent medicin
-1548,famili medicin
-1549,radiat oncolog
-1550,obstetr gynecolog
-1551,general surgeri
-1552,cardiolog
-1553,obstetr gynecolog
-1554,radiolog
-1555,podiatri
-1556,general practic
-1557,intern medicin
-1558,dentistri
-1559,intern medicin
-1560,dentistri
-1561,famili medicin
-1562,bariatr
-1563,gastroenterolog
-1564,neurolog
-1565,famili medicin
-1566,wound care
-1567,famili medicin
-1568,dentistri
-1569,surgic oncolog
-1570,pediatr
-1571,pediatr
-1572,dentistri
-1573,podiatri
-1574,pain manag
-1575,pain manag
-1576,gastroenterolog
-1577,obstetr gynecolog
-1578,podiatri
-1579,famili medicin
-1580,obstetr gynecolog
-1581,neurolog
-1582,cosmet dentistri
-1583,intern medicin
-1584,general practic
-1585,pediatr
-1586,nan
-1587,podiatri
-1588,pain manag
-1589,podiatri
-1590,intern medicin
-1591,podiatri
-1592,hematolog oncolog
-1593,neurosurgeri
-1594,famili medicin
-1595,ent head neck surgeri
-1596,aesthet medicin
-1597,oral maxillofaci surgeri
-1598,orthoped foot ankl surgeri
-1599,cardiolog
-1600,famili medicin
-1601,orthoped spine surgeri
-1602,breast surgeri
-1603,ophthalmolog
-1604,intern medicin
-1605,surgic oncolog
-1606,geriatr psychiatri
-1607,medic oncolog
-1608,pediatr
-1609,surgic oncolog
-1610,phlebolog
-1611,dentistri
-1612,cardiolog
-1613,famili medicin
-1614,famili medicin
-1615,famili medicin
-1616,orthoped surgeri
-1617,dentistri
-1618,dentistri
-1619,famili medicin
-1620,hepatolog
-1621,dentistri
-1622,dentistri
-1623,famili medicin
-1624,intern medicin
-1625,orthodont
-1626,famili medicin
-1627,surgic oncolog
-1628,ent head neck surgeri
-1629,patholog
-1630,dentistri
-1631,oral maxillofaci surgeri
-1632,anesthesiolog
-1633,dentistri
-1634,dentistri
-1635,dentistri
-1636,podiatri
-1637,dentistri
-1638,breast surgeri
-1639,prevent medicin
-1640,famili medicin
-1641,physic medicin rehabilit
-1642,famili medicin
-1643,diagnost radiolog
-1644,dentistri
-1645,facial plastic surgeri
-1646,endodont
-1647,plastic surgeri
-1648,hematolog oncolog
-1649,rheumatolog
-1650,orthoped spine surgeri
-1651,famili medicin
-1652,cardiolog
-1653,dentistri
-1654,intern medicin
-1655,cardiolog
-1656,cosmet dentistri
-1657,dentistri
-1658,dermatolog
-1659,lasik surgeri
-1660,podiatri
-1661,famili medicin
-1662,pain manag
-1663,ophthalmolog
-1664,orthodont
-1665,ent head neck surgeri
-1666,ophthalmolog
-1667, select special 
-1668,dentistri
-1669,pediatr
-1670,intern medicin
-1671,urolog
-1672,famili medicin
-1673,dentistri
-1674,hematolog oncolog
-1675,psychiatri
-1676,radiat oncolog
-1677,orthodont
-1678,orthoped surgeri
-1679,ent head neck surgeri
-1680,oral maxillofaci surgeri
-1681,aesthet medicin
-1682,ent head neck surgeri
-1683,neurolog
-1684,general surgeri
-1685,gynecolog oncolog
-1686,podiatri
-1687,dentistri
-1688,anesthesiolog
-1689,gynecolog
-1690,pediatr hematolog oncolog
-1691,general practic
-1692,intern medicin
-1693,ophthalmolog
-1694,diagnost radiolog
-1695,allergi immunolog
-1696,intern medicin
-1697,obstetr gynecolog
-1698,psychiatri
-1699,pain manag
-1700,diagnost radiolog
-1701,oral maxillofaci surgeri
-1702,patholog
-1703,dentistri
-1704,intern medicin
-1705,adolesc medicin
-1706,diagnost radiolog
-1707,psychiatri
-1708,geriatr
-1709,prosthodont
-1710,famili medicin
-1711,pulmonari critic care
-1712,pediatr
-1713,famili medicin
-1714,pediatr
-1715,famili medicin
-1716,podiatri
-1717,intern medicin
-1718,neurosurgeri
-1719,rheumatolog
-1720,patholog
-1721,intern medicin
-1722,intern medicin
-1723,famili medicin
-1724,podiatri
-1725,cardiolog
-1726,lasik surgeri
-1727,pain manag
-1728,general surgeri
-1729,intern medicin
-1730,general surgeri
-1731,famili medicin
-1732,podiatri
-1733,rheumatolog
-1734,famili medicin
-1735,radiolog
-1736,nephrolog dialysi
-1737,cardiolog
-1738,infecti diseas
-1739,diagnost radiolog
-1740,general surgeri
-1741,addict medicin
-1742,diagnost radiolog
-1743,famili medicin
-1744,rheumatolog
-1745,dentistri
-1746,allergi immunolog
-1747,clinic psycholog
-1748,famili medicin
-1749,obstetr gynecolog
-1750,intern medicin
-1751,neurosurgeri
-1752,dentistri
-1753,ent head neck surgeri
-1754,general surgeri
-1755,famili medicin
-1756,diagnost radiolog
-1757,pediatr
-1758,radiolog
-1759,general surgeri
-1760,famili medicin
-1761,gastroenterolog
-1762,famili medicin
-1763,famili medicin
-1764,pediatr
-1765,famili medicin
-1766,gynecolog
-1767,cardiolog
-1768,famili medicin
-1769,infecti diseas
-1770,podiatri
-1771,patholog
-1772,pediatr
-1773,dentistri
-1774,dentistri
-1775,pain manag
-1776,orthodont
-1777,neurolog
-1778,general surgeri
-1779,dentistri
-1780,allergi immunolog
-1781,famili medicin
-1782,plastic surgeri
-1783,patholog
-1784,pediatr
-1785,intern medicin
-1786,podiatri
-1787,addict medicin
-1788,neurolog
-1789,dentistri
-1790,famili medicin
-1791,psychiatri
-1792,intern medicin
-1793,neurolog
-1794,famili medicin
-1795,obstetr gynecolog
-1796,pediatr
-1797,general surgeri
-1798,dentistri
-1799,emerg medicin
-1800,famili medicin
-1801,ent head neck surgeri
-1802,neurolog
-1803,rheumatolog
-1804,pediatr
-1805,psychiatri
-1806,emerg medicin
-1807,pain manag
-1808,surgic oncolog
-1809,orthoped surgeri
-1810,radiolog
-1811,nephrolog dialysi
-1812,intern medicin
-1813,hematolog oncolog
-1814,orthoped surgeri
-1815,pain manag
-1816,famili medicin
-1817,radiat oncolog
-1818,thorac surgeri
-1819,famili medicin
-1820,radiolog
-1821,intern medicin
-1822,oral maxillofaci surgeri
-1823,plastic surgeri
-1824,infecti diseas
-1825,pediatr urolog
-1826,psychiatri
-1827,intern medicin
-1828,urolog
-1829,orthoped surgeri
-1830,radiolog
-1831,intern medicin
-1832,intern medicin
-1833,podiatri
-1834,ent head neck surgeri
-1835,pain manag
-1836,plastic surgeri
-1837,pain manag
-1838,orthoped surgeri
-1839,hematolog oncolog
-1840,plastic surgeri
-1841,emerg medicin
-1842,aesthet medicin
-1843,general surgeri
-1844,intern medicin
-1845,dentistri
-1846,nuclear medicin
-1847,orthodont
-1848,plastic surgeri
-1849,colon rectal surgeri
-1850,surgic oncolog
-1851,psychiatri
-1852,podiatri
-1853,pediatr
-1854,radiat oncolog
-1855,intern medicin
-1856,intern medicin
-1857,diagnost radiolog
-1858,general surgeri
-1859,general surgeri
-1860,famili medicin
-1861,allergi immunolog
-1862,urgent care
-1863,psychiatri
-1864,general practic
-1865,pediatr
-1866,general surgeri
-1867,podiatri
-1868,ent head neck surgeri
-1869,famili medicin
-1870,psychiatri
-1871,dentistri
-1872,radiat oncolog
-1873,intern medicin pediatr
-1874,geriatr psychiatri
-1875,intern medicin
-1876,ophthalmolog
-1877,hematolog oncolog
-1878,neurolog
-1879,general practic
-1880,plastic surgeri
-1881,allergi immunolog
-1882,urolog
-1883,pediatr
-1884,pain manag
-1885,oral maxillofaci surgeri
-1886,clinic psycholog
-1887,famili medicin
-1888,pulmonari critic care
-1889,neurolog
-1890,patholog
-1891,physic medicin rehabilit
-1892,pain manag
-1893,anesthesiolog
-1894,intern medicin
-1895,urgent care
-1896,sport medicin
-1897,podiatri
-1898,geriatr
-1899,psychiatri
-1900,neurolog
-1901,podiatri
-1902,nan
-1903,famili medicin
-1904,intern medicin
-1905,surgic oncolog
-1906,intern medicin
-1907,famili medicin
-1908,cardiolog
-1909,vascular surgeri
-1910,ophthalmolog
-1911,famili medicin
-1912,ophthalmolog
-1913,intern medicin
-1914,dentistri
-1915,rheumatolog
-1916,urolog
-1917,pediatr
-1918,obstetr gynecolog
-1919,famili medicin
-1920,famili medicin
-1921,breast surgeri
-1922,dentistri
-1923,obstetr gynecolog
-1924,orthoped spine surgeri
-1925,anesthesiolog
-1926,ophthalmolog
-1927,neurolog
-1928,famili medicin
-1929,nan
-1930,nan
-1931,ophthalmolog
-1932,pain manag
-1933,lasik surgeri
-1934,endocrinolog
-1935,famili medicin
-1936,dentistri
-1937,famili medicin
-1938,dentistri
-1939,podiatri
-1940,famili medicin
-1941,oral maxillofaci surgeri
-1942,pediatr
-1943,orthodont
-1944,lasik surgeri
-1945,famili medicin
-1946,plastic surgeri
-1947,general surgeri
-1948,ophthalmolog
-1949,radiolog
-1950,famili medicin
-1951,plastic surgeri
-1952,famili medicin
-1953,general surgeri
-1954,allergi immunolog
-1955,pediatr
-1956,orthoped surgeri
-1957,famili medicin
-1958,pediatr
+oral maxillofaci surgeri
+podiatri
+intern medicin
+pediatr
+podiatri
+dentistri
+dermatolog
+psychiatri
+surgic oncolog
+prosthodont
+dentistri
+patholog
+urolog
+famili medicin
+famili medicin
+dentistri
+cardiolog
+plastic surgeri
+patholog
+dentistri
+general practic
+dentistri
+oral maxillofaci surgeri
+rheumatolog
+prevent medicin
+dentistri
+ent head neck surgeri
+cardiolog
+pain manag
+breast surgeri
+psychiatri
+infecti diseas
+cosmet dentistri
+general surgeri
+bariatr
+urgent care
+famili medicin
+general practic
+surgic oncolog
+pediatr endocrinolog
+facial plastic surgeri
+pediatr
+psychiatri
+orthoped surgeri
+pediatr
+pediatr
+endocrinolog
+intern medicin
+nuclear medicin
+famili medicin
+orthodont
+dentistri
+ent head neck surgeri
+surgic oncolog
+cardiolog
+orthodont
+endodont
+oral maxillofaci surgeri
+plastic surgeri
+gastroenterolog
+famili medicin
+clinic psycholog
+cosmet dentistri
+pain manag
+cardiolog
+podiatri
+pediatr neurolog
+dentistri
+famili medicin
+orthoped surgeri
+intern medicin
+orthodont
+dentistri
+ent head neck surgeri
+cosmet dentistri
+famili medicin
+pediatr
+patholog
+podiatri
+hand surgeri
+radiat oncolog
+medic oncolog
+famili medicin
+pediatr dentistri
+endocrinolog
+intern medicin
+urolog
+pediatr
+diagnost radiolog
+allergi immunolog
+neurolog
+orthoped surgeri
+pediatr emerg medicin
+patholog
+pediatr emerg medicin
+infecti diseas
+dentistri
+orthodont
+pediatr
+obstetr gynecolog
+orthoped surgeri
+intern medicin
+infecti diseas
+hand surgeri
+allergi immunolog
+urgent care
+intern medicin
+hematolog oncolog
+cardiolog
+oral maxillofaci surgeri
+general surgeri
+dentistri
+pediatr
+oral maxillofaci surgeri
+dentistri
+pain manag
+psychiatri
+cardiolog
+oral maxillofaci surgeri
+podiatri
+general surgeri
+medic oncolog
+general surgeri
+radiolog
+famili medicin
+cosmet dentistri
+hematolog oncolog
+allergi immunolog
+general surgeri
+orthoped surgeri
+colon rectal surgeri
+orthodont
+patholog
+surgic oncolog
+pediatr
+geriatr
+pain manag
+famili medicin
+obstetr gynecolog
+geriatr
+pediatr neurolog
+pain manag
+famili medicin
+famili medicin
+endocrinolog
+dermatolog
+intern medicin
+hand surgeri
+intern medicin
+obstetr gynecolog
+hand surgeri
+plastic surgeri
+geriatr
+dentistri
+sport medicin
+pain manag
+general practic
+ophthalmolog
+intern medicin
+general practic
+breast surgeri
+podiatri
+famili medicin
+geriatr
+hematolog oncolog
+ophthalmolog
+neurolog
+surgic oncolog
+neurolog
+dentistri
+psychiatri
+geriatr psychiatri
+general surgeri
+general surgeri
+dermatolog
+orthoped surgeri
+pain manag
+famili medicin
+psychiatri
+orthoped surgeri
+dentistri
+plastic surgeri
+phlebolog
+nan
+pediatr
+hand surgeri
+pain manag
+dentistri
+famili medicin
+dentistri
+ophthalmolog
+endocrinolog
+physic medicin rehabilit
+hand surgeri
+cardiolog
+pain manag
+dermatolog
+dentistri
+orthoped surgeri
+general surgeri
+psychiatri
+pain manag
+ophthalmolog
+famili medicin
+medic oncolog
+pain manag
+famili medicin
+hematolog oncolog
+radiat oncolog
+famili medicin
+obstetr gynecolog
+colon rectal surgeri
+pulmonolog
+dentistri
+neurolog
+radiolog
+cardiolog
+neurosurgeri
+orthoped spine surgeri
+cardiolog
+diagnost radiolog
+prosthodont
+pulmonolog
+general surgeri
+orthoped surgeri
+endocrinolog
+psychiatri
+geriatr psychiatri
+addict medicin
+pediatr neurolog
+pediatr
+hematolog oncolog
+pain manag
+hematolog oncolog
+famili medicin
+general surgeri
+patholog
+neurolog
+obstetr gynecolog
+famili medicin
+medic oncolog
+dermatolog
+sport medicin
+famili medicin
+pulmonari critic care
+intern medicin
+famili medicin
+plastic surgeri
+pain manag
+rheumatolog
+famili medicin
+orthodont
+radiat oncolog
+cardiolog
+radiolog
+dentistri
+anesthesiolog
+psychiatri
+patholog
+endodont
+physic medicin rehabilit
+integr medicin
+breast surgeri
+medic oncolog
+patholog
+famili medicin
+thorac surgeri
+dentistri
+intern medicin
+fertil medicin
+intern medicin
+dentistri
+endocrinolog
+infecti diseas
+intern medicin
+psychiatri
+neurolog
+famili medicin
+gastroenterolog
+dentistri
+cardiolog
+orthoped surgeri
+intern medicin
+dentistri
+psychiatri
+oral maxillofaci surgeri
+orthodont
+cardiolog
+psychiatri
+famili medicin
+medic oncolog
+intern medicin
+famili medicin
+podiatri
+patholog
+rheumatolog
+famili medicin
+podiatri
+neurolog
+obstetr gynecolog
+famili medicin
+orthoped surgeri
+orthoped surgeri
+surgic oncolog
+cardiolog
+podiatri
+orthodont
+rheumatolog
+psychiatri
+intern medicin
+podiatri
+famili medicin
+dentistri
+general practic
+famili medicin
+rheumatolog
+wound care
+gynecolog
+orthodont
+pain manag
+general practic
+intern medicin
+pain manag
+podiatri
+general surgeri
+infecti diseas
+neurolog
+ophthalmolog
+patholog
+general surgeri
+psychiatri
+dentistri
+dentistri
+intern medicin
+cardiolog
+radiat oncolog
+dentistri
+oral maxillofaci surgeri
+plastic surgeri
+urogynecolog
+famili medicin
+famili medicin
+ophthalmolog
+child psychiatri
+emerg medicin
+intervent radiolog
+general surgeri
+ent head neck surgeri
+famili medicin
+pediatr neurolog
+hematolog oncolog
+oral maxillofaci surgeri
+endodont
+pediatr hematolog oncolog
+podiatri
+intern medicin
+oral maxillofaci surgeri
+famili medicin
+ophthalmolog
+neurolog
+dermatolog
+clinic psycholog
+pediatr
+psychiatri
+dentistri
+pain manag
+famili medicin
+nan
+physic medicin rehabilit
+general surgeri
+podiatri
+intern medicin
+general surgeri
+pain manag
+intern medicin
+prevent medicin
+neurosurgeri
+dentistri
+plastic surgeri
+radiat oncolog
+famili medicin
+dermatolog
+lasik surgeri
+gastroenterolog
+orthoped surgeri
+famili medicin
+allergi immunolog
+pain manag
+ent head neck surgeri
+neurolog
+gastroenterolog
+endocrinolog
+dermatolog
+gastroenterolog
+famili medicin
+intern medicin
+wound care
+radiat oncolog
+famili medicin
+emerg medicin
+psychiatri
+pediatr pulmonolog
+pediatr urolog
+orthoped spine surgeri
+famili medicin
+pain manag
+plastic surgeri
+famili medicin
+rheumatolog
+endocrinolog
+facial plastic surgeri
+famili medicin
+dentistri
+obstetr gynecolog
+geriatr psychiatri
+general surgeri
+intern medicin
+endodont
+neurolog
+famili medicin
+famili medicin
+medic oncolog
+obstetr gynecolog
+ophthalmolog
+emerg medicin
+emerg medicin
+clinic psycholog
+cosmet dentistri
+famili medicin
+dentistri
+general surgeri
+wound care
+dentistri
+physic medicin rehabilit
+general surgeri
+radiolog
+pediatr
+pediatr pulmonolog
+intern medicin
+famili medicin
+general surgeri
+neurosurgeri
+pharmacolog
+allergi immunolog
+dermatolog
+wound care
+dentistri
+dermatolog
+orthoped surgeri
+intern medicin
+intern medicin
+patholog
+surgic oncolog
+famili medicin
+famili medicin
+famili medicin
+orthoped spine surgeri
+psychiatri
+neurolog
+dentistri
+retin surgeri
+famili medicin
+infecti diseas
+prosthodont
+obstetr gynecolog
+dentistri
+neurosurgeri
+hematolog oncolog
+patholog
+allergi immunolog
+pain manag
+podiatri
+dentistri
+dentistri
+podiatri
+famili medicin
+obstetr gynecolog
+intern medicin
+hand surgeri
+famili medicin
+lasik surgeri
+psychiatri
+obstetr gynecolog
+podiatri
+general surgeri
+nan
+general surgeri
+patholog
+dentistri
+plastic surgeri
+plastic surgeri
+patholog
+radiat oncolog
+obstetr gynecolog
+dentistri
+podiatri
+hematolog oncolog
+dentistri
+psychiatri
+patholog
+intervent radiolog
+orthoped spine surgeri
+famili medicin
+plastic surgeri
+podiatri
+rheumatolog
+intern medicin
+intern medicin pediatr
+sleep medicin
+radiolog
+podiatri
+orthodont
+intern medicin
+pediatr urolog
+dentistri
+dentistri
+intern medicin
+cardiolog
+neurolog
+famili medicin
+famili medicin
+gastroenterolog
+urolog
+pain manag
+clinic psycholog
+medic oncolog
+dentistri
+intern medicin
+ophthalmolog
+psychiatri
+holist medicin
+bariatr
+ophthalmolog
+pediatr pulmonolog
+orthoped surgeri
+pediatr
+famili medicin
+famili medicin
+dentistri
+radiat oncolog
+intern medicin
+podiatri
+hand surgeri
+pediatr
+ent head neck surgeri
+surgic oncolog
+ent head neck surgeri
+ophthalmolog
+patholog
+physic medicin rehabilit
+famili medicin
+rheumatolog
+orthoped spine surgeri
+intern medicin
+allergi immunolog
+radiat oncolog
+lasik surgeri
+pulmonari critic care
+podiatri
+dentistri
+pediatr pulmonolog
+famili medicin
+pediatr
+patholog
+emerg medicin
+clinic psycholog
+pain manag
+famili medicin
+integr medicin
+allergi immunolog
+anesthesiolog
+intern medicin
+psychiatri
+obstetr gynecolog
+sport medicin
+dentistri
+cardiolog
+famili medicin
+podiatri
+anesthesiolog
+famili medicin
+obstetr gynecolog
+dentistri
+plastic surgeri
+orthodont
+obstetr gynecolog
+ophthalmolog
+famili medicin
+intern medicin
+psychiatri
+patholog
+orthoped spine surgeri
+intern medicin
+obstetr gynecolog
+pediatr
+obstetr gynecolog
+plastic surgeri
+hematolog oncolog
+endocrinolog
+famili medicin
+neurolog
+ent head neck surgeri
+famili medicin
+intern medicin
+addict medicin
+dentistri
+famili medicin
+podiatri
+gastroenterolog
+intern medicin
+podiatri
+famili medicin
+pain manag
+famili medicin
+orthoped surgeri  hand surgeri
+oral maxillofaci surgeri
+emerg medicin
+rheumatolog
+famili medicin
+pediatr
+intern medicin
+podiatri
+intervent radiolog
+general surgeri
+rheumatolog
+famili medicin
+cardiolog
+allergi immunolog
+intern medicin
+dentistri
+podiatri
+intern medicin
+surgic oncolog
+sport medicin
+psychiatri
+neurolog
+podiatri
+pulmonari critic care
+intern medicin
+neurolog
+allergi immunolog
+dentistri
+hematolog oncolog
+nan
+dentistri
+physic medicin rehabilit
+intern medicin
+general practic
+oral maxillofaci surgeri
+dentistri
+urolog
+urgent care
+pediatr
+anesthesiolog
+famili medicin
+intervent radiolog
+intern medicin
+obstetr gynecolog
+emerg medicin
+radiolog
+nan
+dentistri
+dentistri
+podiatri
+gynecolog
+pediatr surgeri
+dermatolog
+pediatr
+pediatr
+famili medicin
+dentistri
+intern medicin
+podiatri
+obstetr gynecolog
+dentistri
+orthoped surgeri
+pediatr
+orthoped spine surgeri
+podiatri
+physic medicin rehabilit
+pediatr
+famili medicin
+emerg medicin
+podiatri
+dentistri
+dermatolog
+dentistri
+obstetr gynecolog
+neurolog
+intern medicin
+ select special 
+ent head neck surgeri
+dentistri
+general surgeri
+infecti diseas
+psychiatri
+dermatolog
+pediatr urolog
+famili medicin
+medic oncolog
+orthoped foot ankl surgeri
+oral maxillofaci surgeri
+dentistri
+lasik surgeri
+psychiatri
+radiat oncolog
+famili medicin
+orthodont
+lasik surgeri
+oral maxillofaci surgeri
+general surgeri
+pediatr
+dentistri
+ent head neck surgeri
+podiatri
+intern medicin
+cardiolog
+colon rectal surgeri
+medic oncolog
+orthodont
+pain manag
+allergi immunolog
+thorac surgeri
+patholog
+obstetr gynecolog
+general surgeri
+famili medicin
+medic oncolog
+pain manag
+pediatr
+podiatri
+general practic
+general surgeri
+orthoped reconstruct surgeri
+allergi immunolog
+orthoped surgeri
+orthoped reconstruct surgeri
+general practic
+diagnost radiolog
+radiolog
+psychiatri
+diagnost radiolog
+intern medicin
+thorac surgeri
+facial plastic surgeri
+patholog
+surgic oncolog
+pain manag
+famili medicin
+medic oncolog
+pain manag
+intern medicin
+radiat oncolog
+neurolog
+anesthesiolog
+lasik surgeri
+colon rectal surgeri
+cardiolog
+urogynecolog
+aesthet medicin
+pediatr
+oral maxillofaci surgeri
+pain manag
+pediatr
+dentistri
+podiatri
+gynecolog
+ent head neck surgeri
+radiolog
+intern medicin
+pain manag
+dentistri
+rheumatolog
+intern medicin
+general practic
+dentistri
+podiatri
+infecti diseas
+dermatolog
+intern medicin
+podiatri
+neurolog
+infecti diseas
+orthoped surgeri
+allergi immunolog
+plastic surgeri
+hand surgeri
+infecti diseas
+retin surgeri
+cardiolog
+prosthodont
+integr medicin
+psychiatri
+urolog
+intern medicin
+patholog
+prosthodont
+urolog
+integr medicin
+nuclear medicin
+addict medicin
+pulmonari critic care
+patholog
+hand surgeri
+dentistri
+diagnost radiolog
+intern medicin
+infecti diseas
+orthoped surgeri
+hematolog oncolog
+pediatr
+infecti diseas
+gastroenterolog
+dentistri
+intern medicin
+intern medicin
+ent head neck surgeri
+dentistri
+intern medicin
+psychiatri
+pain manag
+dentistri
+pediatr emerg medicin
+podiatri
+hematolog oncolog
+physic medicin rehabilit
+podiatri
+allergi immunolog
+radiat oncolog
+ent head neck surgeri
+general surgeri
+general practic
+thorac surgeri
+oral maxillofaci surgeri
+podiatri
+general practic
+intern medicin
+pediatr dentistri
+intern medicin
+famili medicin
+nuclear medicin
+psychiatri
+general surgeri
+nan
+anesthesiolog
+patholog
+psychiatri
+emerg medicin
+intern medicin
+urolog
+radiat oncolog
+vascular surgeri
+emerg medicin
+orthoped surgeri
+obstetr gynecolog
+psychiatri
+pediatr emerg medicin
+allergi immunolog
+anesthesiolog
+radiat oncolog
+pediatr
+patholog
+orthodont
+podiatri
+pediatr
+intern medicin
+medic oncolog
+pain manag
+cosmet dentistri
+oral maxillofaci surgeri
+clinic psycholog
+pediatr
+podiatri
+hematolog oncolog
+famili medicin
+intern medicin
+pain manag
+aesthet medicin
+allergi immunolog
+neurolog
+ent head neck surgeri
+diagnost radiolog
+oral maxillofaci surgeri
+prevent medicin
+wound care
+pediatr cardiolog
+surgic oncolog
+gynecolog
+famili medicin
+famili medicin
+famili medicin
+plastic surgeri
+neurolog
+dentistri
+pediatr orthoped surgeri
+gastroenterolog
+pediatr
+urolog
+intern medicin
+hand surgeri
+general surgeri
+medic oncolog
+intern medicin
+intern medicin
+colon rectal surgeri
+general practic
+dentistri
+psychiatri
+intern medicin
+medic oncolog
+orthoped surgeri
+general surgeri
+emerg medicin
+urgent care
+patholog
+famili medicin
+lasik surgeri
+general surgeri
+dermatolog
+famili medicin
+dentistri
+pain manag
+pediatr
+pediatr dentistri
+intern medicin
+general surgeri
+dentistri
+periodont
+intern medicin
+pediatr
+pain manag
+intervent radiolog
+emerg medicin
+dentistri
+pediatr
+ent head neck surgeri
+cardiolog
+diagnost radiolog
+rheumatolog
+pain manag
+dermatolog
+famili medicin
+emerg medicin
+integr medicin
+general surgeri
+gynecolog
+pediatr
+orthodont
+famili medicin
+neurolog
+physic medicin rehabilit
+pain manag
+famili medicin
+pediatr
+ent head neck surgeri
+clinic psycholog
+dentistri
+ent head neck surgeri
+pediatr
+pediatr
+radiolog
+oral maxillofaci surgeri
+cardiolog
+dentistri
+ent head neck surgeri
+patholog
+plastic surgeri
+dentistri
+pain manag
+nephrolog dialysi
+radiat oncolog
+dentistri
+general surgeri
+pain manag
+dentistri
+cosmet dentistri
+podiatri
+famili medicin
+intern medicin
+famili medicin
+intervent radiolog
+ophthalmolog
+psychiatri
+allergi immunolog
+famili medicin
+psychiatri
+dentistri
+intern medicin
+dentistri
+podiatri
+cosmet dentistri
+famili medicin
+famili medicin
+general surgeri
+intervent radiolog
+radiolog
+famili medicin
+intern medicin
+general practic
+famili medicin
+famili medicin
+general practic
+dentistri
+dentistri
+dentistri
+phlebolog
+dentistri
+oral maxillofaci surgeri
+rheumatolog
+neurolog
+neurolog
+intern medicin
+general practic
+pain manag
+antiag medicin
+psychiatri
+pain manag
+psychiatri
+famili medicin
+dentistri
+prosthodont
+pediatr pulmonolog
+pain manag
+allergi immunolog
+dentistri
+intern medicin
+medic oncolog
+fertil medicin
+pediatr
+medic oncolog
+adolesc medicin
+pediatr gastroenterolog
+obstetr gynecolog
+famili medicin
+orthoped surgeri
+oral maxillofaci surgeri
+oral maxillofaci surgeri
+urolog
+ophthalmolog
+radiat oncolog
+podiatri
+intern medicin
+famili medicin
+psychiatri
+dentistri
+obstetr gynecolog
+physic medicin rehabilit
+pain manag
+ophthalmolog
+oral maxillofaci surgeri
+emerg medicin
+psychiatri
+obstetr gynecolog
+dentistri
+famili medicin
+neurosurgeri
+obstetr gynecolog
+physic medicin rehabilit
+famili medicin
+gynecolog
+diagnost radiolog
+thorac surgeri
+dentistri
+patholog
+intern medicin
+intern medicin
+oral maxillofaci surgeri
+pediatr
+cosmet dentistri
+general practic
+famili medicin
+ophthalmolog
+dentistri
+pediatr
+general surgeri
+pain manag
+surgic oncolog
+pain manag
+dentistri
+podiatri
+intern medicin
+emerg medicin
+anesthesiolog
+general surgeri
+intervent radiolog
+intern medicin pediatr
+obstetr gynecolog
+dermatolog
+general surgeri
+intern medicin
+hand surgeri
+famili medicin
+medic oncolog
+pain manag
+patholog
+neurolog
+vascular surgeri
+plastic surgeri
+famili medicin
+pediatr
+famili medicin
+holist medicin
+intern medicin
+dentistri
+allergi immunolog
+thorac surgeri
+psychiatri
+clinic psycholog
+cardiolog
+psychiatri
+general practic
+radiolog
+rheumatolog
+obstetr gynecolog
+famili medicin
+famili medicin
+dentistri
+general surgeri
+famili medicin
+emerg medicin
+general practic
+famili medicin
+dentistri
+ophthalmolog
+plastic surgeri
+famili medicin
+famili medicin
+pediatr
+ent head neck surgeri
+dentistri
+podiatri
+podiatri
+famili medicin
+neurolog
+podiatri
+intern medicin
+neurosurgeri
+anesthesiolog
+podiatri
+neurolog
+dentistri
+pain manag
+intern medicin
+dermatolog
+diagnost radiolog
+cardiolog
+podiatri
+fertil medicin
+allergi immunolog
+psychiatri
+prevent medicin
+oral maxillofaci surgeri
+pediatr
+general surgeri
+pain manag
+prosthodont
+plastic surgeri
+intern medicin
+obstetr gynecolog
+intern medicin
+oral maxillofaci surgeri
+orthoped spine surgeri
+general practic
+pain manag
+endodont
+intern medicin
+child psychiatri
+pediatr
+medic oncolog
+ophthalmolog
+intern medicin pediatr
+rheumatolog
+podiatri
+general practic
+general practic
+pediatr
+psychiatri
+intern medicin
+infecti diseas
+cardiolog
+psychiatri
+rheumatolog
+diagnost radiolog
+general surgeri
+surgic oncolog
+hematolog oncolog
+patholog
+radiat oncolog
+radiat oncolog
+intern medicin
+pediatr
+dermatolog
+neurolog
+radiat oncolog
+podiatri
+psychiatri
+ select special 
+nuclear medicin
+ophthalmolog
+intern medicin
+pain manag
+oral maxillofaci surgeri
+infecti diseas
+orthoped surgeri
+cardiolog
+oral maxillofaci surgeri
+pediatr
+dentistri
+obstetr gynecolog
+general surgeri
+rheumatolog
+obstetr gynecolog
+intern medicin
+famili medicin
+dentistri
+orthoped surgeri
+infecti diseas
+famili medicin
+phlebolog
+pediatr nephrolog dialysi
+podiatri
+famili medicin
+general surgeri
+oral maxillofaci surgeri
+nan
+psychiatri
+dentistri
+physic medicin rehabilit
+intern medicin
+pediatr
+colon rectal surgeri
+dentistri
+psychiatri
+dentistri
+geriatr
+dentistri
+famili medicin
+vascular surgeri
+podiatri
+pain manag
+infecti diseas
+pediatr
+breast surgeri
+endocrinolog
+ophthalmolog
+intern medicin
+general surgeri
+podiatri
+podiatri
+podiatri
+plastic surgeri
+neurolog
+cardiolog
+dentistri
+dermatolog
+patholog
+dentistri
+neurosurgeri
+podiatri
+dentistri
+podiatri
+pediatr emerg medicin
+intern medicin
+pediatr neurolog
+nuclear medicin
+podiatri
+surgic oncolog
+phlebolog
+pediatr
+pain manag
+infecti diseas
+infecti diseas
+famili medicin
+psychiatri
+oral maxillofaci surgeri
+pediatr cardiolog
+orthodont
+maternalfet medicin
+plastic surgeri
+periodont
+pediatr
+podiatri
+ophthalmolog
+pain manag
+dentistri
+general practic
+intern medicin
+diagnost radiolog
+dentistri
+general surgeri
+dentistri
+podiatri
+prevent medicin
+famili medicin
+patholog
+pediatr
+dentistri
+psychiatri
+dentistri
+phlebolog
+intervent radiolog
+dentistri
+dentistri
+psychiatri
+pediatr
+obstetr gynecolog
+psychiatri
+patholog
+podiatri
+famili medicin
+dentistri
+dentistri
+psychiatri
+dentistri
+nephrolog dialysi
+radiolog
+nuclear medicin
+neurosurgeri
+pediatr
+pulmonari critic care
+psychiatri
+psychiatri
+orthoped surgeri
+obstetr gynecolog
+ent head neck surgeri
+pediatr
+dentistri
+pain manag
+surgic oncolog
+cardiolog
+cardiolog
+oral maxillofaci surgeri
+dentistri
+hand surgeri
+intern medicin
+oral maxillofaci surgeri
+ent head neck surgeri
+gynecolog
+rheumatolog
+pain manag
+intern medicin
+intern medicin
+podiatri
+famili medicin
+neurosurgeri
+podiatri
+famili medicin
+anesthesiolog
+dentistri
+pulmonari critic care
+podiatri
+radiolog
+dentistri
+oral maxillofaci surgeri
+pain manag
+intern medicin
+famili medicin
+oral maxillofaci surgeri
+rheumatolog
+intervent radiolog
+general surgeri
+famili medicin
+podiatri
+dentistri
+general surgeri
+podiatri
+emerg medicin
+orthoped surgeri
+intern medicin
+dentistri
+psychiatri
+lasik surgeri
+pediatr
+famili medicin
+psychiatri
+urolog
+intern medicin
+allergi immunolog
+patholog
+pediatr
+clinic psycholog
+facial plastic surgeri
+dermatolog
+podiatri
+intern medicin
+oral maxillofaci surgeri
+general surgeri
+psychiatri
+intern medicin
+nan
+general surgeri
+dentistri
+podiatri
+general surgeri
+famili medicin
+plastic surgeri
+urolog
+plastic surgeri
+oral maxillofaci surgeri
+radiolog
+pediatr
+dentistri
+obstetr gynecolog
+pulmonari critic care
+general practic
+general practic
+orthodont
+podiatri
+wound care
+periodont
+prevent medicin
+oral maxillofaci surgeri
+neurosurgeri
+pediatr
+cardiac electrophysiolog
+podiatri
+pediatr
+famili medicin
+famili medicin
+clinic psycholog
+patholog
+infecti diseas
+intern medicin
+pain manag
+psychiatri
+neurosurgeri
+intervent radiolog
+orthodont
+dentistri
+orthoped surgeri
+gastroenterolog
+nuclear medicin
+pediatr hematolog oncolog
+pediatr
+hematolog oncolog
+intern medicin
+infecti diseas
+cosmet dentistri
+general practic
+pediatr
+cardiolog
+diagnost radiolog
+intern medicin
+prosthodont
+famili medicin
+general practic
+ophthalmolog
+wound care
+famili medicin
+famili medicin
+allergi immunolog
+oral maxillofaci surgeri
+oral maxillofaci surgeri
+famili medicin
+ophthalmolog
+plastic surgeri
+dentistri
+general surgeri
+famili medicin
+psychiatri
+dentistri
+plastic surgeri
+prosthodont
+intern medicin
+infecti diseas
+neurolog
+obstetr gynecolog
+famili medicin
+radiat oncolog
+cosmet dentistri
+podiatri
+intern medicin
+neurolog
+sport medicin
+fertil medicin
+surgic oncolog
+pain manag
+pediatr
+pediatr
+neurolog
+diagnost radiolog
+radiat oncolog
+psychiatri
+cosmet dentistri
+famili medicin
+hematolog oncolog
+cardiolog
+podiatri
+dentistri
+psychiatri
+diagnost radiolog
+famili medicin
+prevent medicin
+oral maxillofaci surgeri
+intern medicin
+orthoped surgeri
+pulmonari critic care
+allergi immunolog
+pain manag
+famili medicin
+dentistri
+famili medicin
+urolog
+ophthalmolog
+famili medicin
+intern medicin
+patholog
+dentistri
+prevent medicin
+dentistri
+dentistri
+radiat oncolog
+dentistri
+psychiatri
+oral maxillofaci surgeri
+urolog
+podiatri
+physic medicin rehabilit
+adolesc medicin
+sport medicin
+rheumatolog
+intern medicin
+dentistri
+podiatri
+cardiolog
+psychiatri
+hospitalbas practic
+ophthalmolog
+orthoped surgeri
+dentistri
+oral maxillofaci surgeri
+pain manag
+pediatr cardiolog
+dentistri
+famili medicin
+pain manag
+ent head neck surgeri
+oral maxillofaci surgeri
+podiatri
+psychiatri
+patholog
+hematolog oncolog
+ select special 
+pediatr
+geriatr
+intern medicin
+clinic psycholog
+prevent medicin
+famili medicin
+radiat oncolog
+obstetr gynecolog
+general surgeri
+cardiolog
+obstetr gynecolog
+radiolog
+podiatri
+general practic
+intern medicin
+dentistri
+intern medicin
+dentistri
+famili medicin
+bariatr
+gastroenterolog
+neurolog
+famili medicin
+wound care
+famili medicin
+dentistri
+surgic oncolog
+pediatr
+pediatr
+dentistri
+podiatri
+pain manag
+pain manag
+gastroenterolog
+obstetr gynecolog
+podiatri
+famili medicin
+obstetr gynecolog
+neurolog
+cosmet dentistri
+intern medicin
+general practic
+pediatr
+nan
+podiatri
+pain manag
+podiatri
+intern medicin
+podiatri
+hematolog oncolog
+neurosurgeri
+famili medicin
+ent head neck surgeri
+aesthet medicin
+oral maxillofaci surgeri
+orthoped foot ankl surgeri
+cardiolog
+famili medicin
+orthoped spine surgeri
+breast surgeri
+ophthalmolog
+intern medicin
+surgic oncolog
+geriatr psychiatri
+medic oncolog
+pediatr
+surgic oncolog
+phlebolog
+dentistri
+cardiolog
+famili medicin
+famili medicin
+famili medicin
+orthoped surgeri
+dentistri
+dentistri
+famili medicin
+hepatolog
+dentistri
+dentistri
+famili medicin
+intern medicin
+orthodont
+famili medicin
+surgic oncolog
+ent head neck surgeri
+patholog
+dentistri
+oral maxillofaci surgeri
+anesthesiolog
+dentistri
+dentistri
+dentistri
+podiatri
+dentistri
+breast surgeri
+prevent medicin
+famili medicin
+physic medicin rehabilit
+famili medicin
+diagnost radiolog
+dentistri
+facial plastic surgeri
+endodont
+plastic surgeri
+hematolog oncolog
+rheumatolog
+orthoped spine surgeri
+famili medicin
+cardiolog
+dentistri
+intern medicin
+cardiolog
+cosmet dentistri
+dentistri
+dermatolog
+lasik surgeri
+podiatri
+famili medicin
+pain manag
+ophthalmolog
+orthodont
+ent head neck surgeri
+ophthalmolog
+ select special 
+dentistri
+pediatr
+intern medicin
+urolog
+famili medicin
+dentistri
+hematolog oncolog
+psychiatri
+radiat oncolog
+orthodont
+orthoped surgeri
+ent head neck surgeri
+oral maxillofaci surgeri
+aesthet medicin
+ent head neck surgeri
+neurolog
+general surgeri
+gynecolog oncolog
+podiatri
+dentistri
+anesthesiolog
+gynecolog
+pediatr hematolog oncolog
+general practic
+intern medicin
+ophthalmolog
+diagnost radiolog
+allergi immunolog
+intern medicin
+obstetr gynecolog
+psychiatri
+pain manag
+diagnost radiolog
+oral maxillofaci surgeri
+patholog
+dentistri
+intern medicin
+adolesc medicin
+diagnost radiolog
+psychiatri
+geriatr
+prosthodont
+famili medicin
+pulmonari critic care
+pediatr
+famili medicin
+pediatr
+famili medicin
+podiatri
+intern medicin
+neurosurgeri
+rheumatolog
+patholog
+intern medicin
+intern medicin
+famili medicin
+podiatri
+cardiolog
+lasik surgeri
+pain manag
+general surgeri
+intern medicin
+general surgeri
+famili medicin
+podiatri
+rheumatolog
+famili medicin
+radiolog
+nephrolog dialysi
+cardiolog
+infecti diseas
+diagnost radiolog
+general surgeri
+addict medicin
+diagnost radiolog
+famili medicin
+rheumatolog
+dentistri
+allergi immunolog
+clinic psycholog
+famili medicin
+obstetr gynecolog
+intern medicin
+neurosurgeri
+dentistri
+ent head neck surgeri
+general surgeri
+famili medicin
+diagnost radiolog
+pediatr
+radiolog
+general surgeri
+famili medicin
+gastroenterolog
+famili medicin
+famili medicin
+pediatr
+famili medicin
+gynecolog
+cardiolog
+famili medicin
+infecti diseas
+podiatri
+patholog
+pediatr
+dentistri
+dentistri
+pain manag
+orthodont
+neurolog
+general surgeri
+dentistri
+allergi immunolog
+famili medicin
+plastic surgeri
+patholog
+pediatr
+intern medicin
+podiatri
+addict medicin
+neurolog
+dentistri
+famili medicin
+psychiatri
+intern medicin
+neurolog
+famili medicin
+obstetr gynecolog
+pediatr
+general surgeri
+dentistri
+emerg medicin
+famili medicin
+ent head neck surgeri
+neurolog
+rheumatolog
+pediatr
+psychiatri
+emerg medicin
+pain manag
+surgic oncolog
+orthoped surgeri
+radiolog
+nephrolog dialysi
+intern medicin
+hematolog oncolog
+orthoped surgeri
+pain manag
+famili medicin
+radiat oncolog
+thorac surgeri
+famili medicin
+radiolog
+intern medicin
+oral maxillofaci surgeri
+plastic surgeri
+infecti diseas
+pediatr urolog
+psychiatri
+intern medicin
+urolog
+orthoped surgeri
+radiolog
+intern medicin
+intern medicin
+podiatri
+ent head neck surgeri
+pain manag
+plastic surgeri
+pain manag
+orthoped surgeri
+hematolog oncolog
+plastic surgeri
+emerg medicin
+aesthet medicin
+general surgeri
+intern medicin
+dentistri
+nuclear medicin
+orthodont
+plastic surgeri
+colon rectal surgeri
+surgic oncolog
+psychiatri
+podiatri
+pediatr
+radiat oncolog
+intern medicin
+intern medicin
+diagnost radiolog
+general surgeri
+general surgeri
+famili medicin
+allergi immunolog
+urgent care
+psychiatri
+general practic
+pediatr
+general surgeri
+podiatri
+ent head neck surgeri
+famili medicin
+psychiatri
+dentistri
+radiat oncolog
+intern medicin pediatr
+geriatr psychiatri
+intern medicin
+ophthalmolog
+hematolog oncolog
+neurolog
+general practic
+plastic surgeri
+allergi immunolog
+urolog
+pediatr
+pain manag
+oral maxillofaci surgeri
+clinic psycholog
+famili medicin
+pulmonari critic care
+neurolog
+patholog
+physic medicin rehabilit
+pain manag
+anesthesiolog
+intern medicin
+urgent care
+sport medicin
+podiatri
+geriatr
+psychiatri
+neurolog
+podiatri
+nan
+famili medicin
+intern medicin
+surgic oncolog
+intern medicin
+famili medicin
+cardiolog
+vascular surgeri
+ophthalmolog
+famili medicin
+ophthalmolog
+intern medicin
+dentistri
+rheumatolog
+urolog
+pediatr
+obstetr gynecolog
+famili medicin
+famili medicin
+breast surgeri
+dentistri
+obstetr gynecolog
+orthoped spine surgeri
+anesthesiolog
+ophthalmolog
+neurolog
+famili medicin
+nan
+nan
+ophthalmolog
+pain manag
+lasik surgeri
+endocrinolog
+famili medicin
+dentistri
+famili medicin
+dentistri
+podiatri
+famili medicin
+oral maxillofaci surgeri
+pediatr
+orthodont
+lasik surgeri
+famili medicin
+plastic surgeri
+general surgeri
+ophthalmolog
+radiolog
+famili medicin
+plastic surgeri
+famili medicin
+general surgeri
+allergi immunolog
+pediatr
+orthoped surgeri
+famili medicin
+pediatr

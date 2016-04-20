@@ -1,18 +1,18 @@
-0, perfor spray septum nasal,5
-1, marijuana,2
+0, nasal perfor septal spray septum,6
+1, infertil marijuana,3
 2, adenoid caviti snore allergi,5
 3, tri fertil conceiv hormon pregnanc,6
 4, sex virus simplex herp sexual,6
 5, tooth,2
 6,,1
-7, heart diseas pressur,4
+7, heart stress diseas pressur,5
 8, hiv sex,3
 9, hair masturb hormon,4
 10, breast,2
 11,,1
 12, tmj,2
-13, antipsychot inhibitor cholinesteras,4
-14, tmj pain,3
+13, inhibitor antipsychot cholinesteras,4
+14, chronic tmj pain,4
 15,,0
 16,,1
 17, tmj,2
@@ -21,26 +21,26 @@
 20,,1
 21,,1
 22, tmj,2
-23, cartilag surgeri nasal nose septum,6
+23, cartilag surgeri nasal deviat nose septum,7
 24, sleep apnea seroquel,4
 25,foot surgeri,2
-26, snore apnea 26,snore sleep,5
+26, snore sleep apnea,4
 27,pain,1
-28, vascular dementia alzheim,4
+28, dementia alzheim vascular,4
 29,,0
-30, lip antibiot eye swollen,5
+30, abscess eye antibiot lip swollen,6
 31, abscess,2
-32, botox,2
+32, tmj botox,3
 33, sore,2
-34,,1
+34, tmj,2
 35,,0
 36,,1
 37,,0
-38, nerv travel sex sore virus cold herp,8
+38, herp travel sex sore virus cold nerv,8
 39, estrogen urgenc caffein age hormon diet bladder incontin,9
 40, celexa,2
 41, fibromyalgia,2
-42,dementia parkinson,2
+42,depress dementia parkinson,3
 43, ear blood tinnitus,4
 44,,1
 45,std  test chlamydia,4
@@ -48,37 +48,37 @@
 47,,1
 48,,0
 49,,0
-50, headach wisdom lump infect,5
+50, headach infect lump wisdom ear,6
 51,lupus,1
 52, infect fungal,3
 53,,0
 54, tonsil pus,3
 55,,1
-56,,0
+56,circul,1
 57,,1
 58, surgeri,2
-59,,1
+59, podiatri,2
 60,,1
 61, vagin,2
 62,bump ,2
-63, hernia attack,3
-64,,1
+63, heart attack hernia,4
+64, fever,2
 65, tmj pain,3
 66, nasal spray apnea sleep,5
-67, needl,2
+67, biopsi needl,3
 68, abscess pain antibiot tooth oral,6
 69,,1
 70,surgeri,1
-71, pain neck sore gland swollen,6
+71, pain neck sore gland swollen cold,7
 72,,0
 73, ct,2
 74, urgent care hand,4
 75, cocain,2
 76, tmj,2
-77,canal ,2
+77,canal  root,3
 78,,0
 79, sore virus asymptomat cold transmiss,6
-80,teeth,1
+80,wisdom teeth,2
 81, cancer,2
 82, seborrh digit,3
 83,,1
@@ -93,27 +93,27 @@
 92, gland nasal,3
 93,,0
 94, pressur anxieti blood,4
-95, attack anxieti,3
+95, attack anxieti panic,4
 96, infect yeast,3
 97, pregnanc,2
-98,,0
+98,tmj,1
 99,,0
-100, urin stress leak 100,stress incontin,6
+100, urin stress incontin leak,5
 101,,0
-102,,1
+102, numb,2
 103, cbc,2
 104, lyrica gabapentin,3
 105,,1
 106,,1
-107, headach,2
+107, headach migrain,3
 108,,1
-109,,1
-110, ultrasound mammogram,3
-111,,0
+109, mri,2
+110, ultrasound mammogram biopsi,4
+111,antibiot,1
 112,,0
 113,,0
 114,,0
-115, urin,2
+115,urin ,2
 116,,1
 117,,0
 118,,0
@@ -129,103 +129,103 @@
 128,,1
 129, pain congest sore chest throat cough,7
 130,,0
-131, throat neck stiff,4
+131, sore throat neck stiff,5
 132,,0
 133, fissur stool anal,4
 134, neurolog twitch,3
 135, bodi dizzi ach,4
 136, benadryl,2
 137, cold numb,3
-138, pregnanc cancer basal cell anesthesia,6
+138, basal cancer cell pregnanc anesthesia,6
 139, pap surgeri biopsi smear,5
 140, mammogram breast cancer,4
-141, immun alcohol cancer circul smoke health,7
+141, immun alcohol cancer health smoke circul,7
 142,,1
 143, digit ultrasound breast surgeon mammogram,6
-144,,1
+144, abscess,2
 145,,0
-146,,1
+146, vicodin,2
 147, cough nose,3
 148, antibiot,2
 149, ice,2
 150, headach pregnanc reglan metoclopramid,5
 151,,1
 152, infect,2
-153, biopsi melanoma,3
+153, biopsi melanoma mole,4
 154, wart hiv,3
-155, esr,2
+155, esr hepat,3
 156,,1
 157,,1
 158,,0
-159, yeast coliti antibiot probiot take,6
-160,,1
-161, pain facial,3
-162,infect 162,skin,2
+159, yeast coliti antibiot diarrhea probiot take,7
+160, wart,2
+161, sinus pain facial,4
+162,infect skin,2
 163,,1
 164,,1
 165, stomach ach sore throat ringworm,6
 166,,1
-167,,0
-168, pelvic diseas inflammatori,4
-169,,0
+167,gonorrhea,1
+168,std  diseas inflammatori pelvic,5
+169,abscess,1
 170, laser fraxel,3
 171, implant,2
 172,,1
-173, breast,2
-174, cardiac echocardiogram attack mri,5
+173, ultrasound breast,3
+174, heart attack echocardiogram mri cardiac,6
 175, menstrual pregnanc period,4
-176, surgeri cancer,3
+176, surgeri breast cancer,4
 177, gallbladd pain remov bile,5
 178, mammogram breast,3
-179, surgeri surgeon mri,4
+179, surgeri surgeon mri hand,5
 180, congest otc decongest nose inflamm sinus,7
 181, ultrasound mammogram,3
 182,,0
 183, joint surgeri mri orthoped,5
-184,urin  like blood infect,5
+184, urin like blood infect,5
 185, virus rash hand,4
-186, mammogram breast,3
-187, 187,panic attack counsel violenc,5
-188,,1
+186, ultrasound mammogram breast,4
+187, attack panic counsel violenc,5
+188, melatonin,2
 189, viral motrin infect throat pus,6
-190, replac partial knee,4
+190, replac run partial knee,5
 191, epidur nerv,3
 192, inflamm surgeri finger,4
-193, stiff hand shower warm exercis,6
-194, urin stress smoke bladder obes incontin exercis,8
-195, reaction biopsi,3
+193, stiff hand shower joint warm exercis,7
+194, urin stress smoke bladder obes incontin exercis cough,9
+195, reaction biopsi drug,4
 196, spinal,2
-197, throat pain,3
+197, sore throat pain,4
 198,,0
-199, thyroid weight travel period hormon pregnanc exercis chang miss,10
+199, thyroid weight travel hormon period pregnanc exercis chang miss,10
 200, antibiot,2
 201, lung breast cancer,4
 202,,1
-203, pregnanc tender,3
-204, stress minim surgeri incontin exercis invas,7
+203, pregnanc tender breast,4
+204, stress minim leak surgeri incontin exercis invas,8
 205,,0
-206, seizur panic attack,4
+206, headach seizur panic attack,5
 207, benadryl sting ibuprofen,4
 208, mammogram biopsi,3
-209, allegra claritin zyrtec high pressur blood,7
+209, allegra claritin zyrtec high pressur blood rhiniti,8
 210, mammogram,2
 211, insur orthodont cosmet,4
 212, therapi behavior therapist exercis anxieti,6
 213, radiat prednison,3
-214, medicin apnea snore sleep,5
-215, incontin surgeri,3
-216, jaw pain exercis 216,tmj,5
+214, medicin snore apnea sleep,5
+215, incontin surgeri urinari,4
+216, jaw tmj pain exercis,5
 217, nasal,2
 218, incontin bladder nerv,4
 219,heart,1
 220, bowel,2
 221, histamin allergi antihistamin,4
-222, teeth,2
-223, breath clear mouth throat,5
-224, 224,musculoskelet pain,3
+222, sinus teeth,3
+223, clear breath sore mouth throat,6
+224, musculoskelet pain,3
 225,,0
 226, necrosi ruptur,3
-227, copd cancer,3
+227, bronchiti cancer copd,4
 228, melanoma,2
 229,,1
 230, pain facial tooth,4
@@ -234,12 +234,12 @@
 233, clot compress stock,4
 234, clot warfarin blood leg,5
 235, mammogram breast cancer,4
-236,cancer plexus injuri neoplasm breast lymphedema hypothyroid brachial,8
+236,cancer plexus injuri neoplasm breast hypothyroid lymphedema brachial,8
 237, program exercis,3
 238, surgeri,2
 239, canal root jaw,4
-240, apnea sleep,3
-241, 241,nerv,2
+240, sleep apnea,3
+241, nerv,2
 242, imag biopsi breast,4
 243,,0
 244,,1
@@ -247,14 +247,14 @@
 246, ultrasound,2
 247, pregnanc fibroid,3
 248, diseas imag punctur lumbar lyme,6
-249, arteri,2
+249, arteri plaqu,3
 250,,1
 251,,1
-252, 252,tingl tunnel surgeri carpal nerv,6
-253, gait pain acl,4
+252, tunnel surgeri carpal nerv tingl,6
+253, foot gait pain acl,5
 254, surgeri,2
 255, abscess oral,3
-256, sinus vertigo nausea,4
+256, sinus vertigo vomit nausea,5
 257,,0
 258, vagin,2
 259, caviti,2
@@ -262,25 +262,25 @@
 261,aspirin,1
 262, alev high pressur blood ibuprofen problem kidney aspirin,9
 263, hida bile hormon scan,5
-264, pregnanc test,3
-265, allergi nasal,3
+264,urin  pregnanc test,4
+265, sinus allergi nasal,4
 266,,1
 267, imag ultrasound breast mammogram mri,6
 268, urgent care,3
-269, dizzi pain diabet chest diseas nausea,7
+269, dizzi pain diabet chest diseas fatigu nausea,8
 270, radiolog cancer,3
 271,diseas fibrosi pulmonari interstiti idiopath lung,6
-272,,1
+272, scratch,2
 273, sting,2
-274, cold,2
-275,,1
-276, lupus,2
+274, cold flu,3
+275, hernia,2
+276, high lupus,3
 277, facelift,2
 278, abscess skin,3
-279, pet breast,3
+279, pet breast oncolog,4
 280, headach sleep,3
 281, patanol eye tear steroid optometrist,6
-282, conjunct,2
+282, allerg conjunct,3
 283,prolaps mitral asymptomat valv heart,5
 284, sun graft circul damag,5
 285, infect difficil colon,4
@@ -289,30 +289,30 @@
 288, chemotherapi therapi breast cancer,5
 289, brain mri,3
 290, chemotherapi,2
-291, dentistri,2
-292, transplant lung fibrosi bacteria,5
+291, imag dentistri,3
+292, fibrosi lung cystic bacteria transplant,6
 293,,1
-294, mammogram breast,3
+294, mammogram breast cancer,4
 295, cancer surgeri radiat breast reconstruct,6
-296, pacifi facial,3
+296, pacifi respiratori facial,4
 297, pain tingl,3
-298, 298,knee,2
+298, knee,2
 299,,1
 300, antibiot,2
-301, 301,crack bite tooth,4
+301, bite crack tooth,4
 302, tmj muscl diet spasm,5
 303, orthot weight lose,4
 304, g antibodi virus immunoglobulin simplex herp,7
 305, gout ingrown bunion,4
 306, cancer radiat,3
-307, headach slur tumor brain speech nausea,7
+307, headach dizzi slur tumor brain speech nausea,8
 308,,1
 309,,0
 310, ectop pregnanc,3
 311, infect ear,3
 312,,0
 313,repair,1
-314, surgeri,2
+314, hydrocel surgeri,3
 315, colon bleed cancer,4
 316,,0
 317, spine stenosi decompress spinal scar,6
@@ -321,53 +321,53 @@
 320, pharyng throat,3
 321,,0
 322, contracept pregnanc sex,4
-323, ear pain,3
+323, ear pain earach,4
 324, ultrasound surgeon mammogram breast,5
 325,,0
 326,,0
-327,,0
+327,tmj,1
 328,node sentinel lymph,3
-329, lumpectomi radiat,3
+329, lumpectomi breast radiat,4
 330, congest nasal acut sinus malais,6
 331, lupus ra,3
 332, headach pain neck swell hand joint arthriti nerv,9
 333, exposur hydrocortison sun psoriasi skin,6
-334,,1
-335, cancer skin,3
+334, tmj,2
+335, mole cancer skin,4
 336, injuri damag mri nerv,5
-337, sleep tonsil apnea,4
+337, sleep tonsil snore apnea,5
 338, test ovul,3
 339, chronic immun antibodi,4
-340,,1
+340, mole,2
 341, lesion pigment skin scar biopsi,6
-342,clot  surgeri knee,4
+342,clot  surgeri blood knee,5
 343, heart chest pain,4
-344, cyst surgeri raynaud phenomenon,5
-345,,0
+344, phenomenon surgeri raynaud cyst ganglion,6
+345,tmj,1
 346, head scan tumor brain ct,6
 347,,0
 348, behavior skull,3
 349, amoxicillin fever bacteria,4
-350,,1
+350, mole,2
 351,,1
 352, sex,2
 353, biopsi lump cancer,4
-354, headach head injuri concuss,5
+354, headach head dizzi injuri concuss,6
 355, migrain fiber,3
-356, headach arter tempor migrain pressur blood tmj tumor,9
-357, zoloft aspirin ibuprofen,4
+356, high arter tempor migrain pressur blood tmj tumor headach,10
+357, headach zoloft aspirin ibuprofen,5
 358,,1
 359,,1
-360, std syphili genit infect wart pimpl,7
+360, std syphili genit infect wart pimpl herp,8
 361, pain abdomin surgeri gas pass recent bowel movement,9
 362, neuroma steroid sutur scar biopsi,6
-363, nsaid socket,3
-364, pain herniat lyme knee synovium,6
+363,dri  nsaid socket,4
+364, pain herniat lyme arthriti knee synovium,7
 365, mole,2
 366, foot athlet tinea,4
 367, headach inflamm migrain,4
 368, pain muscl joint inflamm spasm,6
-369, skin,2
+369, acn skin,3
 370, oral ent,3
 371, abscess,2
 372, infect back,3
@@ -376,32 +376,32 @@
 375, supplement vitamin,3
 376,,1
 377,,0
-378, infect,2
+378, infect urinari,3
 379,bowel,1
 380,,1
 381, hammerto surgeri correct,4
 382, anxieti,2
 383, throat strep,3
-384,,0
+384,mammogram,1
 385,urin  stone like urinari blood urolog kidney,8
-386,,1
-387, brain mri 387,headach,4
+386, cough,2
+387, headach mri brain,4
 388, imag mammogram breast cancer,5
 389, surgeri medic pain,4
 390,,0
 391, cramp biliari pain colic,5
 392,,1
-393, 393,tmj,2
+393, tmj,2
 394,,1
 395, tmj,2
 396,,0
 397,,0
 398,oral cancer hiv,3
 399, spine,2
-400, diseas pressur blood,4
+400, heart diseas pressur blood,5
 401,,1
-402, socket tooth,3
-403, sinus,2
+402, dri socket tooth,4
+403, dental sinus,3
 404, allerg claritin allegra zyrtec allergi,6
 405,,0
 406, stone kidney,3
@@ -410,44 +410,44 @@
 409,,1
 410,,1
 411,,0
-412,,1
-413, ct aneurysm scan,4
+412, tmj,2
+413, brain ct aneurysm scan,5
 414, sore,2
-415,,1
-416,,1
+415, wart,2
+416, ringworm,2
 417,,1
 418,pregnanc,1
-419, menstrual period pregnanc cycl menopaus test,7
-420, disc pain,3
+419,menstrual  period pregnanc cycl menopaus test,7
+420, disc pain leg,4
 421,,0
 422,,1
 423, advil alev hypertens narcot,5
 424,,0
 425, allerg reaction heartburn diarrhea antibiot,6
 426, voic,2
-427,,1
-428, pain strain fatigu cough malais,6
+427, tooth,2
+428, pain sprain strain fatigu cough malais,7
 429, ativan,2
 430, anxieti,2
 431, med insomnia sleep,4
 432, pregnanc,2
 433, pain wisdom teeth tooth oral,6
-434, cough copd sputum,4
-435, ear pressur blood,4
+434, cough asthma copd sputum,5
+435, high ear pressur blood,5
 436, infect yeast,3
 437, tooth,2
 438,,1
 439, antigen b antibodi hepat,5
 440,,0
-441, surgeri oral,3
-442, heart infect attack failur kidney,6
+441, dental oral surgeri,4
+442, heart infect skin attack failur kidney,7
 443,,0
-444, viral jaw antibiot 444,bacteri infect,6
-445, depress restless leg 445,insomnia syndrom,6
+444, viral jaw antibiot infect bacteri,6
+445, depress restless leg insomnia syndrom,6
 446, pain muscl contract massag spasm,6
 447, pigment,2
 448, doxycyclin medic pain,4
-449, swell albumin,3
+449, swell albumin leg,4
 450, allerg reaction psoriasi eczema dermat,6
 451, allerg circul cellul reaction,5
 452, headach,2
@@ -457,44 +457,44 @@
 456, incis antibiot biopsi valv,5
 457, vagin birth,3
 458, hdl ldl,3
-459, repair surgeri,3
+459, repair surgeri hernia,4
 460, lyrica pain,3
 461, therapi surgeri exercis ibuprofen physic,6
-462, urin infect antibiot cultur tract,6
+462, urin infect antibiot cultur urinari tract,7
 463, incis callus spur bone,5
-464, cancer,2
+464, scar breast cancer,4
 465, allerg allergi reaction,4
 466, melanoma suspici mole,4
-467,,0
+467,imag,1
 468, pregnanc,2
 469, male breast cancer,4
-470, cancer diseas estrogen evista breast,6
+470, heart diseas estrogen cancer evista breast,7
 471, ent orthoped,3
-472,,1
-473,,1
+472, mastectomi,2
+473, plastic,2
 474,,1
 475,,1
 476, foot skin athlet eczema,5
 477,,1
 478,antibiot rash,2
-479, menstrual pregnanc miss period,5
-480, deodor callus,3
+479, menstrual period mens pregnanc miss,6
+480, deodor corn callus,4
 481, loss hair supplement vitamin,5
 482, premenstru bleed,3
-483, tumor lump cancer breast,5
+483, cancer lump tumor benign breast,6
 484, tunnel carpal releas,4
-485, seizur plavix anxieti tremor wellbutrin,6
+485, seizur plavix insomnia anxieti tremor wellbutrin,7
 486, coliti bleed hemorrhoid,4
-487, surgeri exercis,3
+487, joint surgeri exercis,4
 488, canal root,3
 489, melanoma cancer genet skin chang,6
-490, niacin flash supplement,4
+490, niacin hot flash supplement,5
 491, endoscopi egd,3
 492,,1
-493, pediatr sleep,3
+493, mrsa sleep pediatr,4
 494, lice children,3
 495,,0
-496, clonidin hyperact sleep melatonin children,6
+496, clonidin hyperact sleep adhd melatonin children,7
 497, surgeri skin lesion plastic,5
 498,,1
 499, studi sleep oxygen,4
@@ -504,7 +504,7 @@
 503, stress kegel incontin urinari exercis gynecologist,7
 504, arteri,2
 505, cancer leg deep blood venous pill,7
-506,tunnel 506,carpal,2
+506,tunnel carpal,2
 507, headach migrain brain mri tumor,6
 508, laser peel acn chemic scar resurfac,7
 509, surgeon general hemorrhoid,4
@@ -512,11 +512,11 @@
 511, anxieti biopsi,3
 512, arteri venous vascular,4
 513, thyroid cancer arteri breast biopsi nodul,7
-514, incis implant breast,4
+514, incis pregnanc breast implant,5
 515,test,1
-516,sleep apnea,2
+516,apnea sleep,2
 517, pain memori naproxen ibuprofen orthoped,6
-518, cartilag,2
+518, cartilag disloc,3
 519, headach pain scan high chest pressur blood smoke ct,10
 520, wisdom teeth,3
 521, headach stress neuriti malocclus tmj sinus,7
@@ -527,25 +527,25 @@
 526, surgeri scar,3
 527, thermag co2 laser collagen,5
 528, headach imag mri migrain,5
-529,,0
-530, abscess drainag breast surgic,5
-531, abscess antibiot blood cultur,5
+529,mole skin,2
+530, abscess fever breast surgic drainag,6
+531, abscess antibiot breast cultur blood,6
 532,muscl nerv,2
 533, exposur radiat,3
 534, hormon,2
 535, hysterectomi complet,3
 536, humira methotrex spondyl prednison ankylos joint plaquenil remicad,9
 537, surgeri,2
-538,foot knee surgeri 538,swollen,4
-539, quit pain cancer joint chest lung smoke inflamm ct,10
+538,foot knee surgeri swollen,4
+539, quit pain cancer joint chest arthriti lung smoke inflamm ct,11
 540, headach scan migrain spur septoplasti bone ct,8
-541, weight,2
+541, appetit weight,3
 542, antihistamin ramelteon hangov sleep melatonin sleepi,7
 543, pregnanc plaqu rash,4
 544, abscess dental tooth,4
-545, cell electrophoresi plasma protein,5
-546, insur rash urgent steroid skin care,7
-547, snore weight afrin sleep apnea,6
+545, electrophoresi cell inflamm protein plasma,6
+546, insur skin rash urgent steroid eczema care,8
+547, snore weight overweight afrin sleep apnea,7
 548, leg weak herniat nerv fatigu,6
 549, mammogram,2
 550, hydrat,2
@@ -558,43 +558,43 @@
 557, canal root bacteria,4
 558, epidur inject nerv,4
 559, colorect cancer,3
-560, nodul cancer skin,4
+560, mole nodul cancer skin,5
 561, feel anxieti,3
-562, pain,2
+562, pain neck,3
 563,,0
 564, scan pet nodul biopsi ct,6
-565, teen estrogen gynecomastia cannabi supplement,6
+565, teen estrogen gynecomastia cannabi obes supplement,7
 566, chest pain cancer,4
 567, fusion pain,3
 568, ct,2
 569, mammogram biopsi cancer sonogram,5
 570, pressur blood,3
 571, pain back mri,4
-572,canal  crown,3
+572,canal  crown root,4
 573,mono brace,2
-574,,0
-575, sclerosi mri 575,multipl,4
+574,antibiot,1
+575, sclerosi multipl mri,4
 576, mammogram breast,3
-577,,0
+577,tmj,1
 578, ultrasound mammogram,3
 579, biopsi cancer,3
 580, chew alcohol tobacco hpv mouth,6
-581, overbit surgeri jaw,4
+581, overbit surgeri tmj jaw,5
 582, tooth teeth wisdom local anesthesia,6
 583, depress,2
 584,,1
 585,,1
-586, colonoscopi colon hemorrhoid,4
+586, hemorrhoid colon colonoscopi,4
 587,,1
 588,,1
-589,589,wisdom teeth,2
+589,wisdom teeth,2
 590, burn,2
 591,,0
 592,,0
 593,,1
 594, dental virus bacteria,4
 595, broken swell ankl,4
-596, tooth,2
+596, pain tooth,3
 597, zoloft,2
 598, abscess,2
 599,,1
@@ -608,18 +608,18 @@
 607, infect yeast,3
 608, mri,2
 609, lymphoma ent,3
-610,610,antidepress,1
+610,antidepress,1
 611,,1
 612, lisinopril,2
-613,,1
+613, zoloft,2
 614, pain chest pressur blood hypertens,6
 615, treat,2
 616, depress teen,3
 617,,0
 618, imag stroke numb,4
 619,,1
-620, 620,cough,2
-621, asthma mood cancer swing,5
+620, cough,2
+621, bronchiti asthma mood cancer swing,6
 622,,1
 623,,1
 624,,0
@@ -632,61 +632,61 @@
 631,,0
 632,,0
 633, augmentin,2
-634, 634,asthma,2
-635,,1
+634, asthma,2
+635, chest,2
 636, smoke weight copd wheez breath exercis cough,8
 637,,0
 638,control  birth,3
 639, urin blood,3
 640,,0
 641,gum,1
-642, 642,neuropathi,2
+642, neuropathi,2
 643, difficulti tooth teeth swallow wisdom,6
 644, herp,2
 645, osteophyt endoscopi,3
 646,,1
 647,,1
-648, thyroid biopsi scan,4
+648,thyroid  biopsi scan,4
 649,,0
-650, 650,migrain migrain,3
+650,migrain ,2
 651, pain,2
 652,,1
 653, vaccin rash,3
 654, bilirubin,2
 655, sensit,2
-656, injuri,2
-657,,0
-658, eye retent drowsi dri urinari mouth sleep allergi sleepi,10
-659, asthma copd foreign bodi bronchospasm wheez inflamm,8
-660,,1
+656, foot injuri,3
+657,concuss,1
+658, eye constip retent drowsi dri urinari mouth sleep allergi sleepi,11
+659, bronchiti asthma copd foreign bodi bronchospasm wheez inflamm,9
+660, numb,2
 661, klonopin,2
-662,,1
-663, chest,2
-664, period,2
+662, sinus,2
+663,xray  chest,3
+664,pregnanc  period,3
 665,,1
 666, loss hair memori,4
 667,,1
 668,,1
 669,,1
-670, std 670,herp,3
-671, colostomi polyp cancer inflamm,5
+670, std herp,3
+671, cancer polyp colostomi inflamm diverticul,6
 672,,0
 673,,0
-674,,0
+674,cast,1
 675,,1
 676, quit,2
 677,,0
 678, cancer,2
-679, high fever 679,sore honey immun throat protein,8
+679, high fever honey sore immun throat protein,8
 680, sore aphthous canker,4
 681, feel faint,3
-682,,0
+682,cancer,1
 683,,1
 684, clindamycin extract,3
 685,,0
 686,,0
 687, pregnanc sex,3
-688, nap,2
+688,pregnanc  nap,3
 689,,0
 690, pregnanc,2
 691,,1
@@ -695,16 +695,16 @@
 694, degener macular,3
 695, period,2
 696,,0
-697,697,numb,1
-698, headach fever pain hip,5
-699, pregnanc pressur blood,4
+697,numb,1
+698, headach fever pain hip insomnia,6
+699, pregnanc pressur blood sugar,5
 700, food intoler,3
-701, acid folic,3
+701, acid vitamin folic,4
 702,infect intercours sexual yeast,4
-703,foot mouth,2
+703,foot mouth hand,3
 704, thyroid diseas t3 autoimmun,5
 705, throat,2
-706, infect transmit sexual,4
+706,std  transmit sexual infect,5
 707,,1
 708,,0
 709,,1
@@ -712,105 +712,105 @@
 711,,1
 712, warfarin,2
 713, cancer,2
-714, eye,2
+714, cough eye,3
 715, ultrasound mammogram breast,4
-716,,0
+716,breastfeed,1
 717,,0
 718, cyst ovul,3
 719,,1
 720,,0
-721, multipl brain mri sclerosi 721,headach,6
-722, node burn cancer lymph,5
+721, headach multipl brain mri sclerosi,6
+722, node cancer burn lymph swollen,6
 723, chest pain,3
 724, ultrasound mammogram,3
-725, antibiot mouthwash,3
-726,,0
+725, inflamm antibiot mouthwash,4
+726,pregnanc,1
 727,,1
 728,,1
 729,,1
-730, cough,2
-731,,1
+730, bronchiti cough,3
+731, asthma,2
 732, pregnanc,2
 733,,0
 734,,1
 735, tmj pain,3
 736, pain sore nose throat cough,6
-737,,1
+737, cough,2
 738, wheez,2
 739,,0
 740,,1
-741,canal,1
+741,canal root,2
 742, node enlarg lymph,4
 743, surgeri pain,3
 744,,1
 745,,0
-746, infect,2
+746,std  infect,3
 747,,0
 748, depress heartburn,3
 749, problem ct bladder scan,5
 750,,1
-751, difficulti antibiot swallow,4
-752, cancer progesteron ovari period uterin,6
-753,,1
+751, difficulti swallow antibiot,4
+752, cancer progesteron ovari period uterin polycyst,7
+753, psychotherapi,2
 754, throat swell,3
 755, throat strep,3
 756, pain back nausea,4
 757,,1
-758, marijuana,2
-759, concuss,2
-760,760,caviti,1
+758, marijuana smoke,3
+759, neck concuss,3
+760,caviti,1
 761, cancer bite lip precancer oral,6
 762, flu allergi shot egg,5
-763,763,yellow  eye bilirubin yellow newborn jaundic skin,8
+763, eye bilirubin yellow newborn jaundic skin,7
 764,,0
 765, silver fill,3
-766, depress anxieti wellbutrin bupropion,5
-767, disturb over sleep appetit anorexia agit,7
+766, depress feel anxieti wellbutrin bupropion,6
+767, disturb over insomnia sleep appetit anorexia agit,8
 768, reconstruct,2
-769,pain herniat,2
+769,pain herniat leg,3
 770, fda antipsychot disord bipolar lamict depakot lithium,8
 771, brain mri,3
-772, abscess infect,3
-773, pain advil tooth motrin fill,6
+772, abscess neck infect,4
+773, pain motrin tooth advil fill,6
 774, orthot ankl,3
-775, surgeri,2
+775, surgeri hospit,3
 776, cannabi marijuana,3
-777,,0
+777,surgeri,1
 778, larg breast fibroadenoma,4
 779, sugar emphysema zoloft panic nicotin,6
-780, therapi estrogen replac hormon breast puberti,7
+780, therapi estrogen replac hormon breast puberti fibroadenoma,8
 781,,1
-782, bulg neuropathi,3
-783, pain stenosi back nerv spinal low disk,8
+782, bulg diabet neuropathi,4
+783, pain stenosi back herniat nerv spinal low disk,9
 784, ejacul prematur sperm,4
-785, thyroid cancer fine aspir nodul biopsi needl,8
+785,thyroid  cancer fine aspir nodul biopsi needl,8
 786,,1
-787, hemorrhoid polyp stool colon blood inflamm,7
+787, diverticulosi hemorrhoid polyp stool colon blood inflamm,8
 788, nerv,2
 789,,0
-790, tooth,2
-791,,0
+790, brace tooth,3
+791,pain,1
 792, inflamm epidur pain,4
-793, sinus,2
-794, orthot stress 794,stress fractur,5
+793, sinus tooth,3
+794, orthot stress fractur,4
 795, rheumatoid antibodi joint arthriti inflamm osteoarthr synovium,8
 796,,1
-797, nerv,2
-798, therapi antidepress,3
+797, scar neuroma nerv,4
+798, therapi antidepress electroconvuls,4
 799, surgeri,2
-800, gout swell arthriti,4
-801, degener vitamin diet smoke healthi,6
+800, gout swell arthriti joint,5
+801, degener macular vitamin diet smoke healthi,7
 802, cannabi dive scuba,4
 803,anxieti disord lexapro,3
-804, epidur pain prednison therapi physic,6
+804, epidur pain prednison steroid therapi physic,7
 805,nerv,1
-806, pain gland infect tooth sore cold,7
-807, anus surgeri,3
+806, pain sore infect tooth gland cold bacteri,8
+807, anus surgeri imperfor,4
 808, pleurodesi lung collaps,4
-809, enlarg sleep tongu,4
+809, enlarg sleep tongu teeth,5
 810, pain exam cancer hormon breast,6
 811, sprain,2
-812, lock surgeri,3
+812, lock surgeri tmj,4
 813,thyroid  biopsi nodul cancer,5
 814, dermat vascul diabet,4
 815, xray chest mri cancer,5
@@ -821,25 +821,25 @@
 820, lung collaps,3
 821, feed bond formula babi,5
 822, brace ankl,3
-823, travel,2
+823, travel bronchiti,3
 824, jaundic,2
-825, cancer,2
+825, mammogram cancer,3
 826, antibiot pimpl,3
 827, stress fasciiti plantar fractur heel,6
-828, teeth oral anesthesia wisdom,5
+828, wisdom teeth general oral anesthesia,6
 829, medic,2
-830, cartilag brace tear,4
+830, cartilag disloc brace tear,5
 831, knee,2
 832,,0
-833, clot diabet blood,4
-834, pressur blood,3
+833, clot high diabet blood,5
+834, high pressur blood,4
 835, scar homeopathi vitamin,4
 836,,0
 837, eczema,2
 838, damag numb nerv,4
 839, surgeri tooth,3
-840, citalopram celexa lexapro,4
-841, mammogram cancer,3
+840,serotonin  celexa lexapro citalopram,5
+841, mammogram breast cancer,4
 842, cancer chemotherapi radiat radiosurgeri lung,6
 843, canal pain crown nerv root,6
 844, surgeri lung cancer radiat,5
@@ -861,111 +861,111 @@
 860,,0
 861,,1
 862, psychotherapi,2
-863, adhd sleep mood bereav,5
+863, depress mood bereav sleep adhd,6
 864, infect sinus eye,4
 865,,0
-866,,1
-867, antibiot socket,3
+866, steroid,2
+867, dri antibiot socket,4
 868, tendon,2
 869, equina syndrom cauda nerv,5
 870, nerv,2
 871,,1
-872, extract brace,3
+872, brace extract oral,4
 873,,0
 874, heart attack problem,4
 875, ent,2
-876, topic antibiot,3
+876, topic antibiot wash,4
 877, calm,2
-878, masturb hormon,3
+878, masturb hormon acn,4
 879,,1
-880,teeth,1
-881, fibromyalgia,2
+880,wisdom teeth,2
+881, fibromyalgia neuropathi,3
 882, canal antibiot clindamycin root,5
-883, orthodont,2
+883, tmj orthodont,3
 884,,1
-885, vein varicos vascular,4
+885, arteri varicos vascular venous vein,6
 886,mening,1
 887,,0
-888, amalgam transplant graft,4
+888, tattoo transplant graft amalgam,5
 889, oral,2
-890, pain neurontin nerv neuropathi damag peripher,7
+890, pain neurontin nerv neuropathi peripher damag,7
 891, breast cancer,3
 892, guard,2
 893, canal endodont root tooth,5
 894, serotonin zoloft tramadol syndrom,5
 895, pain facial,3
-896, infect scar staph red,5
-897, loss vertigo infect hear test,6
-898, urgent fever care,4
-899, imag mri,3
+896, infect staph scar red,5
+897, loss vertigo infect hear test ear,7
+898, urgent fever cough care,5
+899, surgeri imag mri,4
 900,,0
-901, sciatica prednison,3
-902, surgeri,2
-903, gland salivari calcium,4
+901, sciatica bronchiti prednison,4
+902, surgeri oral,3
+903, gland saliva salivari calcium,5
 904, clot socket dri blood teeth oral,7
 905, metoprolol valium,3
-906, asthma,2
-907, diseas vascul vascular neuropathi,5
+906, asthma eczema,3
+907, diseas neuropathi vascular vascul peripher,6
 908, spray respiratori nasal,4
-909, cramp shin leg potassium splint strain b12 magnesium numb,10
+909, cramp shin leg potassium splint muscl strain b12 magnesium numb,11
 910, motrin pain antiinflammatori,4
 911,node  swollen lymph,4
 912, heart beta rate blocker,5
-913, ent pain,3
+913, ent sinus pain,4
 914, serotonin zoloft syndrom,4
 915, bladder prednison,3
-916,,1
-917,spinal diseas neuropathi,3
-918, teeth,2
+916, fever,2
+917,spinal peripher diseas neuropathi,4
+918,sensit  teeth,3
 919, marijuana smoke,3
 920, infect ear neck,4
-921, heart metabol swell circul blood problem surgeri,8
+921, heart metabol swell circul blood foot problem surgeri,9
 922, thought,2
-923, surgeri,2
-924,canal  antibiot,3
-925, retin detach retina eye,5
+923, surgeri tmj,3
+924,canal  antibiot root,4
+925, retin eye surgeri retina detach,6
 926, cancer sugar,3
-927, thyroid cancer surgeri ultrasound nodul guid biopsi,8
+927,thyroid  cancer surgeri ultrasound nodul guid biopsi,8
 928, hormon,2
-929, semen fertil sex,4
+929, semen ovul fertil sex,5
 930, cymbalta capsaicin gabapentin,4
-931, serotonin pressur blood rash,5
+931, high rash serotonin pressur blood,6
 932, dehydr fever ibuprofen,4
-933, seizur cancer brain massag nausea,6
-934,,1
+933, headach seizur cancer brain massag nausea,7
+934, inflamm,2
 935, allergi,2
 936, throat pain,3
 937,pain,1
 938,,1
 939,wisdom,1
 940, coq10 cancer,3
-941, emphysema copd,3
+941, emphysema asthma copd,4
 942, ultrasound mammogram breast cancer,5
-943, depress defici vitamin,4
-944, immun,2
+943, depress fatigu vitamin defici,5
+944, immun cancer,3
 945, eeg epilepsi,3
 946, flu,2
 947, ankl trauma asthma pain,5
 948,,0
-949,,1
+949, shingl,2
 950,,1
 951,tooth,1
 952, tmj chiropractor,3
-953, canal root,3
+953, canal root tooth,4
 954,,0
 955,,0
-956,,0
+956,alcohol,1
 957, supplement vitamin,3
 958, cheek,2
 959,,1
-960, pregnanc sex,3
+960, pregnanc sexual sex,4
 961,node lymph,2
 962,,1
 963,,1
 964,oral,1
 965,hair,1
 966,period,1
-967, depress anxieti,3
+967, depress anxieti insomnia,4
 968, pain ibuprofen,3
 969,,1
 970, anxieti,2
@@ -973,13 +973,13 @@
 972,,1
 973, fever,2
 974, surgeri bone fractur,4
-975, infect 975,ear earach wisdom,5
+975, infect ear earach wisdom,5
 976, antibiot,2
-977, fluticason 977,asthma,3
+977, fluticason asthma,3
 978,,1
 979, hive,2
 980,,1
-981, alcohol caffein exercis sex sleep hygien,7
+981, alcohol caffein exercis insomnia sex sleep hygien melatonin,9
 982,,0
 983,,0
 984, skin,2
@@ -987,67 +987,67 @@
 986,,1
 987, advil inflamm stiff,4
 988,,1
-989, scar vision ulcer corneal,5
+989, scar ulcer vision corneal,5
 990, ankl mri,3
 991, bond,2
-992, travel neuroma nerv numb morton,6
+992, travel neuroma herniat nerv numb morton,7
 993,,1
 994,,1
 995, breast cancer radiat,4
-996, analges pain inflamm nsaid antiinflammatori,6
-997, pregnanc,2
+996, analges fever pain inflamm nsaid antiinflammatori,7
+997, pregnanc nausea,3
 998, sexual gonorrhea urethr,4
 999,,0
 1000,pneumonia asthma,2
 1001, mri,2
 1002, antibiot tooth teeth wisdom oral,6
 1003,knee surgeri,2
-1004, phenylalanin defici folat vitamin serotonin tryptophan dopamin acid,9
-1005, breastfeed,2
+1004, depress defici folat phenylalanin vitamin serotonin tryptophan dopamin acid,10
+1005, breastfeed children,3
 1006, nodul,2
 1007, exposur digit cancer radiat breast mammogram,7
-1008, gammopathi,2
-1009, wisdom teeth,3
+1008, inflamm gammopathi,3
+1009, inflamm wisdom teeth,4
 1010, pain surgeri burn nerv implant damag revis transmiss,9
-1011,,0
-1012,1012,asthma,1
+1011,neurolog,1
+1012,asthma,1
 1013, hear,2
 1014, steroid,2
-1015, fusion pain bone graft,5
-1016, transmiss colon cancer colonoscopi,5
+1015, pain joint fusion bone graft,6
+1016, colonoscopi colon cancer transmiss,5
 1017,,1
-1018, depress antidepress,3
-1019,clot ,2
+1018, depress addict antidepress,4
+1019,clot  blood,3
 1020,biopsi,1
-1021, diseas,2
+1021, infecti diseas,3
 1022, motrin ice advil brace antiinflammatori,6
 1023, brace orthoped sprain,4
 1024,headach klonopin,2
 1025, flexeril exercis,3
-1026, heart attack pain chest,5
+1026, heart pain chest attack anemia,6
 1027,,1
-1028, food extract diet,4
+1028, food spici extract diet,5
 1029, canal implant root,4
-1030,,1
+1030, tmj,2
 1031,,1
-1032, tingl,2
-1033, pain nerv,3
-1034, cough irrig,3
+1032, tingl numb,3
+1033, sciatica pain nerv,4
+1034, fever irrig cough,4
 1035, mammogram breast cancer,4
 1036, bite,2
 1037,,0
 1038, malocclus tmj oral teeth,5
 1039, hospic life care,4
-1040, antibiot,2
+1040, antibiot warfarin,3
 1041, stool blood hemorrhoid,4
 1042, gluten,2
 1043,,0
-1044, heart diseas risk high mri smoke hypertens diabet,9
+1044, heart diseas diabet high mri smoke hypertens risk,9
 1045, teeth,2
 1046, autoimmun diseas,3
 1047, headach migrain,3
 1048, test pulmonari lung,4
-1049, thyroid thyroglobulin scan antibodi 1049,thyroid nodul biopsi,8
+1049,thyroid  thyroglobulin scan antibodi nodul biopsi,7
 1050, arthriti psoriat,3
 1051, pressur pain blood,4
 1052, syring,2
@@ -1060,40 +1060,40 @@
 1059,studi electrophysiolog,2
 1060,pregnanc,1
 1061,,1
-1062, diseas,2
+1062, heart diseas,3
 1063, biopsi open,3
-1064, memori flonas singulair zyrtec nasal spray steroid test allergi,10
+1064, flonas singulair memori nasal spray steroid test allergi zyrtec,10
 1065,,0
-1066,,1
-1067,,1
+1066, vagin,2
+1067, wound,2
 1068, abdomin pain ulcer,4
 1069,,1
-1070,,1
+1070, depress,2
 1071, ent,2
-1072, thrush infect candidiasi gentian violet oral,7
+1072, thrush yeast infect candidiasi gentian violet oral,8
 1073, children,2
 1074,,1
 1075, hida ct scan,4
-1076,,1
+1076, ankl,2
 1077, menstrual exam swell breast mammogram self,7
 1078, neck aspir lump tumor benign fine needl,8
 1079, antibiot,2
 1080, imbal ovarian hormon pregnanc vitamin test cyst,8
 1081, obstruct apnea environment sleep asthma allergi,7
-1082, obstruct diseas apnea high pressur sleep blood respiratori studi,10
+1082, obstruct diseas apnea high pressur sleep blood respiratori studi cardiovascular,11
 1083,,1
 1084, pregnanc test miss period,5
 1085, pneumonia bronchiti fever,4
 1086, pregnanc urin,3
-1087, cancer,2
-1088,1088,ankl ,2
+1087, breast cancer,3
+1088, ankl,2
 1089, migrain aneurysm concuss,4
-1090, epididym cipro levaquin,4
+1090, epididym cipro prostat levaquin,5
 1091,vaccin immun flu,3
 1092, gland salivari,3
 1093,fungus foot athlet,3
 1094, mammogram,2
-1095, chest copd,3
+1095,xray  chest copd,4
 1096,migrain headach abort acupunctur,4
 1097, ibuprofen acetaminophen,3
 1098,,1
@@ -1105,20 +1105,20 @@
 1104, teeth wisdom,3
 1105, defici vitamin mouth iron inflamm b12 cosmet,8
 1106, fever antivir genit sex virus hsv simplex herp,9
-1107, metamucil fissur colac,4
-1108,thyroid ,2
+1107, pericolac metamucil fissur colac,5
+1108,thyroid  armour,3
 1109,pregnanc,1
-1110, drop allergi eye antihistamin,5
-1111, imag,2
+1110, drop eye allergi antihistamin,5
+1111, migrain imag,3
 1112, cancer irrit bowel colon syndrom,6
 1113, heparin thinner antiplatelet blood aspirin,6
-1114, replac knee pain crutch,5
+1114, pain replac crutch chronic knee,6
 1115,,0
-1116, breath fever asthma pneumonia,5
+1116, bronchiti asthma breath pneumonia fever,6
 1117,therapi,1
 1118, canal root,3
 1119,,1
-1120, spur,2
+1120, spur septoplasti,3
 1121, pain burn plastic breast inflamm implant mastiti,8
 1122, pain cancer antibiot lump inflammatori breast biopsi,8
 1123, pain back,3
@@ -1127,55 +1127,55 @@
 1126,,1
 1127,,0
 1128, lotrimin,2
-1129,canal,1
-1130,,0
-1131,one leg,2
+1129,canal root,2
+1130,antibiot,1
+1131,swell one leg,3
 1132,,0
 1133, smoke,2
 1134,,0
 1135, sleep apnea,3
 1136,,0
 1137, sore throat dizzi,4
-1138,1138,sinus,1
+1138,sinus,1
 1139,,1
 1140, numb,2
 1141, impact tooth oral wisdom,5
-1142, 1142,ankl ankl,3
+1142, ankl,2
 1143,,1
-1144, extract root canal,4
+1144, canal extract root tooth,5
 1145,,1
 1146,,0
 1147, sclerosi injuri multipl concuss,5
 1148, clomid metformin period,4
 1149,,1
-1150,throat ,2
+1150,throat  strep,3
 1151,,1
 1152,,0
 1153, allerg spray allergi nasal,5
-1154, 1154,tooth bad extract breath,5
+1154, breath bad extract tooth,5
 1155,,1
-1156, diseas 1156,yeast infect antifung lotrimin transmit sexual cream,9
+1156, diseas yeast infect antifung lotrimin transmit sexual cream,9
 1157, occult cancer colonoscopi stool colon blood,7
 1158,,1
 1159,,1
 1160, headach fibromyalgia cluster,4
 1161, lung cancer,3
 1162, tmj,2
-1163,,1
-1164, ct,2
+1163, headach,2
+1164, ulcer ct,3
 1165, anxieti,2
 1166,,0
-1167, motrin tylenol ibuprofen acetaminophen,5
+1167, motrin tylenol acetaminophen ibuprofen,5
 1168, throat,2
 1169,,1
 1170, chest cough,3
 1171,,1
-1172, pain tooth,3
+1172, jaw dental pain tooth,5
 1173,,1
 1174, b12 vitamin,3
 1175,,0
-1176, pregnanc level,3
-1177, mammogram radiat,3
+1176, progesteron pregnanc level,4
+1177, exposur mammogram radiat,4
 1178,,0
 1179, tooth,2
 1180,,1
@@ -1184,54 +1184,54 @@
 1183, her2 breast cancer,4
 1184,,1
 1185, bowel,2
-1186, tri chlamydia infect,4
+1186, tri chlamydia gonorrhea infect,5
 1187,,1
 1188,,1
 1189,,0
 1190, pain,2
 1191, surgeri,2
 1192,,1
-1193, pressur blood,3
+1193,high  pressur blood,4
 1194,,1
 1195,,1
-1196, block,2
+1196, block nerv,3
 1197, pregnanc sex,3
 1198,,1
 1199, biopsi,2
 1200,,1
 1201, leg,2
-1202,,1
+1202,pet ,2
 1203,,1
-1204, sore herp,3
-1205, hemoglobin,2
+1204, sore cold herp,4
+1205,urin  hemoglobin,3
 1206,,0
 1207, bite nematod,3
-1208,,0
-1209, sore throat pain tongu,5
-1210, bilirubin phosphatas blood fraction,5
+1208,acn,1
+1209,throat sore pain tongu ,5
+1210, phosphatas bilirubin alkalin blood fraction,6
 1211, fever,2
 1212, herp,2
-1213,,1
+1213, hemorrhoid,2
 1214,,1
 1215, vagin itch,3
-1216, floater mri,3
-1217, steroid inhal,3
+1216, floater dizzi mri,4
+1217, steroid asthma inhal,4
 1218,,0
 1219,,0
 1220,,1
-1221,,0
+1221,tmj,1
 1222, penicillin,2
-1223,,0
-1224, neck,2
-1225, 1225,gum diseas,3
-1226, period,2
+1223,mammogram,1
+1224, neck stiff,3
+1225, diseas gum,3
+1226, period sex,3
 1227,,0
 1228, neurolog,2
 1229, pregnanc test,3
 1230, wisdom pain teeth,4
 1231,,0
-1232, vaccin hpv sex,4
-1233,,0
+1232, wart hpv vaccin sex,5
+1233,fever,1
 1234, mri,2
 1235, allergi asthma children eczema,5
 1236, pregnanc,2
@@ -1239,14 +1239,14 @@
 1238, cancer,2
 1239,,1
 1240,,0
-1241, sore throat,3
+1241,throat  sore,3
 1242, lung cancer smoke,4
 1243, pregnanc prolactin,3
-1244,,1
+1244, leg,2
 1245, iron,2
 1246,,1
 1247, joint,2
-1248, diseas alcohol cancer ast liver,6
+1248, diseas alcohol cancer ast breast liver,7
 1249, cardiac,2
 1250,,0
 1251, hiv,2
@@ -1257,47 +1257,47 @@
 1256, headach numb,3
 1257, surgeri nerv,3
 1258, confus,2
-1259, disloc injuri necrosi avascular,5
-1260, allergi nose congest,4
-1261, hepatocellular carcinoma liver cancer,5
+1259, injuri necrosi avascular disloc,5
+1260, rhiniti allergi nose congest,5
+1261, hepatocellular cancer cirrhosi carcinoma liver,6
 1262, surgeri biopsi breast needl,5
 1263,,1
-1264, bowel syndrom irrit,4
+1264, bowel syndrom reflux irrit,5
 1265, uterin tamoxifen postmenopaus cancer,5
-1266, therapi surgeri arthriti asymptomat pain physic,7
+1266, therapi surgeri meniscus arthriti asymptomat pain physic,8
 1267, headach sinus eye sudaf itchi sore throat allergi,9
-1268, fissur hemorrhoid,3
+1268, constip fissur hemorrhoid,4
 1269, ear vertigo inner inflamm sinus,6
-1270, imag colon cancer,4
+1270, appetit colon imag cancer,5
 1271, children murmur,3
 1272, pain tunnel carpal hand numb syndrom,7
-1273, hormon cancer caffein,4
-1274, burn vitamin nerv neuropathi inflamm peripher,7
+1273, breast hormon cancer caffein,5
+1274, diabet burn vitamin nerv neuropathi inflamm peripher,8
 1275, fungus,2
-1276, 1276,shin compart splint syndrom,5
+1276, splint compart shin syndrom,5
 1277, mammogram mri ct,4
 1278, estrogen cancer progesteron lung breast,6
 1279, chemotherapi travel breast cancer,5
-1280, breast cancer,3
-1281,,1
-1282, imag run bone scan,5
+1280, stress breast cancer,4
+1281, anesthesia,2
+1282, run scan imag mri bone,6
 1283, xray,2
 1284,cartilag surgeri transplant knee,4
 1285,,0
 1286, reaction fungus itch allerg,5
 1287, heart attack pain tooth,5
-1288, endoscop tunnel surgeri carpal nerv numb releas damag,9
-1289, gout pain nerv,4
-1290, fungus bacteria skin,4
-1291, implant dental,3
+1288, endoscop stiff tunnel surgeri carpal nerv numb releas damag,10
+1289, gout arthriti pain nerv,5
+1290, fungus bacteria peel skin,5
+1291, implant dental teeth,4
 1292, thrombosi deep,3
 1293, arthriti,2
-1294, oxycodon nucynta percocet,4
+1294, narcot oxycodon nucynta percocet,5
 1295, replac knee,3
 1296, cramp leg,3
-1297, mammogram,2
-1298, tooth,2
-1299, surgeri deep clot ultrasound thrombosi vascular venous,8
+1297, mammogram cancer,3
+1298, teeth tooth,3
+1299, surgeri thrombosi clot ultrasound deep vascular venous blood,9
 1300,,1
 1301, antibiot tonsil exercis throat strep amoxicillin,7
 1302, barium gravi myasthenia swallow,5
@@ -1307,12 +1307,12 @@
 1306,,1
 1307, amput fractur,3
 1308, surgeri cosmet neck anesthesia,5
-1309,dermat e vitamin contact,4
-1310, sclerosi multipl,3
+1309,contact e acn dermat vitamin,5
+1310, stroke multipl sclerosi,4
 1311, anxieti lung smoke cancer,5
 1312, mammogram,2
 1313, teeth graft bone wisdom,5
-1314, tunnel carpal long nerv finger,6
+1314, tunnel carpal long nerv finger numb,7
 1315,,1
 1316,,1
 1317, cast brace ankl sprain,5
@@ -1322,29 +1322,29 @@
 1321,,0
 1322, cancer scan chemotherapi breast ct,6
 1323, heart congest retent neuroma fluid nerv numb failur cyst ganglion,11
-1324, formula iron level,4
-1325, cancer aromatas aromasin hormon receptor estrogen,7
+1324, constip formula iron level,5
+1325, estrogen cancer aromatas aromasin hormon receptor,7
 1326,injuri nerv,2
 1327,,0
 1328, lupus arthriti rheumatoid,4
 1329, fever,2
-1330,,1
+1330,mvp ,2
 1331, cyst orthoped,3
 1332, abdomin ovarian cancer breast,5
 1333,,1
 1334,vaccin hpv,2
 1335, infect motrin ear children frequent,6
-1336, enlarg relax retent drainag prostat,6
+1336, enlarg relax retent urinari drainag prostat,7
 1337, urin,2
 1338, sinus dizzi decongest,4
 1339, sclerotherapi spider vein leg,5
 1340, knee,2
 1341, eczema children skin,4
 1342, arteri immun cancer inflamm,5
-1343, reclast bisphosphon oral osteonecrosi extract,6
-1344, palsi surgeri nerv mri numb,6
-1345, care,2
-1346, flap cancer breast reconstruct 1346,breast implant treatment,8
+1343, reclast bisphosphon oral osteoporosi osteonecrosi extract,7
+1344, palsi surgeri nerv mri numb inflamm,7
+1345, fingernail care,3
+1346, flap cancer breast reconstruct implant treatment,7
 1347, diabet nerv neuropathi damag peripher,6
 1348, coumadin alcohol,3
 1349, diseas rash hand mouth foot,6
@@ -1355,42 +1355,42 @@
 1354, breast cancer,3
 1355,,0
 1356, headach brain tumor decadron lung,6
-1357, peroxid antibiot clindamycin benzoyl,5
-1358, holter monitor,3
-1359, fever lesion chlamydia inflammatori infect joint arthriti skin condit shigella,11
+1357, clindamycin antibiot acn benzoyl peroxid,6
+1358, insur holter monitor,4
+1359, fever lesion chlamydia infect skin joint inflammatori arthriti condit shigella,11
 1360, ovarian cancer,3
 1361, anxieti sleep,3
 1362, infect wheez,3
-1363, corticosteroid 1363,trismus antibiot dexamethason medrol inflamm tmj,8
-1364, neuropathi,2
+1363,trismus  corticosteroid antibiot dexamethason medrol inflamm tmj,8
+1364, diabet neuropathi,3
 1365, heart loss osteoporosi scoliosi murmur cardiac height,8
 1366, exposur leukemia cancer radiat,5
 1367, vision defici vitamin blurri,5
 1368, zyrtec antihistamin hive test allergi,6
-1369,,1
+1369, red,2
 1370,,1
 1371,,1
 1372, clot extract blood,4
-1373, augmentin amoxicillin steroid prednison,5
+1373, prednison amoxicillin steroid augmentin sinus,6
 1374, bacteria nose,3
-1375, surgeon mammogram,3
+1375, surgeon mammogram breast,4
 1376, incis antibiot drainag root canal,6
-1377, bone,2
+1377, surgeri bone,3
 1378, semen pregnant get,4
 1379, pregnanc test urin,4
 1380, cbc smear antibiot bmp blood,6
 1381,,0
 1382, albuterol wheez croup inflamm bark cough,7
-1383, headach dizzi doubl vision nausea,6
+1383, headach dizzi doubl vomit vision nausea,7
 1384, node chemotherapi lymph sentinel biopsi,6
 1385,antibiot,1
 1386, immun,2
 1387,,0
-1388, vein,2
+1388, varicos vein,3
 1389, diseas imag medic liver test,6
 1390, foot,2
-1391, 1391,fever health,3
-1392, splint stress shin neuriti,5
+1391, fever health,3
+1392, tendon shin splint stress neuriti,6
 1393, heart failur diet sodium,5
 1394, clot,2
 1395, cancer biopsi mouth smoke oral,6
@@ -1399,17 +1399,17 @@
 1398, extract tooth pain wisdom,5
 1399, depress,2
 1400, breast cancer,3
-1401, nerv,2
-1402, wisdom palat teeth,4
-1403, product asthma pet dander clean mold,7
+1401, sciatica nerv,3
+1402, teeth palat wisdom,4
+1403, product asthma pet dander clean allergi mold,8
 1404, rotat tear cuff spur bone,6
 1405,,1
 1406, augmentin,2
-1407, scar laser,3
+1407, scar laser acn,4
 1408, cancer,2
-1409, canal root,3
+1409, canal root tooth,4
 1410,,1
-1411, antacid pylori diet,4
+1411, antacid pylori ulcer diet,5
 1412, diseas thymoma chest numb pain coronari,7
 1413, strain muscl,3
 1414, mammogram breast cancer,4
@@ -1418,14 +1418,14 @@
 1417, pain surgeri hyperparathyroid adenoma bone,6
 1418, surgeri,2
 1419,,0
-1420,extract,1
+1420,extract tooth,2
 1421,,1
 1422, urin infect,3
-1423, infect tube 1423,ear eustachian ear,6
+1423, infect tube ear eustachian,5
 1424, augmentin,2
 1425, antibiot,2
-1426, augmentin clavulan,3
-1427, ct,2
+1426, augmentin clavulan antibiot,4
+1427, ent ct,3
 1428, rash,2
 1429, infect,2
 1430,,0
@@ -1436,50 +1436,50 @@
 1435, tooth,2
 1436, infect discharg zithromax yeast,5
 1437, follicl cancer surgeri breast surgeon scar,7
-1438, ibuprofen,2
+1438, vicodin ibuprofen,3
 1439, contracept emerg,3
-1440, tonsil 1440,fever sore cultur throat strep,7
+1440, fever tonsil sore cultur throat strep,7
 1441,pregnanc period,2
 1442, anxieti,2
 1443,,1
 1444, vertigo,2
-1445, headach head injuri nausea,5
+1445, headach head dizzi injuri nausea,6
 1446, glucos blood sugar,4
-1447, life qualiti treatment palliat,5
+1447, life qualiti treatment palliat nausea,6
 1448,,0
 1449, defici,2
-1450, wisdom teeth,3
+1450, teeth wisdom,3
 1451, tooth,2
-1452, loss ibuprofen acetaminophen,4
+1452, loss ibuprofen hear acetaminophen,5
 1453,,1
 1454, chemotherapi vitamin,3
-1455, 1455,bacteri vagin vaginosi,4
-1456,,0
+1455, vagin bacteri vaginosi,4
+1456,oral,1
 1457, pink eye,3
 1458, test stress pain chest,5
 1459,,0
-1460, strain 1460,muscl ibuprofen,4
+1460, strain muscl ibuprofen,4
 1461,,0
 1462, syndrom hyperthyroid dump bacteria,5
 1463, ent,2
 1464, diseas apnea copd disord sleep lung,7
 1465, fiber diet,3
 1466, xray chest blood,4
-1467, cartilag therapi physic pain,5
+1467, cartilag pain knee therapi physic,6
 1468, hemangioma,2
-1469, orthot surgeri joint nerv,5
+1469, surgeri nerv orthot joint arthriti,6
 1470, pain tunnel cubit epicondyl tingl elbow inflamm syndrom,9
 1471, plantar orthot fasciiti osteoarthr,5
 1472, ent,2
 1473,,1
-1474, wisdom extract tooth,4
+1474, fistula wisdom extract tooth,5
 1475,ent,1
 1476, feed mastiti breast cancer,5
-1477, danc nsaid meniscus,4
+1477, danc torn nsaid meniscus,5
 1478,,1
-1479,,1
+1479, sprain,2
 1480, pregnanc test pregnant,4
-1481, spasm nerv,3
+1481, spasm muscl nerv,4
 1482, ra,2
 1483, arthriti psoriat psoriasi,4
 1484, constip,2
@@ -1492,85 +1492,85 @@
 1491, breast cancer,3
 1492, tumor angioma spider benign,5
 1493, esophag attack nitroglycerin angina panic spasm,7
-1494, scan imag abdomen ct travel bone ray,8
+1494, cancer scan imag abdomen ct travel bone ray,9
 1495,,1
-1496, mammogram biopsi mri breast,5
+1496, cancer mri mammogram biopsi breast,6
 1497, food virus poison,4
 1498, life cancer qualiti lung liver,6
-1499, strain knee,3
-1500,throat 1500,strep magic antibiot mouthwash,5
+1499, strain muscl knee,4
+1500,throat antibiot strep magic mouthwash,5
 1501, pain warfarin compress inr stock,6
 1502, fever rheumat sore throat strep,6
-1503, nose,2
+1503, runni nose,3
 1504, imag dizzi,3
-1505, pregnanc period,3
+1505, pregnanc miss period,4
 1506, pregnanc period pregnant,4
-1507, cleocin bacteri yeast 1507,yeast mycolog ii infect flagyl,9
-1508, diseas antibodi mri,4
+1507, cleocin bacteri yeast infect mycolog ii flagyl,8
+1508, autoimmun diseas antibodi mri,5
 1509, heartburn reflux cancer,4
 1510, tendon fasciiti plantar achill antiinflammatori,6
 1511, cancer colonoscopi coliti surgeri colon,6
 1512, vertigo nystagmus benign ent posit,6
 1513, tamoxifen breast cancer,4
 1514, mammogram hormon,3
-1515, supplement iron,3
-1516, brace antiinflammatori,3
+1515, constip supplement iron,4
+1516, brace ankl antiinflammatori,4
 1517, infect immun bacteria,4
 1518, ashkenazi ovarian cancer breast,5
 1519,,1
-1520, probiot antibiot supplement,4
+1520, probiot antibiot supplement cellul,5
 1521, fiber hemorrhoid probiot desitin laxat,6
 1522, cervic procedur cancer,4
 1523, surgeri cancer,3
 1524, bile gallston,3
 1525, semen defect birth abnorm,5
-1526,1526,acn  laser graft dermabras scar resurfac,7
+1526, laser graft acn dermabras scar resurfac,7
 1527, cartilag scar ankl,4
 1528, caviti dental,3
 1529, retin pilari retinoid follicl keratosi keratin,7
-1530, abscess cancer 1530,red insect bite,6
+1530, abscess cancer bite insect red,6
 1531, abdomin staph infect,4
-1532, breastfeed sex,3
+1532, breastfeed ovul sex,4
 1533,,1
 1534, vision,2
 1535, pregnanc test home,4
 1536, imag surgeri,3
-1537, joint vioxx voltaren bextra magnesium celebrex ibuprofen inflamm relafen,10
+1537, joint vioxx voltaren bextra arthriti magnesium celebrex ibuprofen inflamm relafen,11
 1538,,1
 1539, irrit irradi breast skin sunburn,6
 1540, oral cancer,3
 1541, lyme,2
-1542, clot socket antibiot tooth dri extract,7
+1542, clot socket antibiot tooth dri blood extract,8
 1543,,1
 1544,,0
 1545, inhal,2
 1546,,1
-1547, crutch,2
+1547, orthoped crutch,3
 1548,,1
 1549, ankl crutch,3
-1550, benadryl claritin pain zaditor eye,6
-1551, splint fluid foreign bodi bacteria,6
+1550, pink claritin pain benadryl zaditor eye,7
+1551, wound splint fluid foreign bodi bacteria,7
 1552, periodont antibiot tetracyclin amoxicillin,5
 1553, cell cancer xray chest lung small,7
 1554,head cancer ct,3
 1555,herniat nerv,2
-1556, stool cancer colonoscopi,4
+1556, stool blood cancer colonoscopi,5
 1557, tumor motor,3
-1558, infarct myocardi arteri attack ischemia,6
-1559, arm numb,3
+1558, heart infarct myocardi arteri attack ischemia,7
+1559, tmj arm numb,4
 1560, biopsi lip sjogren,4
-1561, bronchospasm cough wheez,4
+1561, bronchospasm cough asthma wheez,5
 1562, tumor ct adren scan,5
 1563, pancreat cancer,3
 1564,,1
-1565,,1
+1565, allergi,2
 1566,,1
-1567,,1
-1568, colon colonoscopi,3
+1567, feel,2
+1568, constip colon colonoscopi,4
 1569, children diet,3
 1570, colonoscopi barium polyp colon enema,6
 1571, dri prediabet skin,4
-1572,,1
+1572, floater,2
 1573,,1
 1574, bipolar,2
 1575, node lymph,3
@@ -1578,14 +1578,14 @@
 1577, surgeri,2
 1578, tysabri,2
 1579, cervic hpv cancer sex,5
-1580, exercis,2
+1580, muscl exercis,3
 1581,,1
 1582, gout arthriti pain neuropathi,5
 1583, tooth,2
-1584, cough fever,3
+1584, fever cough,3
 1585, fibroid ovarian,3
 1586, lung cancer,3
-1587,1587,iron  iron,3
+1587, iron,2
 1588, infect fungal psoriasi,4
 1589, compress leg,3
 1590,,1
@@ -1593,7 +1593,7 @@
 1592, test counselor genet,4
 1593,,1
 1594, pregnanc depo provera period,5
-1595, throat,2
+1595, sore throat,3
 1596,,0
 1597, pregnanc,2
 1598, lipas lung cancer,4
@@ -1611,13 +1611,13 @@
 1610, surgeri,2
 1611,,0
 1612, brain metastasi,3
-1613,diseas,1
+1613,diseas alzheim,2
 1614,,0
 1615, parent,2
-1616, 1616,shingl chickenpox vaccin shingl,5
+1616, vaccin chickenpox shingl,4
 1617,,0
-1618, immun varicella rash zoster vaccin chickenpox shingl,8
-1619, pain coliti abdomin stool blood ulcer crohn,8
+1618, immun varicella rash zoster vaccin herp chickenpox shingl,9
+1619, pain coliti diarrhea stool blood ulcer abdomin crohn,9
 1620,,1
 1621, nodul,2
 1622,,0
@@ -1632,20 +1632,20 @@
 1631,,1
 1632,aneurysm,1
 1633, tmj,2
-1634, throat,2
+1634, sore throat,3
 1635,,1
 1636,,1
 1637,migrain,1
 1638,,0
 1639, loss blood,3
 1640, lung nodul,3
-1641,,1
+1641, cancer,2
 1642,,0
-1643, 1643,diabet diabet sugar insulin glucos,6
+1643, glucos insulin diabet sugar,5
 1644, pregnanc period,3
 1645,,1
 1646, lupus sarcoidosi,3
-1647,,0
+1647,cancer,1
 1648, pain osteophyt nerv spur bone,6
 1649,,0
 1650,,1
@@ -1653,25 +1653,25 @@
 1652, bleed,2
 1653, benadryl,2
 1654, colon cancer,3
-1655, blood sugar,3
+1655, blood diabet sugar,4
 1656,,1
 1657, pregnanc,2
 1658, xray chest disord anxieti,5
 1659, ingrown,2
-1660,,0
+1660,benadryl zyrtec,2
 1661, test,2
-1662,,1
+1662,pregnanc ,2
 1663, xopenex singulair xyzal,4
 1664, edema,2
 1665,,1
 1666,throat sore aphthous,3
-1667, biopsi,2
+1667, biopsi cancer,3
 1668, liver,2
 1669, menstrual pregnanc,3
 1670,,0
 1671, cord csf stenosi myelopathi spinal,6
 1672, test,2
-1673, sore palat,3
+1673, sore palat canker,4
 1674, pelvic pain like,4
 1675, blood,2
 1676,period puberti,2
@@ -1682,65 +1682,65 @@
 1681, bowel movement anal hemorrhoid,5
 1682,pain,1
 1683, sore throat fever,4
-1684,,0
+1684,numb,1
 1685,,1
 1686,,1
-1687, throat,2
-1688, pregnanc gynecologist test cycl,5
+1687, sore throat,3
+1688, uterin pregnanc cycl gynecologist test,6
 1689,,0
 1690,,1
-1691, low blood sugar,4
+1691, blood low diabet sugar,5
 1692, sciatica arthriti psoriasi,4
 1693,,1
 1694, tmj,2
-1695,,1
+1695,pregnanc ,2
 1696,,1
 1697,,0
-1698, hypotens pressur blood,4
-1699,,1
+1698, hypotens dizzi pressur blood,5
+1699, sleep,2
 1700, diabet numb,3
-1701, food allergi benadryl,4
+1701, benadryl allergi food,4
 1702,,1
 1703,,1
-1704, enlarg estrogen infect circumcis menopaus prostat,7
-1705, diverticul,2
+1704, enlarg estrogen infect circumcis urinari menopaus prostat,8
+1705, dandruff diverticul,3
 1706, surgeri cataract,3
 1707, retin surgeri retina gas distort visual detach vision cataract,10
 1708, nodul cancer microcalcif,4
 1709, test breast cancer,4
-1710, hpv condom,3
-1711, bile pigment cell calcium anemia,6
+1710, hpv condom sex,4
+1711, bile pigment cell calcium anemia sickl,7
 1712, cast ankl fractur,4
-1713, thyroid scan ultrasound nodul biopsi,6
+1713, thyroid goiter scan ultrasound nodul biopsi,7
 1714, lung cancer copd bleed,5
 1715, niacin oil fish ldl cholesterol statin total,8
 1716, manic bipolar disord lithium,5
-1717, aggress diseas memori alzheim dementia disinhibit vascular apathi agit,10
+1717, depress diseas memori alzheim dementia aggress disinhibit vascular apathi agit,11
 1718, chemotherapi treatment,3
 1719,,1
 1720, gout lupus fluid arthriti rheumatoid,6
-1721, nodul hyperthyroid scan,4
+1721, overact hyperthyroid nodul scan,5
 1722, inflamm rubella syphili,4
-1723,,1
-1724,,1
+1723, headach,2
+1724, mri,2
 1725, heart,2
 1726,enlarg prostat bladder,3
 1727,,1
-1728, inflamm lupus red skin,5
+1728, lupus fever skin inflamm red,6
 1729, swim exercis,3
 1730,,1
 1731,,0
-1732, throat antibiot,3
-1733, amblyopia eye glass children vision,6
+1732, throat antibiot strep,4
+1733, amblyopia eye glass lazi children vision,7
 1734, allerg reaction migrain brain aneurysm tumor,7
-1735, clot warfarin inr,4
+1735, clot warfarin blood inr,5
 1736, incis surgeri,3
 1737, surgeri burn run,4
 1738, chemotherapi,2
 1739, therapi breast radiat,4
 1740, pet cancer,3
-1741, 1741,sinus sinus,3
-1742, fertil,2
+1741, sinus,2
+1742, ectop fertil,3
 1743, healthi diet,3
 1744, teeth numb wisdom,4
 1745, pap exam cancer pelvic hysterectomi cervic,7
@@ -1748,77 +1748,77 @@
 1747,,1
 1748,,1
 1749,spray nasal,2
-1750, cyst,2
+1750, cyst ganglion,3
 1751, eye surgeri retina traction cataract,6
-1752, embol pain urinari frequenc fibroid pelvic uterin arteri fertil,10
+1752, embol pain urinari pelvic fibroid frequenc uterin arteri fertil,10
 1753, teeth nerv wisdom,4
-1754, ovul period pregnanc cycl intercours,6
-1755, breast cancer,3
+1754, ovul period mens pregnanc cycl intercours,7
+1755, abscess breast cancer,4
 1756, clot superfici inflamm,4
-1757, orthoped,2
+1757, arthriti mri orthoped,4
 1758,,1
 1759, xray stone kidney,4
-1760, hernia surgeri,3
-1761, dri eye,3
+1760, hernia surgeri wound,4
+1761, lasik eye dri,4
 1762, lasik astigmat,3
 1763, exposur eye lipid environment dri,6
 1764, lactos stool rash fussi intoler allergi loos,8
-1765, sex,2
-1766, diseas fibroid osteoporosi uterin hysterectomi,6
+1765,std  sex,3
+1766, heart diseas fibroid osteoporosi uterin hysterectomi,7
 1767,,1
-1768,prk,1
-1769, implant vision len intraocular,5
+1768,lasik prk,2
+1769, nearsighted len intraocular implant vision,6
 1770, depress poor concentr memori,5
-1771, differenti diagnosi,3
+1771, differenti influenza diagnosi,4
 1772,,1
 1773, chemotherapi surgeri breast cancer,5
 1774, sciatica trigger pain,4
 1775, radiosurgeri colon cancer radiat,5
 1776,,1
 1777, tendon cortison surgeri ruptur stress inject mri,8
-1778,,0
+1778,eye,1
 1779, surgeri eye lazi vision,5
 1780, resect transurethr cystoscopi biopsi anesthesia,6
 1781, gout pain arthriti neuropathi condit,6
 1782, fungus pyogen granuloma,4
-1783,,1
+1783, sleep,2
 1784,,0
-1785, infect antibiot eye,4
+1785, infect antibiot ear eye,5
 1786, ct insur mri scan,5
 1787, arthriti mri,3
-1788, clot,2
+1788, clot red,3
 1789, virus,2
 1790, filter placement ivc,4
 1791, chest lung cancer,4
 1792, thyroid medic eye optometrist,5
-1793,esophag allergi 1793,heartburn,3
+1793,esophag heartburn allergi,3
 1794, urin macrobid nitrofurantoin infect,5
 1795,,1
-1796, heparin run warfarin lovenox coumadin,6
+1796, heparin run warfarin lovenox blood coumadin,7
 1797, tmj pain ra manag,5
-1798, hip surgeri puberti osteoarthr,5
+1798,hip  surgeri puberti osteoarthr,5
 1799, implant eye,3
 1800, antibiot virus,3
 1801,,1
-1802, tan cancer,3
+1802, tan cancer skin,4
 1803, oral teeth,3
 1804,,1
 1805,,1
-1806, implant,2
+1806, implant ovul,3
 1807,,1
 1808, urin,2
 1809, cough allergi asthma wheez,5
 1810, tmj antiinflammatori,3
 1811,virus bacteria,2
-1812,swell,1
+1812,swell gum,2
 1813, surgeri vein,3
-1814, anesthesia general,3
+1814, surgeri anesthesia general,4
 1815, scissor numb fractur,4
-1816, implant ruptur,3
+1816, implant ruptur breast,4
 1817, arteri neck,3
 1818, urin vagin fibroid bleed,5
-1819, allerg reaction breath virus petechia,6
-1820, thyroid nodul gland,4
+1819, allerg reaction breath virus petechia red,7
+1820,thyroid  nodul gland,4
 1821, rapid renal arteri stenosi blood hypertens,7
 1822, stone diabet kidney,4
 1823, knee synovium,3
@@ -1827,32 +1827,32 @@
 1826,,1
 1827, hay throat fever sore,5
 1828, bloat food fat intoler low diet nausea dyskinesia fatti,10
-1829, ent,2
-1830, tumor doubl vision brain,5
-1831,,1
-1832,1832,diabet ,2
+1829, sinus ent,3
+1830, dizzi doubl tumor brain vision,6
+1831, neck,2
+1832, diabet,2
 1833,,1
 1834, function liver elev test statin,6
 1835,,1
-1836, failur,2
+1836, heart failur,3
 1837,,1
 1838,,0
 1839,,1
 1840, xray chest cancer,4
 1841, joint pain sciatica,4
-1842, abscess difficulti swell muscl breath facial trismus spasm,9
-1843, estrogen bloat ovarian hormon delay breast tender cyst nausea,10
+1842, abscess fever difficulti swell muscl breath facial trismus spasm,10
+1843, estrogen bloat ovarian hormon delay breast tender cyst mens nausea,11
 1844, prozac agit,3
-1845, surgeri,2
-1846, defici libido vitamin hand numb 1846,depress multipl sclerosi,9
+1845, surgeri edema,3
+1846, depress defici libido vitamin hand numb multipl sclerosi,9
 1847, colonoscopi,2
 1848, pulmonari chest leg,4
 1849, sinus mri,3
-1850, joint arthriti therapi physic,5
+1850, therapi joint arthriti pain physic,6
 1851, allergi hiv,3
 1852,,0
 1853, food allergi,3
-1854, mouth,2
+1854, dri mouth,3
 1855,,1
 1856, eyelid droop pupil horner syndrom,6
 1857,,0
@@ -1861,30 +1861,30 @@
 1860,,1
 1861,,0
 1862, heart infarct myocardi attack rate,6
-1863,,0
-1864, pregnanc fertil cycl,4
-1865, thyroid cancer ultrasound nodul biopsi,6
+1863,osteoarthr,1
+1864, pregnanc fertil ovul cycl,5
+1865,thyroid  cancer ultrasound nodul biopsi,6
 1866,,1
-1867, imag mri,3
-1868,,0
-1869, headach tmj pain syndrom,5
+1867, stress imag mri,4
+1868,vision,1
+1869, headach pain dental tmj syndrom,6
 1870,,0
 1871,,0
-1872,,1
+1872, pimpl,2
 1873,,1
 1874, flu,2
-1875,,1
+1875, hive,2
 1876, infarct edema myocardi pulmonari shock arrest cardiac syncop,9
 1877, sleep,2
 1878, remicad biolog therapi,4
 1879,,1
 1880, cartilag orthoped mri,4
-1881, retin detach,3
+1881, retin detach floater,4
 1882, surgeri eye cataract,4
-1883, loss alzheim memori,4
-1884, diseas multipl bladder punctur lumbar sclerosi,7
+1883, depress loss memori alzheim,5
+1884, diseas multipl bladder punctur lumbar sclerosi lyme,8
 1885, poor vagin infect antibiot person hygien,7
-1886, arthrocentesi mri drug antiinflammatori,5
+1886, arthrocentesi nsaid drug mri antiinflammatori,6
 1887, aspirin,2
 1888,,0
 1889, gallbladd polyp cancer,4
@@ -1893,67 +1893,67 @@
 1892, diabet hypoglycemia a1c type risk,6
 1893, gallston,2
 1894, infect,2
-1895, diseas alzheim activ namenda aricept live daili,8
-1896, heart weight sugar attack ldl statin hdl,8
-1897, intestin bile,3
+1895, diseas alzheim activ namenda aricept live dementia daili,9
+1896, heart weight overweight sugar attack ldl statin hdl,9
+1897, intestin bile diarrhea,4
 1898, embol pulmonari,3
 1899, diseas travel fever autoimmun infecti condit,7
 1900, pain advil amylas liver tylenol lipas,7
-1901,prolaps 1901,mitral valv echo,4
+1901,prolaps mitral valv echo,4
 1902, knee,2
-1903, cyst surgeri needl drainag,5
+1903, surgeri cyst drainag needl ganglion,6
 1904, glass doubl vision cataract,5
 1905,tmj pain syndrom,3
 1906, food rash joint arthriti allergi rheumatoid,7
-1907, defici alzheim 1907,dementia vitamin stroke multipl sclerosi hypothyroid,9
+1907, multipl alzheim vitamin stroke defici sclerosi dementia hypothyroid,9
 1908, lupus,2
 1909, urin cystiti infect antibiot interstiti bladder cultur bacteria,9
-1910, biopsi,2
-1911,ectop ultrasound pregnanc pelvic,4
+1910, lymphoma biopsi,3
+1911,ectop pelvic pregnanc ultrasound,4
 1912, floater surgeri vision cataract,5
 1913, optometrist implant,3
-1914, heart scan arteri attack angiogram ct,7
-1915, loss hear infect,4
-1916, fiber cancer hemorrhoid diet general low surgeon,8
+1914, heart stress scan arteri attack cardiac angiogram ct,9
+1915, loss ear hear infect,5
+1916, fiber cancer hemorrhoid constip diet general low surgeon,9
 1917, loss cancer polyp colon blood anemia,7
 1918, stress alcohol,3
 1919,,1
-1920, xray pulmonari asthma fibrosi,5
-1921, embol pain heart pulmonari breath rate syncop,8
-1922, headach lipid migrain sleep hydrocodon lyrica,7
-1923, bowel cancer,3
-1924, pain travel nerv spinal fusion sciatica,7
+1920, asthma fibrosi pulmonari xray chest,6
+1921, embol pain heart pulmonari chest breath rate syncop,9
+1922, headach lipid arteriosclerosi migrain sleep hydrocodon lyrica,8
+1923, constip bowel cancer,4
+1924,radiculopathi  pain travel nerv spinal fusion sciatica,8
 1925, hemoglobin blood a1c glucos,5
-1926, socket tast diet dri bad extract bacteria,8
-1927, urin cranberri coli infect cultur bladder tract bacteria juic,10
+1926, socket tast reflux diet dri bad extract bacteria,9
+1927, urin cranberri coli infect cultur bladder urinari tract bacteria juic,11
 1928, cataract,2
-1929, marrow bone oncolog,4
+1929, marrow bone oncolog nausea,5
 1930,,1
 1931, sleep apnea,3
 1932, antiinflammatori protonix naproxen zantac,5
-1933, antibiot fiber cipro flagyl,5
+1933, fiber antibiot cipro flagyl diverticul,6
 1934,,0
 1935, band oligoclon mri spinal,5
-1936, medicin pain scan 1936,ankl mri sport,7
+1936, medicin pain scan ankl mri sport,7
 1937, nodul,2
-1938, sting,2
+1938, sting bee,3
 1939, melanoma cancer metastasi sarcoma lymphoma biopsi,7
-1940, 1940,cancer nodul,3
-1941, alzheim stroke fatigu gain dementia,6
+1940, nodul cancer,3
+1941, weight alzheim stroke fatigu gain dementia,7
 1942, runni nose,3
-1943, hormon period pregnanc cycl test cyst,7
-1944, immun stiff idiopath joint virus arthriti diseas,8
+1943, hormon period ovarian pregnanc cycl test cyst,8
+1944, immun pain stiff idiopath joint virus arthriti diseas,9
 1945, patellar tendon,3
-1946, diseas lipid diet sugar blood exercis,7
+1946, heart diseas lipid diet sugar blood exercis,8
 1947,,0
-1948, chest copd,3
+1948,xray  chest copd,4
 1949, hemorrhoid,2
 1950,,1
 1951, radiculopathi steroid osteophyt nerv,5
 1952,radiculopathi pinch shingl nerv,4
-1953, depress diabet sleep gain depriv,6
+1953, depress diabet weight sleep gain depriv,7
 1954,,0
 1955, hip surgeri orthoped replac,5
 1956, diseas therapist exercis,4
 1957, retin detach laser,4
-1958, life oxygen care,4
+1958, life cancer oxygen care,5

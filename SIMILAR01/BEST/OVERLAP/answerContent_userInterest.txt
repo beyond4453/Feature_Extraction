@@ -1,10 +1,10 @@
-0, nasal septum,3
+0, nasal deviat septum,4
 1,,1
 2, loss nasal,3
 3,,1
 4,,1
 5,,1
-6, surgeri lift,3
+6, hernia surgeri lift,4
 7,,0
 8,,1
 9,,0
@@ -15,16 +15,16 @@
 14, dental,2
 15,,1
 16, care,2
-17,,1
+17, tmj,2
 18,,1
-19, dental 19,sleep apnea,4
+19, sleep dental apnea,4
 20,,1
 21,,1
-22, nasal septum,3
+22, nasal deviat septum,4
 23, treatment,2
 24,,0
 25,,1
-26, dental apnea 26,sleep,4
+26, sleep dental apnea,4
 27,,1
 28, depress diseas alzheim anxieti vascular dementia,7
 29,,0
@@ -35,7 +35,7 @@
 34,,1
 35,,0
 36, arthriti,2
-37,tooth,1
+37,wisdom tooth,2
 38,,1
 39, prolaps incontin urinari pelvic,5
 40,,0
@@ -46,8 +46,8 @@
 45,,1
 46, dental,2
 47,,1
-48, canal root,3
-49, throat neck stiff,4
+48, canal root tooth,4
+49, throat stiff neck sore,5
 50, teeth,2
 51,,1
 52,,1
@@ -71,10 +71,10 @@
 70,,1
 71,,1
 72, oral tmj open mri,5
-73,,1
+73, ct,2
 74,,0
 75, brain,2
-76, oral tmj pain dental,5
+76, oral dental pain tmj,5
 77,,1
 78,,1
 79,,1
@@ -104,11 +104,11 @@
 103,,1
 104,,1
 105, lupus sjogren,3
-106,,0
+106,asthma,1
 107,,0
 108,,0
 109, pain,2
-110, breast,2
+110, breast cancer,3
 111,,1
 112,,0
 113, transmit sexual,3
@@ -177,7 +177,7 @@
 176, pain breast,3
 177, neck,2
 178, mammogram breast,3
-179,179,shoulder,1
+179,shoulder,1
 180,,1
 181, mammogram breast,3
 182,,1
@@ -190,7 +190,7 @@
 189,,0
 190,,1
 191,,0
-192,,1
+192, tooth,2
 193,,1
 194, incontin,2
 195,,1
@@ -200,7 +200,7 @@
 199,,1
 200, replac partial knee,4
 201, lung cancer,3
-202, breast,2
+202, breast cancer,3
 203,,0
 204, urin incontin,3
 205, tooth,2
@@ -246,13 +246,13 @@
 245,,1
 246, mammogram breast,3
 247, diseas pain diabet,4
-248, sclerosi diseas 248,multipl,4
+248, sclerosi diseas multipl,4
 249,,0
 250,,1
 251,,1
-252, tunnel carpal hand 252,carpal wrist,6
+252, tunnel carpal wrist hand,5
 253, diabet neuropathi,3
-254, surgeri lift,3
+254, hernia surgeri lift,4
 255,tooth,1
 256,,0
 257,,1
@@ -268,21 +268,21 @@
 267,,1
 268, bladder kidney,3
 269, heart,2
-270, radiolog cancer,3
+270, radiolog mammogram cancer,4
 271, lung,2
 272, diabet weight,3
 273, venous vein varicos,4
 274,,1
-275,,1
+275, tendon,2
 276,,1
 277, oral gum tooth,4
 278,,1
 279, cancer,2
 280, headach,2
-281, prevent,2
+281, prevent asthma,3
 282,,0
 283, diseas pain diabet arteri breath chest coronari,8
-284, replac,2
+284, replac pain,3
 285,,1
 286,,1
 287, chemotherapi breast cancer,4
@@ -318,11 +318,11 @@
 317, epidur pain spine injuri back nerv facet steroid inject radiofrequ lumbar ablat,13
 318, lung cancer,3
 319, oral teeth,3
-320, infect pneumonia,3
+320, pneumonia infect,3
 321, brain,2
 322,,1
 323, diseas,2
-324, lump,2
+324, mammogram lump,3
 325,,0
 326,,0
 327,,1
@@ -344,14 +344,14 @@
 343,,0
 344, cyst surgeri ganglion,4
 345,,1
-346,,0
+346,ct,1
 347,,0
 348, fractur,2
 349,,1
 350,,1
 351, pain,2
 352, cervic cancer,3
-353, breast,2
+353, breast cancer,3
 354, headach syndrom,3
 355, tumor,2
 356,,1
@@ -445,7 +445,7 @@
 444,,1
 445,,1
 446,,1
-447,,0
+447,skin,1
 448, pain,2
 449,,0
 450,,1
@@ -469,7 +469,7 @@
 468,,1
 469, breast cancer,3
 470, health,2
-471, nasal septum,3
+471, nasal deviat septum,4
 472, breast cancer,3
 473, implant breast,3
 474,,1
@@ -482,8 +482,8 @@
 481,,0
 482,,0
 483,,1
-484, 484,carpal tunnel carpal hand wrist,6
-485, feel anxieti,3
+484, tunnel carpal wrist hand,5
+485, depress anxieti feel,4
 486, bleed cancer,3
 487, surgeri,2
 488, canal pain root tooth,5
@@ -497,14 +497,14 @@
 496,,0
 497,,1
 498, arthriti,2
-499, dental apnea 499,sleep,4
+499, sleep dental apnea,4
 500,,1
 501,,0
 502,,1
 503, incontin,2
 504,,0
 505,,1
-506, tunnel,2
+506, tunnel carpal,3
 507,,1
 508,,1
 509, hemorrhoid,2
@@ -514,7 +514,7 @@
 513, cancer,2
 514, plastic,2
 515, breast cancer,3
-516,516,sleep  dental apnea,4
+516, sleep dental apnea,4
 517,,0
 518,,1
 519, health,2
@@ -522,7 +522,7 @@
 521,,0
 522,tooth,1
 523, health,2
-524, needl,2
+524, biopsi needl,3
 525,,0
 526, anxieti relax,3
 527,,1
@@ -531,14 +531,14 @@
 530, surgeri biopsi breast lump,5
 531,,1
 532,,1
-533,,0
+533,ct,1
 534,,0
-535, cancer breast 535,breast reconstruct implant,6
-536, spine,2
+535, reconstruct implant breast cancer,5
+536, spine sciatica,3
 537, surgeri,2
 538, surgeri,2
 539,,1
-540,,1
+540, ct,2
 541, pain breast,3
 542,,1
 543,foot,1
@@ -554,7 +554,7 @@
 553, infect,2
 554,,0
 555, arthriti,2
-556, wisdom graft bone teeth,5
+556, teeth graft bone wisdom,5
 557,,0
 558, epidur pain spine injuri back nerv facet steroid inject radiofrequ lumbar ablat,13
 559,cancer,1
@@ -562,7 +562,7 @@
 561,,1
 562, arthriti,2
 563,,1
-564,,1
+564, ct,2
 565,,1
 566,,1
 567,,0
@@ -571,13 +571,13 @@
 570,,1
 571,,0
 572,,1
-573, nasal septum,3
+573, nasal deviat septum,4
 574, canal root,3
 575,,1
 576, mammogram breast,3
 577,,1
 578, mammogram breast,3
-579, breast,2
+579, breast cancer,3
 580, oral,2
 581, dental care,3
 582, pain,2
@@ -590,21 +590,21 @@
 589, pain,2
 590,,1
 591, oral gum tooth,4
-592, cough eat fever,4
+592, fever eat cough,4
 593,,1
 594,,1
 595, foot injuri sprain care,5
 596,,1
-597, child,2
+597, cough child,3
 598,,1
 599, health,2
 600, test,2
 601,disord,1
 602,,1
 603,,0
-604,,1
+604, ct,2
 605,,1
-606,,1
+606, ct,2
 607,,0
 608,,1
 609,,0
@@ -628,9 +628,9 @@
 627,,1
 628,,0
 629,,0
-630, disord pain,3
+630, tmj disord pain,4
 631,,1
-632,,0
+632,wisdom,1
 633, canal root,3
 634, ct lung cancer scan,5
 635,,1
@@ -648,7 +648,7 @@
 647,,1
 648, smear,2
 649,,1
-650, headach migrain,3
+650, headach sinus migrain,4
 651, epidur pain spine injuri back nerv facet steroid inject radiofrequ lumbar ablat,13
 652,,0
 653,,0
@@ -683,7 +683,7 @@
 682, aspir fine needl,4
 683, medic,2
 684,,0
-685, nasal septum,3
+685, nasal deviat septum,4
 686,,1
 687,,0
 688,,0
@@ -692,7 +692,7 @@
 691,,1
 692,,0
 693, degener macular,3
-694, loss,2
+694, loss vision,3
 695,,1
 696,,0
 697,,0
@@ -702,7 +702,7 @@
 701, defici vitamin b12 acid holist,6
 702,,0
 703, bodi,2
-704, alzheim stroke vascular sclerosi dementia,6
+704, multipl alzheim stroke vascular sclerosi dementia,7
 705,,1
 706,,1
 707,,1
@@ -723,17 +723,17 @@
 722,,1
 723, breath cough,3
 724, mammogram breast,3
-725,tooth,1
+725,wisdom tooth,2
 726,oral,1
-727,,0
-728, tooth,2
+727,asthma,1
+728, wisdom tooth,3
 729,,1
-730,,0
+730,asthma,1
 731,asthma,1
 732,,0
 733,,1
 734, tooth oral wisdom,4
-735, disord pain,3
+735, tmj disord pain,4
 736,,1
 737, asthma,2
 738, asthma children,3
@@ -752,7 +752,7 @@
 751,,1
 752,,0
 753,,1
-754, wisdom graft bone teeth,5
+754, teeth graft bone wisdom,5
 755,,1
 756,,1
 757, brain,2
@@ -762,20 +762,20 @@
 761, mouth,2
 762,,0
 763,,1
-764, lump,2
-765,,0
+764, mammogram lump,3
+765,wisdom,1
 766,,1
 767,,1
 768,,0
 769, epidur pain spine injuri back nerv facet steroid inject radiofrequ lumbar ablat,13
-770, manic disord,3
+770, manic bipolar disord,4
 771,,1
 772,,1
 773,,1
 774,,0
 775, oral,2
 776,,1
-777, foot,2
+777, foot diabet,3
 778, lung cancer,3
 779, adhd,2
 780, pain breast,3
@@ -789,28 +789,28 @@
 788, autoimmun diseas,3
 789, teeth,2
 790, tmj manag,3
-791,,1
+791, tendon,2
 792,,0
 793,,1
 794, ankl,2
 795,,1
 796,,1
-797, foot,2
+797, foot diabet,3
 798,,1
 799, teeth,2
 800, sprain neuropathi,3
 801, degener macular,3
 802, child,2
 803, disord anxieti,3
-804, spine,2
+804, spine sciatica,3
 805, fusion pain,3
 806,,0
 807, upper surgeri,3
 808,,1
-809, 809,sleep dental apnea,4
+809, sleep dental apnea,4
 810,,0
 811,,1
-812, oral tmj pain dental,5
+812, oral dental pain tmj,5
 813, cancer,2
 814, sprain neuropathi,3
 815, lung cancer ct,4
@@ -850,7 +850,7 @@
 849,,1
 850, oral teeth,3
 851, surgeri,2
-852, upper implant jaw,4
+852, upper dental implant jaw,5
 853,,1
 854, teeth,2
 855,,1
@@ -869,7 +869,7 @@
 868,,1
 869, disc back nerv,4
 870,,0
-871,tooth,1
+871,wisdom tooth,2
 872, teeth,2
 873, mammogram breast,3
 874,,1
@@ -899,17 +899,17 @@
 898,,1
 899, surgeri,2
 900,,1
-901, epidur pain inject steroid,5
+901, epidur pain steroid inject sciatica,6
 902, teeth,2
 903,,1
 904, oral teeth,3
 905,,1
-906, prevent,2
+906, prevent asthma,3
 907, sprain neuropathi,3
 908,,1
 909,,1
 910, foot ankl,3
-911,tooth,1
+911,wisdom tooth,2
 912,,1
 913,,1
 914,,1
@@ -917,8 +917,8 @@
 916,,0
 917, spine nerv,3
 918, pain,2
-919, feel anxieti,3
-920,syndrom,1
+919, depress anxieti feel,4
+920,tmj syndrom,2
 921, aneurysm,2
 922, better,2
 923, pain,2
@@ -939,7 +939,7 @@
 938,,1
 939, pain tooth,3
 940, breast cancer,3
-941,941,asthma ,2
+941, asthma,2
 942, ultrasound mammogram mri ct,5
 943, defici vitamin b12 acid holist,6
 944,,0
@@ -955,7 +955,7 @@
 954,,1
 955, tooth,2
 956,,0
-957,,1
+957, child,2
 958,,1
 959,,1
 960,,1
@@ -965,18 +965,18 @@
 964,foot,1
 965, mammogram lump cancer breast,5
 966,,0
-967, feel anxieti,3
+967, depress anxieti feel,4
 968, medic,2
 969, disord anxieti,3
 970,,1
 971, treatment,2
 972,,1
 973,,0
-974, fractur,2
-975,tooth,1
+974, ankl fractur,3
+975,wisdom tooth,2
 976, canal root,3
-977,,0
-978,,1
+977,asthma,1
+978, tendon,2
 979, acn,2
 980,,1
 981,,1
@@ -986,7 +986,7 @@
 985,,0
 986,,1
 987,,1
-988,,1
+988, ct,2
 989,care,1
 990,,1
 991,,1
@@ -1007,15 +1007,15 @@
 1006, nodul cancer,3
 1007,,1
 1008, nodul cancer,3
-1009,tooth,1
+1009,wisdom tooth,2
 1010,,1
 1011,,0
 1012, infect,2
-1013, oral tmj pain dental,5
+1013, oral dental pain tmj,5
 1014,,1
 1015, pain facial tooth,4
 1016,,1
-1017,,1
+1017, surgeri,2
 1018,,0
 1019, arthriti,2
 1020,,1
@@ -1046,7 +1046,7 @@
 1045,,1
 1046, sclerosi multipl,3
 1047,,0
-1048,,1
+1048, ct,2
 1049, thyroid nodul cancer scan,5
 1050, arthriti,2
 1051,,1
@@ -1079,13 +1079,13 @@
 1078,,0
 1079, canal root,3
 1080, pregnanc,2
-1081,,1
+1081, asthma,2
 1082,,1
 1083,,1
 1084,,1
 1085,,1
 1086, allergi,2
-1087, radiolog cancer,3
+1087, radiolog mammogram cancer,4
 1088,,1
 1089, neck,2
 1090, obes,2
@@ -1097,28 +1097,28 @@
 1096, headach pain back,4
 1097,prevent,1
 1098,,1
-1099, tunnel pain syndrom,4
+1099, tunnel carpal pain syndrom,5
 1100, lung cancer,3
 1101,,1
 1102,,1
 1103,,0
 1104,,1
-1105, apnea,2
+1105, sleep apnea,3
 1106,,1
 1107,,1
 1108,,1
 1109,,1
 1110,,0
-1111, occipit,2
+1111, migrain occipit,3
 1112,,1
-1113, better injuri activ,4
+1113, better injuri activ care,5
 1114,,1
 1115, pain,2
 1116,,1
 1117, injuri,2
 1118, pain facial tooth,4
 1119,,1
-1120, nasal septum,3
+1120, nasal deviat septum,4
 1121,,1
 1122,,1
 1123, arthriti,2
@@ -1131,17 +1131,17 @@
 1130, holist,2
 1131, swell ankl,3
 1132,,1
-1133,,0
-1134,tooth,1
+1133,asthma,1
+1134,wisdom tooth,2
 1135,,0
-1136, nasal septum,3
+1136, nasal deviat septum,4
 1137,,1
 1138, pain,2
 1139,,1
 1140,,1
 1141,,1
 1142, abscess,2
-1143,,1
+1143, tmj,2
 1144, tooth,2
 1145, arthriti psoriat,3
 1146, std vagin,3
@@ -1162,22 +1162,22 @@
 1161, dental,2
 1162, maxillofaci oral,3
 1163, tooth,2
-1164,,1
+1164, ct,2
 1165,,1
 1166,,1
 1167, tooth,2
 1168, care,2
 1169,,1
-1170, infect pneumonia,3
+1170, pneumonia infect,3
 1171, allergi,2
-1172, headach pain syndrom,4
-1173,,1
+1172, headach tmj pain syndrom,5
+1173, tmj,2
 1174, insomnia sleep exercis,4
 1175,,1
 1176,,1
 1177, pet mri breast ct,5
 1178,,0
-1179, headach 1179,tmj disord pain,5
+1179, headach tmj disord pain,5
 1180,,0
 1181,foot,1
 1182,,0
@@ -1189,7 +1189,7 @@
 1188,knee surgeri,2
 1189,,1
 1190,,1
-1191,,1
+1191, tendon,2
 1192,infect,1
 1193,,1
 1194,,1
@@ -1204,7 +1204,7 @@
 1203,,1
 1204,,1
 1205,,1
-1206,tooth,1
+1206,wisdom tooth,2
 1207,,1
 1208, acn,2
 1209,,0
@@ -1215,10 +1215,10 @@
 1214,,0
 1215,,1
 1216,,1
-1217,canal  tooth abscess,4
+1217,canal  tooth root abscess,5
 1218,,0
 1219,,1
-1220, infect asthma,3
+1220, infect asthma pneumonia,4
 1221,,0
 1222,,0
 1223, enlarg pain cancer breast mammogram needl,7
@@ -1228,7 +1228,7 @@
 1227,,0
 1228,,1
 1229,,0
-1230, headach pain syndrom,4
+1230, headach tmj pain syndrom,5
 1231,,1
 1232,,1
 1233,,1
@@ -1243,17 +1243,17 @@
 1242,,1
 1243,,0
 1244, arteri surgeon venous vascular,5
-1245,,1
+1245, child,2
 1246,,0
 1247,,1
 1248, health,2
-1249, heart attack arteri coronari,5
+1249, heart arteri attack cardiac coronari,6
 1250,,1
 1251, std hiv,3
 1252, emerg,2
 1253, surgeri,2
 1254, care,2
-1255,,0
+1255,wisdom,1
 1256, headach pain,3
 1257,,1
 1258, test,2
@@ -1263,14 +1263,14 @@
 1262, hair scar cancer,4
 1263, lung cancer,3
 1264,,1
-1265, radiolog cancer,3
+1265, radiolog mammogram cancer,4
 1266, knee pain orthoped,4
 1267, infect,2
-1268,,1
+1268, prevent,2
 1269, ear vertigo,3
 1270, ovarian cancer hereditari,4
 1271, health,2
-1272, tunnel carpal hand wrist 1272,carpal,6
+1272, tunnel carpal wrist hand,5
 1273,,1
 1274,,1
 1275,,1
@@ -1286,7 +1286,7 @@
 1285,,0
 1286, diabet neuropathi,3
 1287, heart,2
-1288, tunnel carpal hand 1288,carpal wrist,6
+1288, tunnel carpal wrist hand,5
 1289, sprain neuropathi,3
 1290,,1
 1291, teeth,2
@@ -1312,8 +1312,8 @@
 1311,,1
 1312, mammogram breast,3
 1313,,0
-1314, tunnel pain syndrom,4
-1315, 1315,multipl sclerosi diseas,4
+1314, tunnel carpal pain syndrom,5
+1315, sclerosi diseas multipl,4
 1316,,1
 1317,,1
 1318, arteri,2
@@ -1321,7 +1321,7 @@
 1320, mammogram breast cancer skin,5
 1321, therapi,2
 1322, cancer ct,3
-1323, foot,2
+1323, foot diabet,3
 1324,,1
 1325, therapi,2
 1326,,1
@@ -1337,7 +1337,7 @@
 1336,,1
 1337, outpati,2
 1338,,1
-1339, venous vein varicos,4
+1339, venous varicos vein,4
 1340,,1
 1341,,0
 1342, arteri,2
@@ -1364,7 +1364,7 @@
 1363,,1
 1364, neuropathi,2
 1365,,0
-1366, cancer,2
+1366, breast cancer,3
 1367, defici vitamin b12 acid holist,6
 1368,,1
 1369,,1
@@ -1397,7 +1397,7 @@
 1396,,1
 1397, mammogram breast cancer skin,5
 1398,,1
-1399,,0
+1399,depress,1
 1400, cancer,2
 1401, arthriti,2
 1402,,1
@@ -1415,13 +1415,13 @@
 1414, cancer,2
 1415,,1
 1416, spine nerv,3
-1417,,1
+1417, foot,2
 1418,,1
 1419,,1
-1420,,1
+1420, tooth,2
 1421,,0
 1422,,1
-1423, 1423,allergi,2
+1423, allergi,2
 1424,,1
 1425,,1
 1426, periodont,2
@@ -1448,7 +1448,7 @@
 1447, cancer,2
 1448,,1
 1449,,1
-1450,,0
+1450,wisdom,1
 1451, sore,2
 1452, child,2
 1453, teeth gum tooth,4
@@ -1462,7 +1462,7 @@
 1461,,1
 1462,,0
 1463,,0
-1464, apnea sleep,3
+1464, sleep apnea,3
 1465,,1
 1466, diseas,2
 1467,,1
@@ -1513,7 +1513,7 @@
 1512,,1
 1513, cancer,2
 1514,,0
-1515,,1
+1515, child,2
 1516,,1
 1517, pain tooth,3
 1518, ovarian cancer hereditari,4
@@ -1526,7 +1526,7 @@
 1525,,1
 1526,,1
 1527, foot injuri sprain care,5
-1528,,0
+1528,wisdom,1
 1529,,1
 1530, mammogram breast cancer skin,5
 1531,,1
@@ -1554,7 +1554,7 @@
 1553, lung cancer,3
 1554, brain head tumor radiat,5
 1555, spine pain nerv,4
-1556, rectal colon colonoscopi,4
+1556, rectal hemorrhoid colon colonoscopi,5
 1557,,1
 1558,,1
 1559,,1
@@ -1572,7 +1572,7 @@
 1571,,1
 1572, diseas vascular,3
 1573, sleep,2
-1574, manic disord,3
+1574, manic bipolar disord,4
 1575,,1
 1576, venous vein varicos,4
 1577,,1
@@ -1596,7 +1596,7 @@
 1595,,1
 1596, foot,2
 1597,,0
-1598,,1
+1598, ct,2
 1599,,1
 1600,,1
 1601, infertil,2
@@ -1631,12 +1631,12 @@
 1630, pain,2
 1631,,0
 1632,,1
-1633, headach pain syndrom,4
+1633, headach tmj pain syndrom,5
 1634,,0
 1635,,1
 1636, teeth,2
 1637, headach,2
-1638,,1
+1638, tendon,2
 1639, gallbladd,2
 1640,,1
 1641,,1
@@ -1651,7 +1651,7 @@
 1650,,1
 1651,,1
 1652, pregnanc,2
-1653, 1653,allergi,2
+1653, allergi,2
 1654,,0
 1655, diabet,2
 1656,,1
@@ -1698,21 +1698,21 @@
 1697,,1
 1698,,1
 1699,,1
-1700, tooth,2
+1700, wisdom tooth,3
 1701,,0
 1702,,0
 1703, headach pain,3
 1704,,0
 1705,,1
 1706, surgeri cataract,3
-1707, retin retina eye vitrectomi,5
+1707, retin eye vitrectomi surgeri retina detach,7
 1708, cancer,2
 1709, lung cancer,3
 1710, cervic cancer,3
 1711, surgeri,2
 1712,,0
 1713, thyroid gland,3
-1714, rectal colon colonoscopi,4
+1714, rectal hemorrhoid colon colonoscopi,5
 1715, heart,2
 1716,,1
 1717, dementia,2
@@ -1722,23 +1722,23 @@
 1721, thyroid cancer,3
 1722,,0
 1723, dental,2
-1724,,1
+1724, tendon,2
 1725, diseas pain diabet arteri breath chest coronari,8
-1726,,1
+1726, circumcis,2
 1727, lung cancer ct,4
 1728,,1
 1729,,0
 1730,,1
 1731,,1
-1732,infect,1
+1732,infect skin,2
 1733,,0
 1734, tumor,2
-1735, better injuri activ,4
+1735, better injuri activ care,5
 1736, surgeri cataract,3
 1737,,1
 1738, immun,2
 1739, chemotherapi breast cancer,4
-1740,,1
+1740, ct,2
 1741, xray procedur,3
 1742, surgeri,2
 1743,,0
@@ -1749,7 +1749,7 @@
 1748, teeth,2
 1749,,0
 1750, fusion pain,3
-1751, retin retina eye vitrectomi,5
+1751, retin eye vitrectomi surgeri retina detach,7
 1752,,1
 1753,,1
 1754,,1
@@ -1758,7 +1758,7 @@
 1757, pain orthoped,3
 1758, care,2
 1759, outpati,2
-1760, surgeri lift,3
+1760, hernia surgeri lift,4
 1761, eyelid blepharoplasti eye surgeri,5
 1762,,0
 1763,,0
@@ -1766,9 +1766,9 @@
 1765,,0
 1766, test,2
 1767,,1
-1768, cornea corneal,3
+1768, lasik cornea corneal,4
 1769,,0
-1770, 1770,sleep apnea dental,4
+1770, sleep dental apnea,4
 1771, arteri,2
 1772, implant breast,3
 1773, cancer radiat,3
@@ -1791,7 +1791,7 @@
 1790,,1
 1791, lung cancer,3
 1792, nodul cancer,3
-1793, prevent,2
+1793, prevent asthma,3
 1794, diabet,2
 1795, tear exam,3
 1796,,1
@@ -1802,7 +1802,7 @@
 1801, sore,2
 1802, lung cancer,3
 1803,,1
-1804, headach pain syndrom,4
+1804, headach tmj pain syndrom,5
 1805, allergi,2
 1806,,1
 1807,,1
@@ -1811,7 +1811,7 @@
 1810,,1
 1811,,1
 1812,,1
-1813, venous vein varicos,4
+1813, venous varicos vein,4
 1814, surgeri cosmet,3
 1815,,0
 1816, pain,2
@@ -1823,7 +1823,7 @@
 1822,,1
 1823, pain orthoped,3
 1824, eye,2
-1825,,0
+1825,skin,1
 1826, rash,2
 1827,,0
 1828,,1
@@ -1842,7 +1842,7 @@
 1841, arthriti,2
 1842,,1
 1843,,0
-1844,,1
+1844, depress,2
 1845,,0
 1846,,0
 1847,,1
@@ -1850,7 +1850,7 @@
 1849,,1
 1850, injuri,2
 1851, infect,2
-1852,tooth,1
+1852,wisdom tooth,2
 1853,,1
 1854, diabet neuropathi,3
 1855, pregnanc,2
@@ -1876,10 +1876,10 @@
 1875,,0
 1876,,0
 1877, sleep apnea,3
-1878,,1
-1879,,1
+1878, cancer,2
+1879, foot,2
 1880, knee pain orthoped,4
-1881, retin retina eye vitrectomi,5
+1881, retin eye vitrectomi surgeri retina detach,7
 1882, surgeri,2
 1883, diseas alzheim,3
 1884, problem,2
@@ -1913,7 +1913,7 @@
 1912, eye,2
 1913, len,2
 1914,,0
-1915,,1
+1915, tmj,2
 1916,,1
 1917,,1
 1918, low,2
@@ -1929,7 +1929,7 @@
 1928, eye,2
 1929, lung cancer,3
 1930, weak,2
-1931, nasal,2
+1931, deviat nasal,3
 1932,,1
 1933,,1
 1934,,1
